@@ -1,0 +1,27 @@
+# --- Secrets ---
+.env
+*.env.local
+
+# --- Python ---
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Node / frontend ---
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+*.local
+
+# --- soccerdata / Selenium scraping artifacts ---
+driver_fixing.lock
+downloaded_files/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
