@@ -1,3 +1,16 @@
-requests
+# Core data handling
 pandas
+requests
+
+# Step 1 — squad PDF parsing (fetch_squads.py)
+pdfplumber
+
+# Step 2 — FBref stat fetching (fbref_fetchers.py); drives headless Chrome via Selenium
+soccerdata
+
+# Step 3b — fuzzy player-name matching (upcoming, matching.py Stage 2)
+rapidfuzz
+
+# NOTE: scikit-learn is listed but not currently imported anywhere in the code.
+# Kept for now in case Step 6 scoring uses it; drop if it stays unused.
 scikit-learn
