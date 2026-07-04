@@ -1,0 +1,605 @@
+league,season,team,player,nation,pos,age,born,90s,standard_gls,standard_sh,standard_sot,standard_sot%,standard_sh/90,standard_sot/90,standard_g/sh,standard_g/sot,standard_pk,standard_pkatt
+INT-World Cup,2018,Argentina,Cristian Pavón,Argentina,FW,22,1996,1.7,0,1,0,0.0,0.58,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Eduardo Salvio,Argentina,"MF,DF",27,1990,1.6,0,1,0,0.0,0.62,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Enzo Pérez,Argentina,MF,32,1986,2.1,0,1,0,0.0,0.47,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Federico Fazio,Argentina,DF,31,1987,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Argentina,Franco Armani,Argentina,GK,31,1986,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Argentina,Gabriel Mercado,Argentina,DF,31,1987,3.0,1,1,1,100.0,0.33,0.33,1.0,1.0,0,0
+INT-World Cup,2018,Argentina,Gonzalo Higuaín,Argentina,FW,30,1987,1.5,0,3,2,66.7,2.01,1.34,0.0,0.0,0,0
+INT-World Cup,2018,Argentina,Javier Mascherano,Argentina,MF,34,1984,4.0,0,1,1,100.0,0.25,0.25,0.0,0.0,0,0
+INT-World Cup,2018,Argentina,Lionel Messi,Argentina,"FW,MF",30,1987,4.0,1,18,6,33.3,4.5,1.5,0.06,0.17,0,1
+INT-World Cup,2018,Argentina,Lucas Biglia,Argentina,MF,32,1986,0.6,0,2,0,0.0,3.4,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Marcos Acuña,Argentina,MF,26,1991,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Marcos Rojo,Argentina,DF,28,1990,2.5,1,3,1,33.3,1.2,0.4,0.33,1.0,0,0
+INT-World Cup,2018,Argentina,Maximiliano Meza,Argentina,"MF,FW",25,1992,2.3,0,3,1,33.3,1.3,0.43,0.0,0.0,0,0
+INT-World Cup,2018,Argentina,Nicolás Otamendi,Argentina,DF,30,1988,4.0,0,4,1,25.0,1.0,0.25,0.0,0.0,0,0
+INT-World Cup,2018,Argentina,Nicolás Tagliafico,Argentina,DF,25,1992,3.9,0,3,0,0.0,0.77,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Paulo Dybala,Argentina,"FW,MF",24,1993,0.3,0,1,0,0.0,3.91,0.0,0.0,,0,0
+INT-World Cup,2018,Argentina,Sergio Agüero,Argentina,FW,30,1988,2.0,2,6,3,50.0,3.02,1.51,0.33,0.67,0,0
+INT-World Cup,2018,Argentina,Willy Caballero,Argentina,GK,36,1981,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Argentina,Ángel Di María,Argentina,"MF,FW",30,1988,2.6,1,3,1,33.3,1.15,0.38,0.33,1.0,0,0
+INT-World Cup,2018,Argentina,Éver Banega,Argentina,MF,29,1988,2.4,0,3,1,33.3,1.24,0.41,0.0,0.0,0,0
+INT-World Cup,2018,Australia,Aaron Mooy,Australia,MF,27,1990,3.0,0,3,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Australia,Andrew Nabbout,Australia,FW,25,1992,1.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Australia,Aziz Behich,Australia,DF,27,1990,3.0,0,2,0,0.0,0.67,0.0,0.0,,0,0
+INT-World Cup,2018,Australia,Daniel Arzani,Australia,"FW,MF",19,1999,0.7,0,2,1,50.0,2.86,1.43,0.0,0.0,0,0
+INT-World Cup,2018,Australia,Jackson Irvine,Australia,"DF,MF",25,1993,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Australia,Josh Risdon,Australia,DF,25,1992,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Australia,Mark Milligan,Australia,DF,32,1985,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Australia,Mathew Leckie,Australia,"FW,MF",27,1991,3.0,0,9,1,11.1,3.0,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Australia,Mathew Ryan,Australia,GK,26,1992,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Australia,Mile Jedinak,Australia,MF,33,1984,3.0,2,6,3,50.0,2.0,1.0,0.0,0.0,2,2
+INT-World Cup,2018,Australia,Robbie Kruse,Australia,"FW,MF",29,1988,2.3,0,1,0,0.0,0.43,0.0,0.0,,0,0
+INT-World Cup,2018,Australia,Tim Cahill,Australia,"FW,MF",38,1979,0.4,0,2,0,0.0,4.74,0.0,0.0,,0,0
+INT-World Cup,2018,Australia,Tom Rogić,Australia,MF,25,1992,2.5,0,5,2,40.0,2.02,0.81,0.0,0.0,0,0
+INT-World Cup,2018,Australia,Tomi Juric,Australia,FW,26,1991,1.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Australia,Trent Sainsbury,Australia,DF,26,1992,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Belgium,Adnan Januzaj,Belgium,FW,23,1995,0.9,1,4,1,25.0,4.24,1.06,0.25,1.0,0,0
+INT-World Cup,2018,Belgium,Axel Witsel,Belgium,MF,29,1989,6.0,0,6,1,16.7,1.0,0.17,0.0,0.0,0,0
+INT-World Cup,2018,Belgium,Dedryck Boyata,Belgium,DF,27,1990,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Belgium,Dries Mertens,Belgium,FW,31,1987,3.3,1,7,4,57.1,2.11,1.21,0.14,0.25,0,0
+INT-World Cup,2018,Belgium,Eden Hazard,Belgium,FW,27,1991,5.7,3,17,6,35.3,2.96,1.04,0.12,0.33,1,1
+INT-World Cup,2018,Belgium,Jan Vertonghen,Belgium,DF,31,1987,6.0,1,2,2,100.0,0.33,0.33,0.5,0.5,0,0
+INT-World Cup,2018,Belgium,Kevin De Bruyne,Belgium,"MF,FW",26,1991,6.0,1,13,4,30.8,2.17,0.67,0.08,0.25,0,0
+INT-World Cup,2018,Belgium,Leander Dendoncker,Belgium,DF,23,1995,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Belgium,Marouane Fellaini,Belgium,MF,30,1987,3.5,1,5,1,20.0,1.42,0.28,0.2,1.0,0,0
+INT-World Cup,2018,Belgium,Michy Batshuayi,Belgium,FW,24,1993,1.3,1,8,4,50.0,6.32,3.16,0.13,0.25,0,0
+INT-World Cup,2018,Belgium,Mousa Dembélé,Belgium,MF,30,1987,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Belgium,Nacer Chadli,Belgium,MF,28,1989,3.6,1,3,2,66.7,0.83,0.55,0.33,0.5,0,0
+INT-World Cup,2018,Belgium,Romelu Lukaku,Belgium,FW,25,1993,5.3,4,13,5,38.5,2.47,0.95,0.31,0.8,0,0
+INT-World Cup,2018,Belgium,Thibaut Courtois,Belgium,GK,26,1992,7.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Belgium,Thomas Meunier,Belgium,MF,26,1991,5.0,1,6,3,50.0,1.2,0.6,0.17,0.33,0,0
+INT-World Cup,2018,Belgium,Thomas Vermaelen,Belgium,DF,32,1985,1.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Belgium,Thorgan Hazard,Belgium,MF,25,1993,1.1,0,3,0,0.0,2.76,0.0,0.0,,0,0
+INT-World Cup,2018,Belgium,Toby Alderweireld,Belgium,DF,29,1989,6.0,0,5,1,20.0,0.83,0.17,0.0,0.0,0,0
+INT-World Cup,2018,Belgium,Vincent Kompany,Belgium,DF,32,1986,4.2,0,4,1,25.0,0.95,0.24,0.0,0.0,0,0
+INT-World Cup,2018,Belgium,Yannick Carrasco,Belgium,MF,24,1993,2.6,0,6,4,66.7,2.27,1.51,0.0,0.0,0,0
+INT-World Cup,2018,Belgium,Youri Tielemans,Belgium,"MF,FW",21,1997,2.0,0,4,1,25.0,2.05,0.51,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Alisson,Brazil,GK,25,1992,5.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Brazil,Casemiro,Brazil,MF,26,1992,3.7,0,4,2,50.0,1.09,0.55,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Danilo,Brazil,DF,26,1991,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Brazil,Douglas Costa,Brazil,"FW,MF",27,1990,0.9,0,4,3,75.0,4.62,3.46,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Fagner,Brazil,DF,29,1989,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Brazil,Fernandinho,Brazil,MF,33,1985,1.8,0,3,0,0.0,1.71,0.0,0.0,,0,0
+INT-World Cup,2018,Brazil,Filipe Luís,Brazil,DF,32,1985,1.9,0,1,1,100.0,0.53,0.53,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Gabriel Jesus,Brazil,FW,21,1997,4.5,0,9,1,11.1,2.0,0.22,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Marcelo,Brazil,DF,30,1988,3.1,0,5,2,40.0,1.61,0.65,0.0,0.0,0,0
+INT-World Cup,2018,Brazil,Marquinhos,Brazil,"DF,MF",24,1994,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Brazil,Miranda,Brazil,DF,33,1984,5.0,0,1,0,0.0,0.2,0.0,0.0,,0,0
+INT-World Cup,2018,Brazil,Neymar,Brazil,MF,26,1992,5.0,2,26,13,50.0,5.2,2.6,0.08,0.15,0,0
+INT-World Cup,2018,Brazil,Paulinho,Brazil,MF,29,1988,3.9,1,6,3,50.0,1.55,0.77,0.17,0.33,0,0
+INT-World Cup,2018,Brazil,Philippe Coutinho,Brazil,MF,26,1992,4.8,2,23,8,34.8,4.77,1.66,0.09,0.25,0,0
+INT-World Cup,2018,Brazil,Renato Augusto,Brazil,MF,30,1988,0.6,1,3,2,66.7,5.09,3.4,0.33,0.5,0,0
+INT-World Cup,2018,Brazil,Roberto Firmino,Brazil,"FW,MF",26,1991,0.9,1,7,2,28.6,7.41,2.12,0.14,0.5,0,0
+INT-World Cup,2018,Brazil,Thiago Silva,Brazil,DF,33,1984,5.0,1,7,1,14.3,1.4,0.2,0.14,1.0,0,0
+INT-World Cup,2018,Brazil,Willian,Brazil,MF,29,1988,4.0,0,5,2,40.0,1.25,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Colombia,Abel Aguilar,Colombia,MF,33,1985,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Carlos Bacca,Colombia,FW,31,1986,1.0,0,2,0,0.0,1.91,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,Carlos Sánchez,Colombia,MF,32,1986,1.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Cristián Zapata,Colombia,DF,31,1986,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,David Ospina,Colombia,GK,29,1988,4.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Davinson Sánchez,Colombia,DF,22,1996,4.3,0,2,0,0.0,0.46,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,James Rodríguez,Colombia,MF,26,1991,1.7,0,3,0,0.0,1.78,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,Jefferson Lerma,Colombia,MF,23,1994,2.0,0,1,0,0.0,0.51,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,Johan Mojica,Colombia,DF,25,1992,4.3,0,1,0,0.0,0.23,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,José Izquierdo,Colombia,MF,25,1992,0.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Juan Cuadrado,Colombia,MF,30,1988,3.7,1,6,1,16.7,1.64,0.27,0.17,1.0,0,0
+INT-World Cup,2018,Colombia,Juan Quintero,Colombia,MF,25,1993,3.4,1,8,3,37.5,2.35,0.88,0.13,0.33,0,0
+INT-World Cup,2018,Colombia,Luis Muriel,Colombia,FW,27,1991,1.0,0,1,0,0.0,0.97,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,Mateus Uribe,Colombia,MF,27,1991,2.0,0,2,2,100.0,0.98,0.98,0.0,0.0,0,0
+INT-World Cup,2018,Colombia,Miguel Borja,Colombia,FW,25,1993,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Radamel Falcao,Colombia,FW,32,1986,4.2,1,8,4,50.0,1.92,0.96,0.13,0.25,0,0
+INT-World Cup,2018,Colombia,Santiago Arias,Colombia,DF,26,1992,4.3,0,1,0,0.0,0.23,0.0,0.0,,0,0
+INT-World Cup,2018,Colombia,Wílmar Barrios,Colombia,MF,24,1993,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Colombia,Yerry Mina,Colombia,DF,23,1994,3.3,3,3,3,100.0,0.9,0.9,1.0,1.0,0,0
+INT-World Cup,2018,Colombia,Óscar Murillo,Colombia,DF,30,1988,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Costa Rica,Bryan Oviedo,Costa Rica,DF,28,1990,2.0,0,3,1,33.3,1.5,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Bryan Ruiz,Costa Rica,FW,32,1985,3.0,0,2,0,0.0,0.67,0.0,0.0,,0,1
+INT-World Cup,2018,Costa Rica,Celso Borges,Costa Rica,MF,30,1988,3.0,0,5,2,40.0,1.67,0.67,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Christian Bolaños,Costa Rica,MF,34,1984,0.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Cristian Gamboa,Costa Rica,DF,28,1989,2.8,0,3,2,66.7,1.07,0.71,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Daniel Colindres,Costa Rica,FW,33,1985,1.1,0,3,0,0.0,2.76,0.0,0.0,,0,0
+INT-World Cup,2018,Costa Rica,David Guzmán,Costa Rica,MF,28,1990,2.7,0,1,0,0.0,0.37,0.0,0.0,,0,0
+INT-World Cup,2018,Costa Rica,Francisco Calvo,Costa Rica,DF,25,1992,1.2,0,1,0,0.0,0.85,0.0,0.0,,0,0
+INT-World Cup,2018,Costa Rica,Giancarlo González,Costa Rica,DF,30,1988,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Ian Smith,Costa Rica,MF,20,1998,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Joel Campbell,Costa Rica,FW,25,1992,1.3,0,3,1,33.3,2.35,0.78,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Johan Venegas,Costa Rica,FW,29,1988,1.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Johnny Acosta,Costa Rica,DF,34,1983,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Kendall Waston,Costa Rica,DF,30,1988,1.0,1,1,1,100.0,1.0,1.0,1.0,1.0,0,0
+INT-World Cup,2018,Costa Rica,Keylor Navas,Costa Rica,GK,31,1986,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Marco Ureña,Costa Rica,FW,28,1990,1.3,0,2,1,50.0,1.53,0.76,0.0,0.0,0,0
+INT-World Cup,2018,Costa Rica,Randall Azofeifa,Costa Rica,MF,33,1984,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Rodney Wallace,Costa Rica,"DF,MF",29,1988,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Yeltsin Tejeda,Costa Rica,MF,26,1992,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Costa Rica,Óscar Duarte,Costa Rica,DF,29,1989,2.0,0,2,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Croatia,Andrej Kramarić,Croatia,"MF,FW",26,1991,3.7,1,11,2,18.2,2.96,0.54,0.09,0.5,0,0
+INT-World Cup,2018,Croatia,Ante Rebić,Croatia,MF,24,1993,6.0,1,16,6,37.5,2.65,0.99,0.06,0.17,0,0
+INT-World Cup,2018,Croatia,Danijel Subašić,Croatia,GK,33,1984,7.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Dejan Lovren,Croatia,DF,28,1989,7.2,0,6,0,0.0,0.83,0.0,0.0,,0,0
+INT-World Cup,2018,Croatia,Domagoj Vida,Croatia,DF,29,1989,7.0,1,3,1,33.3,0.43,0.14,0.33,1.0,0,0
+INT-World Cup,2018,Croatia,Duje Ćaleta-Car,Croatia,DF,21,1996,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Filip Bradarić,Croatia,MF,26,1992,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Ivan Perišić,Croatia,MF,29,1989,7.0,3,22,4,18.2,3.15,0.57,0.14,0.75,0,0
+INT-World Cup,2018,Croatia,Ivan Rakitić,Croatia,MF,30,1988,7.1,1,15,4,26.7,2.11,0.56,0.07,0.25,0,0
+INT-World Cup,2018,Croatia,Ivan Strinić,Croatia,DF,30,1987,5.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Josip Pivarić,Croatia,DF,29,1989,2.3,0,2,0,0.0,0.89,0.0,0.0,,0,0
+INT-World Cup,2018,Croatia,Lovre Kalinić,Croatia,GK,28,1990,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Luka Modrić,Croatia,MF,32,1985,7.7,2,11,4,36.4,1.43,0.52,0.09,0.25,1,2
+INT-World Cup,2018,Croatia,Marcelo Brozović,Croatia,MF,25,1992,5.1,0,4,1,25.0,0.78,0.2,0.0,0.0,0,0
+INT-World Cup,2018,Croatia,Mario Mandžukić,Croatia,FW,32,1986,6.7,3,12,5,41.7,1.79,0.74,0.25,0.6,0,0
+INT-World Cup,2018,Croatia,Marko Pjaca,Croatia,MF,23,1995,0.9,0,1,0,0.0,1.08,0.0,0.0,,0,0
+INT-World Cup,2018,Croatia,Mateo Kovačić,Croatia,MF,24,1994,2.1,0,4,1,25.0,1.95,0.49,0.0,0.0,0,0
+INT-World Cup,2018,Croatia,Milan Badelj,Croatia,MF,29,1989,1.2,1,2,1,50.0,1.7,0.85,0.5,1.0,0,0
+INT-World Cup,2018,Croatia,Tin Jedvaj,Croatia,DF,22,1995,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Vedran Ćorluka,Croatia,DF,32,1986,1.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Croatia,Šime Vrsaljko,Croatia,DF,26,1992,6.7,0,5,0,0.0,0.74,0.0,0.0,,0,0
+INT-World Cup,2018,Denmark,Andreas Christensen,Denmark,"DF,MF",22,1996,3.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Andreas Cornelius,Denmark,FW,25,1993,1.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Christian Eriksen,Denmark,MF,26,1992,4.3,1,11,3,27.3,2.54,0.69,0.09,0.33,0,0
+INT-World Cup,2018,Denmark,Henrik Dalsgaard,Denmark,DF,28,1989,4.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Jens Stryger Larsen,Denmark,DF,27,1991,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Denmark,Jonas Knudsen,Denmark,DF,25,1992,1.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Kasper Dolberg,Denmark,FW,20,1997,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Kasper Schmeichel,Denmark,GK,31,1986,4.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Lasse Schöne,Denmark,MF,32,1986,2.5,0,4,1,25.0,1.63,0.41,0.0,0.0,0,0
+INT-World Cup,2018,Denmark,Lukas Lerager,Denmark,MF,24,1993,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Martin Braithwaite,Denmark,FW,27,1991,2.8,0,4,2,50.0,1.43,0.72,0.0,0.0,0,0
+INT-World Cup,2018,Denmark,Mathias Jørgensen,Denmark,"MF,DF",28,1990,2.4,1,1,1,100.0,0.41,0.41,1.0,1.0,0,0
+INT-World Cup,2018,Denmark,Michael Krohn-Dehli,Denmark,"FW,MF",35,1983,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Nicolai Jørgensen,Denmark,FW,27,1991,2.4,0,4,1,25.0,1.7,0.42,0.0,0.0,0,0
+INT-World Cup,2018,Denmark,Pione Sisto,Denmark,"MF,FW",23,1995,2.6,0,4,1,25.0,1.57,0.39,0.0,0.0,0,0
+INT-World Cup,2018,Denmark,Simon Kjær,Denmark,DF,29,1989,4.3,0,1,0,0.0,0.23,0.0,0.0,,0,0
+INT-World Cup,2018,Denmark,Thomas Delaney,Denmark,MF,26,1991,4.1,0,4,0,0.0,0.98,0.0,0.0,,0,0
+INT-World Cup,2018,Denmark,Viktor Fischer,Denmark,"FW,MF",24,1994,0.3,0,1,0,0.0,2.9,0.0,0.0,,0,0
+INT-World Cup,2018,Denmark,William Kvist,Denmark,MF,33,1985,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Denmark,Yussuf Poulsen,Denmark,"MF,FW",23,1994,3.0,1,2,1,50.0,0.67,0.34,0.5,1.0,0,0
+INT-World Cup,2018,Egypt,Abdallah Said,Egypt,MF,32,1985,2.5,0,2,0,0.0,0.8,0.0,0.0,,0,0
+INT-World Cup,2018,Egypt,Ahmed Fathy,Egypt,DF,33,1984,3.0,0,1,1,100.0,0.33,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Egypt,Ahmed Hegazi,Egypt,DF,27,1991,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Ali Gabr,Egypt,DF,29,1989,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Egypt,Amr Warda,Egypt,MF,24,1993,1.7,0,2,0,0.0,1.17,0.0,0.0,,0,0
+INT-World Cup,2018,Egypt,Essam El-Hadary,Egypt,GK,45,1973,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Kahraba,Egypt,"FW,MF",24,1994,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Marwan Mohsen,Egypt,FW,29,1989,2.3,0,3,1,33.3,1.31,0.44,0.0,0.0,0,0
+INT-World Cup,2018,Egypt,Mohamed Abdel-Shafy,Egypt,DF,32,1985,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Mohamed El-Shenawy,Egypt,GK,29,1988,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Mohamed Elneny,Egypt,MF,25,1992,2.7,0,3,0,0.0,1.11,0.0,0.0,,0,0
+INT-World Cup,2018,Egypt,Mohamed Salah,Egypt,"MF,FW",25,1992,2.0,2,6,2,33.3,3.0,1.0,0.17,0.5,1,1
+INT-World Cup,2018,Egypt,Ramadan Sobhi,Egypt,MF,21,1997,0.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Sam Morsy,Egypt,MF,26,1991,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Egypt,Tarek Hamed,Egypt,MF,29,1988,2.5,0,2,0,0.0,0.79,0.0,0.0,,0,0
+INT-World Cup,2018,Egypt,Trézéguet,Egypt,"MF,FW",23,1994,2.6,0,8,1,12.5,3.04,0.38,0.0,0.0,0,0
+INT-World Cup,2018,England,Ashley Young,England,MF,32,1985,5.1,0,2,1,50.0,0.39,0.2,0.0,0.0,0,0
+INT-World Cup,2018,England,Danny Rose,England,MF,27,1990,2.3,0,1,0,0.0,0.44,0.0,0.0,,0,0
+INT-World Cup,2018,England,Danny Welbeck,England,"FW,MF",27,1990,0.1,0,2,1,50.0,15.0,7.5,0.0,0.0,0,0
+INT-World Cup,2018,England,Dele Alli,England,MF,22,1996,4.0,1,5,3,60.0,1.24,0.75,0.2,0.33,0,0
+INT-World Cup,2018,England,Eric Dier,England,MF,24,1994,2.8,0,5,2,40.0,1.79,0.72,0.0,0.0,0,0
+INT-World Cup,2018,England,Fabian Delph,England,MF,28,1989,2.5,0,3,1,33.3,1.22,0.41,0.0,0.0,0,0
+INT-World Cup,2018,England,Gary Cahill,England,DF,32,1985,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,England,Harry Kane,England,FW,24,1993,6.4,6,14,6,42.9,2.2,0.94,0.21,0.5,3,3
+INT-World Cup,2018,England,Harry Maguire,England,DF,25,1993,7.2,1,11,3,27.3,1.53,0.42,0.09,0.33,0,0
+INT-World Cup,2018,England,Jamie Vardy,England,FW,31,1987,1.8,0,2,0,0.0,1.13,0.0,0.0,,0,0
+INT-World Cup,2018,England,Jesse Lingard,England,MF,25,1992,5.8,1,17,2,11.8,2.91,0.34,0.06,0.5,0,0
+INT-World Cup,2018,England,John Stones,England,DF,24,1994,7.2,2,6,4,66.7,0.84,0.56,0.33,0.5,0,0
+INT-World Cup,2018,England,Jordan Henderson,England,MF,27,1990,5.3,0,4,1,25.0,0.75,0.19,0.0,0.0,0,0
+INT-World Cup,2018,England,Jordan Pickford,England,GK,24,1994,7.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,England,Kieran Trippier,England,MF,27,1990,6.4,1,3,1,33.3,0.47,0.16,0.33,1.0,0,0
+INT-World Cup,2018,England,Kyle Walker,England,DF,28,1990,5.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,England,Marcus Rashford,England,FW,20,1997,2.2,0,5,2,40.0,2.23,0.89,0.0,0.0,0,0
+INT-World Cup,2018,England,Phil Jones,England,DF,26,1992,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,England,Raheem Sterling,England,FW,23,1994,5.0,0,10,1,10.0,2.0,0.2,0.0,0.0,0,0
+INT-World Cup,2018,England,Ruben Loftus-Cheek,England,MF,22,1996,3.0,0,3,1,33.3,0.99,0.33,0.0,0.0,0,0
+INT-World Cup,2018,England,Trent Alexander-Arnold,England,MF,19,1998,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,France,Antoine Griezmann,France,"MF,FW",27,1991,6.3,4,22,11,50.0,3.5,1.75,0.05,0.09,3,3
+INT-World Cup,2018,France,Benjamin Mendy,France,DF,23,1994,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Benjamin Pavard,France,DF,22,1996,6.0,1,4,2,50.0,0.67,0.33,0.25,0.5,0,0
+INT-World Cup,2018,France,Blaise Matuidi,France,MF,31,1987,3.7,0,6,1,16.7,1.62,0.27,0.0,0.0,0,0
+INT-World Cup,2018,France,Corentin Tolisso,France,MF,23,1994,2.2,0,2,1,50.0,0.92,0.46,0.0,0.0,0,0
+INT-World Cup,2018,France,Djibril Sidibé,France,DF,25,1992,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Florian Thauvin,France,"FW,MF",25,1993,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Hugo Lloris,France,GK,31,1986,6.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Kylian Mbappé,France,"MF,FW",19,1998,5.9,4,8,7,87.5,1.35,1.18,0.5,0.57,0,0
+INT-World Cup,2018,France,Lucas Hernández,France,DF,22,1996,6.5,0,6,1,16.7,0.92,0.15,0.0,0.0,0,0
+INT-World Cup,2018,France,N'Golo Kanté,France,MF,27,1991,6.6,0,1,0,0.0,0.15,0.0,0.0,,0,0
+INT-World Cup,2018,France,Nabil Fekir,France,"FW,MF",24,1993,0.8,0,4,2,50.0,4.86,2.43,0.0,0.0,0,0
+INT-World Cup,2018,France,Olivier Giroud,France,FW,31,1986,6.1,0,14,0,0.0,2.31,0.0,0.0,,0,0
+INT-World Cup,2018,France,Ousmane Dembélé,France,"MF,FW",21,1997,1.8,0,3,0,0.0,1.64,0.0,0.0,,0,0
+INT-World Cup,2018,France,Paul Pogba,France,MF,25,1993,6.0,1,8,3,37.5,1.34,0.5,0.13,0.33,0,0
+INT-World Cup,2018,France,Presnel Kimpembe,France,DF,22,1995,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Raphaël Varane,France,DF,25,1993,7.0,1,4,1,25.0,0.57,0.14,0.25,1.0,0,0
+INT-World Cup,2018,France,Samuel Umtiti,France,DF,24,1993,6.0,1,2,1,50.0,0.33,0.17,0.5,1.0,0,0
+INT-World Cup,2018,France,Steve Mandanda,France,GK,33,1985,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Steven Nzonzi,France,MF,29,1988,1.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,France,Thomas Lemar,France,MF,22,1995,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Germany,Antonio Rüdiger,Germany,DF,25,1993,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Germany,Jonas Hector,Germany,DF,28,1990,1.8,0,2,1,50.0,1.1,0.55,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Joshua Kimmich,Germany,DF,23,1995,3.0,0,3,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Germany,Julian Brandt,Germany,"FW,MF",22,1996,0.2,0,4,1,25.0,16.36,4.09,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Julian Draxler,Germany,MF,24,1993,1.5,0,6,1,16.7,4.0,0.67,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Jérôme Boateng,Germany,DF,29,1988,1.9,0,3,1,33.3,1.58,0.53,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Leon Goretzka,Germany,MF,23,1995,0.7,0,2,1,50.0,2.9,1.45,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Manuel Neuer,Germany,GK,32,1986,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Germany,Marco Reus,Germany,MF,29,1989,2.3,1,6,1,16.7,2.56,0.43,0.17,1.0,0,0
+INT-World Cup,2018,Germany,Mario Gómez,Germany,FW,32,1985,1.0,0,5,3,60.0,5.0,3.0,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Marvin Plattenhardt,Germany,DF,26,1992,0.9,0,1,1,100.0,1.15,1.15,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Mats Hummels,Germany,DF,29,1988,2.0,0,6,2,33.3,3.0,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Mesut Özil,Germany,MF,29,1988,2.0,0,2,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Germany,Niklas Süle,Germany,DF,22,1995,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Germany,Sami Khedira,Germany,MF,31,1987,1.3,0,3,1,33.3,2.33,0.78,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Sebastian Rudy,Germany,MF,28,1990,0.3,0,1,0,0.0,3.0,0.0,0.0,,0,0
+INT-World Cup,2018,Germany,Thomas Müller,Germany,MF,28,1989,2.3,0,4,1,25.0,1.73,0.43,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Timo Werner,Germany,FW,22,1996,2.9,0,7,1,14.3,2.38,0.34,0.0,0.0,0,0
+INT-World Cup,2018,Germany,Toni Kroos,Germany,MF,28,1990,3.0,1,15,5,33.3,5.0,1.67,0.07,0.2,0,0
+INT-World Cup,2018,Germany,İlkay Gündoğan,Germany,MF,27,1990,0.7,0,1,1,100.0,1.5,1.5,0.0,0.0,0,0
+INT-World Cup,2018,IR Iran,Alireza Beiranvand,IR Iran,GK,25,1992,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,IR Iran,Alireza Jahanbakhsh,IR Iran,"MF,FW",24,1993,1.9,0,2,1,50.0,1.06,0.53,0.0,0.0,0,0
+INT-World Cup,2018,IR Iran,Ehsan Hajsafi,IR Iran,"DF,MF",28,1990,2.4,0,2,0,0.0,0.85,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Karim Ansarifard,IR Iran,MF,28,1990,2.0,1,4,1,25.0,2.01,0.5,0.0,0.0,1,1
+INT-World Cup,2018,IR Iran,Majid Hosseini,IR Iran,DF,21,1996,2.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,IR Iran,Masoud Shojaei,IR Iran,MF,34,1984,0.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,IR Iran,Mehdi Taremi,IR Iran,"MF,FW",25,1992,2.3,0,3,0,0.0,1.33,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Milad Mohammadi,IR Iran,"DF,MF",24,1993,0.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,IR Iran,Morteza Pouraliganji,IR Iran,DF,26,1992,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,IR Iran,Omid Ebrahimi,IR Iran,MF,30,1987,2.9,0,1,0,0.0,0.35,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Ramin Rezaeian,IR Iran,DF,28,1990,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Rouzbeh Cheshmi,IR Iran,DF,24,1993,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Saeid Ezatolahi,IR Iran,MF,21,1996,1.8,0,1,1,100.0,0.55,0.55,0.0,0.0,0,0
+INT-World Cup,2018,IR Iran,Saman Ghoddos,IR Iran,"FW,MF",24,1993,0.4,0,2,0,0.0,5.63,0.0,0.0,,0,0
+INT-World Cup,2018,IR Iran,Sardar Azmoun,IR Iran,FW,23,1995,3.0,0,4,1,25.0,1.33,0.33,0.0,0.0,0,0
+INT-World Cup,2018,IR Iran,Vahid Amiri,IR Iran,"FW,MF",30,1988,2.9,0,2,0,0.0,0.68,0.0,0.0,,0,0
+INT-World Cup,2018,Iceland,Albert Guðmundsson,Iceland,"FW,MF",20,1997,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Alfreð Finnbogason,Iceland,FW,29,1989,2.9,1,5,2,40.0,1.72,0.69,0.2,0.5,0,0
+INT-World Cup,2018,Iceland,Ari Freyr Skúlason,Iceland,"DF,MF",31,1987,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Arnór Ingvi Traustason,Iceland,"FW,MF",25,1993,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Aron Gunnarsson,Iceland,MF,29,1989,2.8,0,2,1,50.0,0.72,0.36,0.0,0.0,0,0
+INT-World Cup,2018,Iceland,Birkir Bjarnason,Iceland,MF,30,1988,3.0,0,7,1,14.3,2.34,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Iceland,Birkir Már Sævarsson,Iceland,DF,33,1984,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Björn Sigurðarson,Iceland,FW,27,1991,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Emil Hallfreðsson,Iceland,MF,33,1984,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Iceland,Gylfi Sigurðsson,Iceland,"MF,FW",28,1989,3.0,1,9,5,55.6,3.0,1.67,0.0,0.0,1,2
+INT-World Cup,2018,Iceland,Hannes Þór Halldórsson,Iceland,GK,34,1984,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Hörður Magnússon,Iceland,DF,25,1993,3.0,0,2,0,0.0,0.67,0.0,0.0,,0,0
+INT-World Cup,2018,Iceland,Jóhann Berg Guðmundsson,Iceland,MF,27,1990,1.7,0,3,1,33.3,1.78,0.59,0.0,0.0,0,0
+INT-World Cup,2018,Iceland,Jón Daði Böðvarsson,Iceland,FW,26,1992,0.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Kári Árnason,Iceland,DF,35,1982,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Ragnar Sigurðsson,Iceland,DF,31,1986,2.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Iceland,Rúrik Gíslason,Iceland,MF,30,1988,1.3,0,1,0,0.0,0.76,0.0,0.0,,0,0
+INT-World Cup,2018,Iceland,Sverrir Ingi Ingason,Iceland,DF,24,1993,1.3,0,3,1,33.3,2.33,0.78,0.0,0.0,0,0
+INT-World Cup,2018,Japan,Eiji Kawashima,Japan,GK,35,1983,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Japan,Gaku Shibasaki,Japan,MF,26,1992,3.8,0,1,0,0.0,0.27,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Gen Shoji,Japan,DF,25,1992,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Genki Haraguchi,Japan,MF,27,1991,2.7,1,3,1,33.3,1.11,0.37,0.33,1.0,0,0
+INT-World Cup,2018,Japan,Gōtoku Sakai,Japan,MF,27,1991,1.0,0,1,1,100.0,1.0,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Japan,Hiroki Sakai,Japan,DF,28,1990,4.0,0,2,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Hotaru Yamaguchi,Japan,MF,27,1990,1.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Japan,Keisuke Honda,Japan,"FW,MF",32,1986,0.6,1,4,2,50.0,7.2,3.6,0.25,0.5,0,0
+INT-World Cup,2018,Japan,Makoto Hasebe,Japan,MF,34,1984,3.1,0,1,0,0.0,0.32,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Maya Yoshida,Japan,DF,29,1988,4.0,0,2,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Shinji Kagawa,Japan,MF,29,1989,2.6,1,3,1,33.3,1.17,0.39,0.0,0.0,1,1
+INT-World Cup,2018,Japan,Shinji Okazaki,Japan,MF,32,1986,0.8,0,1,0,0.0,1.32,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Takashi Inui,Japan,MF,30,1988,3.2,2,8,4,50.0,2.47,1.23,0.25,0.5,0,0
+INT-World Cup,2018,Japan,Takashi Usami,Japan,MF,26,1992,0.8,0,3,1,33.3,3.97,1.32,0.0,0.0,0,0
+INT-World Cup,2018,Japan,Tomoaki Makino,Japan,DF,31,1987,1.0,0,2,0,0.0,2.0,0.0,0.0,,0,0
+INT-World Cup,2018,Japan,Yoshinori Mutō,Japan,FW,25,1992,0.9,0,2,1,50.0,2.22,1.11,0.0,0.0,0,0
+INT-World Cup,2018,Japan,Yuya Osako,Japan,FW,28,1990,3.4,1,7,4,57.1,2.05,1.17,0.14,0.25,0,0
+INT-World Cup,2018,Japan,Yūto Nagatomo,Japan,DF,31,1986,4.0,0,1,0,0.0,0.25,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Go Yo-han,Korea Republic,"DF,FW",30,1988,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Hong Chul,Korea Republic,DF,27,1990,1.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Hwang Hee-chan,Korea Republic,"MF,FW",22,1996,2.3,0,2,1,50.0,0.89,0.44,0.0,0.0,0,0
+INT-World Cup,2018,Korea Republic,Jang Hyun-soo,Korea Republic,"DF,MF",26,1991,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Jo Hyeon-woo,Korea Republic,GK,26,1991,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Ju Se-jong,Korea Republic,MF,27,1990,0.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Jung Woo-young,Korea Republic,MF,28,1989,1.4,0,3,3,100.0,2.11,2.11,0.0,0.0,0,0
+INT-World Cup,2018,Korea Republic,Ki Sung-yueng,Korea Republic,MF,29,1989,2.0,0,3,2,66.7,1.5,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Korea Republic,Kim Min-woo,Korea Republic,DF,28,1990,1.6,0,1,0,0.0,0.62,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Kim Shin-wook,Korea Republic,FW,30,1988,0.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Kim Young-gwon,Korea Republic,DF,28,1990,3.0,1,1,1,100.0,0.33,0.33,1.0,1.0,0,0
+INT-World Cup,2018,Korea Republic,Koo Ja-cheol,Korea Republic,"MF,FW",29,1989,1.4,0,1,0,0.0,0.71,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Lee Jae-sung,Korea Republic,"MF,FW",25,1992,3.0,0,6,1,16.7,2.0,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Korea Republic,Lee Seung-woo,Korea Republic,"FW,MF",20,1998,0.5,0,1,0,0.0,1.96,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Lee Yong,Korea Republic,DF,31,1986,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Moon Seon-min,Korea Republic,MF,26,1992,1.6,0,2,0,0.0,1.25,0.0,0.0,,0,0
+INT-World Cup,2018,Korea Republic,Park Joo-ho,Korea Republic,DF,31,1987,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Korea Republic,Son Heung-min,Korea Republic,FW,25,1992,3.0,2,13,3,23.1,4.33,1.0,0.15,0.67,0,0
+INT-World Cup,2018,Korea Republic,Yun Young-sun,Korea Republic,DF,29,1988,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Andrés Guardado,Mexico,MF,31,1986,3.4,0,6,1,16.7,1.78,0.3,0.0,0.0,0,0
+INT-World Cup,2018,Mexico,Carlos Salcedo,Mexico,DF,24,1993,4.0,0,5,1,20.0,1.25,0.25,0.0,0.0,0,0
+INT-World Cup,2018,Mexico,Carlos Vela,Mexico,"MF,FW",29,1989,3.5,1,10,2,20.0,2.88,0.58,0.0,0.0,1,1
+INT-World Cup,2018,Mexico,Edson Álvarez,Mexico,DF,20,1997,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Giovani dos Santos,Mexico,"FW,MF",29,1989,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Guillermo Ochoa,Mexico,GK,32,1985,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Hirving Lozano,Mexico,"MF,FW",22,1995,3.5,1,13,2,15.4,3.71,0.57,0.08,0.5,0,0
+INT-World Cup,2018,Mexico,Hugo Ayala,Mexico,DF,31,1987,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Héctor Herrera,Mexico,MF,28,1990,4.0,0,5,2,40.0,1.25,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Mexico,Héctor Moreno,Mexico,DF,30,1988,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Mexico,Javier Hernández,Mexico,FW,30,1988,3.7,1,7,1,14.3,1.91,0.27,0.14,1.0,0,0
+INT-World Cup,2018,Mexico,Jesús Corona,Mexico,"DF,FW",25,1993,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Jesús Gallardo,Mexico,DF,23,1994,3.7,0,1,0,0.0,0.27,0.0,0.0,,0,0
+INT-World Cup,2018,Mexico,Jonathan dos Santos,Mexico,MF,28,1990,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Marco Fabián,Mexico,"FW,MF",28,1989,0.3,0,1,0,0.0,3.46,0.0,0.0,,0,0
+INT-World Cup,2018,Mexico,Miguel Layún,Mexico,MF,29,1988,3.5,0,9,3,33.3,2.59,0.86,0.0,0.0,0,0
+INT-World Cup,2018,Mexico,Oribe Peralta,Mexico,FW,34,1984,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Rafael Márquez,Mexico,MF,39,1979,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Mexico,Raúl Jiménez,Mexico,FW,27,1991,0.6,0,1,0,0.0,1.61,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Achraf Hakimi,Morocco,DF,19,1998,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Amine Harit,Morocco,MF,20,1997,0.9,0,3,1,33.3,3.33,1.11,0.0,0.0,0,0
+INT-World Cup,2018,Morocco,Ayoub El Kaabi,Morocco,FW,24,1993,1.1,0,1,0,0.0,0.92,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Aziz Bouhaddouz,Morocco,FW,31,1987,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Fayçal Fajr,Morocco,MF,29,1988,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Hakim Ziyech,Morocco,MF,25,1993,2.9,0,9,2,22.2,3.07,0.68,0.0,0.0,0,0
+INT-World Cup,2018,Morocco,Karim El Ahmadi,Morocco,MF,33,1985,2.9,0,1,0,0.0,0.34,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Khalid Boutaïb,Morocco,FW,31,1987,1.5,1,3,2,66.7,1.94,1.29,0.33,0.5,0,0
+INT-World Cup,2018,Morocco,M'barek Boussoufa,Morocco,MF,33,1984,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Manuel da Costa,Morocco,DF,32,1986,2.1,0,2,0,0.0,0.95,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Medhi Benatia,Morocco,DF,31,1987,2.0,0,5,2,40.0,2.5,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Morocco,Mehdi Carcela,Morocco,"FW,MF",28,1989,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Munir,Morocco,GK,29,1989,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Nabil Dirar,Morocco,DF,32,1986,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Nordin Amrabat,Morocco,"MF,FW",31,1987,2.8,0,1,0,0.0,0.35,0.0,0.0,,0,0
+INT-World Cup,2018,Morocco,Romain Saïss,Morocco,DF,28,1990,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Sofyan Amrabat,Morocco,"DF,MF",21,1996,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Morocco,Younès Belhanda,Morocco,"MF,FW",28,1990,2.5,0,6,2,33.3,2.39,0.8,0.0,0.0,0,0
+INT-World Cup,2018,Morocco,Youssef En-Nesyri,Morocco,FW,21,1997,0.2,1,1,1,100.0,4.74,4.74,1.0,1.0,0,0
+INT-World Cup,2018,Nigeria,Ahmed Musa,Nigeria,FW,25,1992,2.3,2,4,2,50.0,1.73,0.87,0.5,1.0,0,0
+INT-World Cup,2018,Nigeria,Alex Iwobi,Nigeria,MF,22,1996,0.7,0,4,0,0.0,5.71,0.0,0.0,,0,0
+INT-World Cup,2018,Nigeria,Brian Idowu,Nigeria,"MF,DF",26,1992,2.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Francis Uzoho,Nigeria,GK,19,1998,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,John Obi Mikel,Nigeria,MF,31,1987,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Kelechi Iheanacho,Nigeria,FW,21,1996,1.6,0,3,0,0.0,1.82,0.0,0.0,,0,0
+INT-World Cup,2018,Nigeria,Kenneth Omeruo,Nigeria,DF,24,1993,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Leon Balogun,Nigeria,DF,29,1988,3.0,0,4,2,50.0,1.33,0.67,0.0,0.0,0,0
+INT-World Cup,2018,Nigeria,Odion Ighalo,Nigeria,FW,28,1989,1.4,0,5,2,40.0,3.69,1.48,0.0,0.0,0,0
+INT-World Cup,2018,Nigeria,Oghenekaro Etebo,Nigeria,MF,22,1995,3.0,0,7,1,14.3,2.34,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Nigeria,Shehu Abdullahi,Nigeria,DF,25,1993,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Simeon Nwankwo,Nigeria,FW,26,1992,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Tyronne Ebuehi,Nigeria,DF,22,1995,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Nigeria,Victor Moses,Nigeria,MF,27,1990,3.0,1,7,1,14.3,2.33,0.33,0.0,0.0,1,1
+INT-World Cup,2018,Nigeria,Wilfred Ndidi,Nigeria,MF,21,1996,3.0,0,3,1,33.3,1.0,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Nigeria,William Troost-Ekong,Nigeria,DF,24,1993,3.0,0,2,0,0.0,0.67,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Abdiel Arroyo,Panama,FW,24,1993,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Adolfo Machado,Panama,DF,33,1985,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Aníbal Godoy,Panama,MF,28,1990,2.7,0,2,0,0.0,0.75,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Armando Cooper,Panama,MF,30,1987,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Blas Pérez,Panama,FW,37,1981,1.8,0,1,0,0.0,0.56,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Erick Davis,Panama,DF,27,1991,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Felipe Baloy,Panama,DF,37,1981,0.2,1,1,1,100.0,4.09,4.09,1.0,1.0,0,0
+INT-World Cup,2018,Panama,Fidel Escobar,Panama,DF,23,1995,3.0,0,2,2,100.0,0.67,0.67,0.0,0.0,0,0
+INT-World Cup,2018,Panama,Gabriel Gómez,Panama,MF,34,1984,2.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Gabriel Torres,Panama,FW,29,1988,0.8,0,1,0,0.0,1.23,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Harold Cummings,Panama,DF,26,1992,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Ismael Díaz,Panama,"FW,MF",21,1997,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Jaime Penedo,Panama,GK,36,1981,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,José Luis Rodríguez,Panama,"MF,FW",19,1998,2.7,0,3,1,33.3,1.12,0.37,0.0,0.0,0,0
+INT-World Cup,2018,Panama,Luis Ovalle,Panama,DF,29,1988,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Luis Tejada,Panama,FW,36,1982,0.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Panama,Michael Amir Murillo,Panama,DF,22,1996,2.0,0,2,2,100.0,1.0,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Panama,Ricardo Ávila,Panama,MF,21,1997,1.2,0,1,0,0.0,0.83,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Román Torres,Panama,DF,32,1986,2.6,0,4,0,0.0,1.53,0.0,0.0,,0,0
+INT-World Cup,2018,Panama,Yoel Bárcenas,Panama,"MF,FW",24,1993,2.4,0,6,2,33.3,2.45,0.82,0.0,0.0,0,0
+INT-World Cup,2018,Peru,Alberto Rodríguez,Peru,DF,34,1984,1.5,0,2,0,0.0,1.33,0.0,0.0,,0,0
+INT-World Cup,2018,Peru,Anderson Santamaría,Peru,DF,26,1992,1.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,André Carrillo,Peru,MF,27,1991,2.9,1,3,2,66.7,1.05,0.7,0.33,0.5,0,0
+INT-World Cup,2018,Peru,Christian Cueva,Peru,MF,26,1991,3.0,0,3,0,0.0,1.0,0.0,0.0,,0,1
+INT-World Cup,2018,Peru,Christian Ramos,Peru,DF,29,1988,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Edison Flores,Peru,MF,24,1994,2.7,0,4,1,25.0,1.49,0.37,0.0,0.0,0,0
+INT-World Cup,2018,Peru,Jefferson Farfán,Peru,FW,33,1984,1.4,0,4,1,25.0,2.79,0.7,0.0,0.0,0,0
+INT-World Cup,2018,Peru,Luis Advíncula,Peru,DF,28,1990,3.0,0,3,1,33.3,1.0,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Peru,Miguel Trauco,Peru,DF,25,1992,2.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Paolo Guerrero,Peru,FW,34,1984,2.3,1,7,5,71.4,3.01,2.15,0.14,0.2,0,0
+INT-World Cup,2018,Peru,Paolo Hurtado,Peru,MF,27,1990,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Pedro Aquino,Peru,MF,23,1995,1.5,0,1,0,0.0,0.65,0.0,0.0,,0,0
+INT-World Cup,2018,Peru,Pedro Gallese,Peru,GK,28,1990,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Raúl Ruidíaz,Peru,FW,27,1990,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Renato Tapia,Peru,MF,22,1995,1.6,0,1,0,0.0,0.61,0.0,0.0,,0,0
+INT-World Cup,2018,Peru,Wilder Cartagena,Peru,MF,23,1994,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Peru,Yoshimar Yotún,Peru,MF,28,1990,2.0,0,3,1,33.3,1.5,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Poland,Arkadiusz Milik,Poland,MF,24,1994,0.8,0,1,0,0.0,1.25,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Artur Jędrzejczyk,Poland,MF,30,1987,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Bartosz Bereszyński,Poland,"MF,DF",25,1992,1.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Dawid Kownacki,Poland,FW,21,1997,0.8,0,2,1,50.0,2.43,1.22,0.0,0.0,0,0
+INT-World Cup,2018,Poland,Grzegorz Krychowiak,Poland,MF,28,1990,3.0,1,2,1,50.0,0.67,0.33,0.5,1.0,0,0
+INT-World Cup,2018,Poland,Jacek Góralski,Poland,MF,25,1992,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Jakub Błaszczykowski,Poland,MF,32,1985,0.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Jan Bednarek,Poland,DF,22,1996,2.5,1,1,1,100.0,0.4,0.4,1.0,1.0,0,0
+INT-World Cup,2018,Poland,Kamil Glik,Poland,DF,30,1988,1.1,0,1,0,0.0,0.89,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Kamil Grosicki,Poland,"MF,FW",30,1988,2.4,0,5,1,20.0,2.1,0.42,0.0,0.0,0,0
+INT-World Cup,2018,Poland,Maciej Rybus,Poland,"MF,DF",28,1989,2.0,0,1,1,100.0,0.5,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Poland,Michał Pazdan,Poland,DF,30,1987,1.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Piotr Zieliński,Poland,"FW,MF",24,1994,2.9,0,4,0,0.0,1.4,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Rafał Kurzawa,Poland,MF,25,1993,0.9,0,2,0,0.0,2.28,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Robert Lewandowski,Poland,FW,29,1988,3.0,0,9,3,33.3,3.0,1.0,0.0,0.0,0,0
+INT-World Cup,2018,Poland,Sławomir Peszko,Poland,MF,33,1985,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Thiago Cionek,Poland,DF,32,1986,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Wojciech Szczęsny,Poland,GK,28,1990,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Łukasz Fabiański,Poland,GK,33,1985,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Poland,Łukasz Piszczek,Poland,DF,33,1985,1.9,0,1,0,0.0,0.52,0.0,0.0,,0,0
+INT-World Cup,2018,Poland,Łukasz Teodorczyk,Poland,FW,27,1991,0.3,0,1,0,0.0,2.9,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Adrien Silva,Portugal,MF,29,1989,1.7,0,2,0,0.0,1.15,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,André Silva,Portugal,FW,22,1995,1.3,0,1,0,0.0,0.77,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Bernardo Silva,Portugal,MF,23,1994,2.6,0,2,0,0.0,0.76,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Bruno Fernandes,Portugal,MF,23,1994,1.0,0,3,0,0.0,3.07,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Cristiano Ronaldo,Portugal,FW,33,1985,4.0,4,21,8,38.1,5.25,2.0,0.14,0.38,1,2
+INT-World Cup,2018,Portugal,Cédric Soares,Portugal,DF,26,1991,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Portugal,Gelson Martins,Portugal,"FW,MF",23,1995,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Portugal,Gonçalo Guedes,Portugal,"FW,MF",21,1996,2.7,0,5,2,40.0,1.85,0.74,0.0,0.0,0,0
+INT-World Cup,2018,Portugal,José Fonte,Portugal,DF,34,1983,4.0,0,3,0,0.0,0.75,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,João Moutinho,Portugal,MF,31,1986,2.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Portugal,João Mário,Portugal,MF,25,1993,2.9,0,1,0,0.0,0.35,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Manuel Fernandes,Portugal,MF,32,1986,0.1,0,2,1,50.0,30.0,15.0,0.0,0.0,0,0
+INT-World Cup,2018,Portugal,Pepe,Portugal,DF,35,1983,4.0,1,3,1,33.3,0.75,0.25,0.33,1.0,0,0
+INT-World Cup,2018,Portugal,Raphaël Guerreiro,Portugal,DF,24,1993,4.0,0,4,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Portugal,Ricardo Pereira,Portugal,DF,24,1993,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Portugal,Ricardo Quaresma,Portugal,MF,34,1983,1.3,1,5,2,40.0,3.88,1.55,0.2,0.5,0,0
+INT-World Cup,2018,Portugal,Rui Patrício,Portugal,GK,30,1988,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Portugal,William Carvalho,Portugal,MF,26,1992,4.0,0,1,0,0.0,0.25,0.0,0.0,,0,0
+INT-World Cup,2018,Russia,Alan Dzagoev,Russia,MF,27,1990,0.5,0,1,0,0.0,2.14,0.0,0.0,,0,0
+INT-World Cup,2018,Russia,Aleksandr Erokhin,Russia,MF,28,1989,1.0,0,2,0,0.0,1.98,0.0,0.0,,0,0
+INT-World Cup,2018,Russia,Aleksandr Golovin,Russia,"MF,FW",22,1996,4.5,1,3,1,33.3,0.67,0.22,0.33,1.0,0,0
+INT-World Cup,2018,Russia,Aleksandr Samedov,Russia,MF,33,1984,4.0,0,2,0,0.0,0.51,0.0,0.0,,0,0
+INT-World Cup,2018,Russia,Aleksei Miranchuk,Russia,MF,22,1995,0.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Russia,Artem Dzyuba,Russia,FW,29,1988,3.7,3,8,4,50.0,2.18,1.09,0.25,0.5,1,1
+INT-World Cup,2018,Russia,Daler Kuzyaev,Russia,MF,25,1993,3.4,0,2,1,50.0,0.59,0.3,0.0,0.0,0,0
+INT-World Cup,2018,Russia,Denis Cheryshev,Russia,MF,27,1990,3.4,4,13,6,46.2,3.86,1.78,0.31,0.67,0,0
+INT-World Cup,2018,Russia,Fyodor Kudryashov,Russia,DF,31,1987,3.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Russia,Fyodor Smolov,Russia,FW,28,1990,2.5,0,3,1,33.3,1.22,0.41,0.0,0.0,0,0
+INT-World Cup,2018,Russia,Igor Akinfeev,Russia,GK,32,1986,5.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Russia,Igor Smolnikov,Russia,DF,29,1988,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Russia,Ilya Kutepov,Russia,DF,24,1993,5.7,0,1,0,0.0,0.18,0.0,0.0,,0,0
+INT-World Cup,2018,Russia,Mário Fernandes,Russia,DF,27,1990,5.3,1,1,1,100.0,0.19,0.19,1.0,1.0,0,0
+INT-World Cup,2018,Russia,Roman Zobnin,Russia,MF,24,1994,5.7,0,7,2,28.6,1.24,0.35,0.0,0.0,0,0
+INT-World Cup,2018,Russia,Sergei Ignashevich,Russia,DF,38,1979,5.7,0,2,1,50.0,0.35,0.18,0.0,0.0,0,0
+INT-World Cup,2018,Russia,Vladimir Granat,Russia,DF,31,1987,0.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Russia,Yuri Gazinskiy,Russia,MF,28,1989,3.0,1,2,1,50.0,0.67,0.34,0.5,1.0,0,0
+INT-World Cup,2018,Russia,Yuri Zhirkov,Russia,DF,34,1983,2.4,0,2,0,0.0,0.82,0.0,0.0,,0,0
+INT-World Cup,2018,Saudi Arabia,Abdullah Al-Mayouf,Saudi Arabia,GK,31,1987,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Abdullah Otayf,Saudi Arabia,MF,25,1992,2.7,0,2,0,0.0,0.74,0.0,0.0,,0,0
+INT-World Cup,2018,Saudi Arabia,Ali Al-Bulaihi,Saudi Arabia,DF,28,1989,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Fahad Al Muwallad,Saudi Arabia,FW,23,1994,2.0,0,2,1,50.0,0.99,0.49,0.0,0.0,0,1
+INT-World Cup,2018,Saudi Arabia,Hattan Bahebri,Saudi Arabia,FW,25,1992,1.7,0,7,3,42.9,4.06,1.74,0.0,0.0,0,0
+INT-World Cup,2018,Saudi Arabia,Hussain Al Moqahwi,Saudi Arabia,MF,30,1988,1.5,0,5,1,20.0,3.28,0.66,0.0,0.0,0,0
+INT-World Cup,2018,Saudi Arabia,Mohamed Kanno,Saudi Arabia,MF,23,1994,0.2,0,1,1,100.0,5.63,5.63,0.0,0.0,0,0
+INT-World Cup,2018,Saudi Arabia,Mohammed Al Sahlawi,Saudi Arabia,FW,31,1987,1.1,0,1,0,0.0,0.94,0.0,0.0,,0,0
+INT-World Cup,2018,Saudi Arabia,Mohammed Al-Breik,Saudi Arabia,DF,25,1992,3.0,0,3,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Saudi Arabia,Mohammed Al-Owais,Saudi Arabia,GK,26,1991,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Motaz Hawsawi,Saudi Arabia,DF,26,1992,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Muhannad Assiri,Saudi Arabia,"FW,MF",31,1986,0.4,0,1,1,100.0,2.73,2.73,0.0,0.0,0,0
+INT-World Cup,2018,Saudi Arabia,Omar Hawsawi,Saudi Arabia,DF,32,1985,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Osama Hawsawi,Saudi Arabia,DF,34,1984,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Salem Al-Dawsari,Saudi Arabia,FW,26,1991,3.0,1,7,2,28.6,2.33,0.67,0.14,0.5,0,0
+INT-World Cup,2018,Saudi Arabia,Salman Al-Faraj,Saudi Arabia,MF,28,1989,3.0,1,3,1,33.3,1.0,0.33,0.0,0.0,1,1
+INT-World Cup,2018,Saudi Arabia,Taisir Al-Jassim,Saudi Arabia,MF,33,1984,1.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Yahya Al-Shehri,Saudi Arabia,FW,27,1990,0.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Yasser Al Mosailem,Saudi Arabia,GK,34,1984,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Saudi Arabia,Yasser Al-Shahrani,Saudi Arabia,DF,26,1992,3.0,0,5,0,0.0,1.67,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Alfred N'Diaye,Senegal,MF,28,1990,1.7,0,1,0,0.0,0.6,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Badou Ndiaye,Senegal,MF,27,1990,0.9,0,1,0,0.0,1.13,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Cheikh N'Doye,Senegal,MF,32,1986,0.4,0,1,0,0.0,2.31,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Cheikhou Kouyaté,Senegal,MF,28,1989,1.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Senegal,Diafra Sakho,Senegal,FW,28,1989,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Senegal,Idrissa Gueye,Senegal,MF,28,1989,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,0,0
+INT-World Cup,2018,Senegal,Ismaila Sarr,Senegal,"MF,FW",20,1998,3.0,0,3,2,66.7,1.0,0.67,0.0,0.0,0,0
+INT-World Cup,2018,Senegal,Kalidou Koulibaly,Senegal,DF,26,1991,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Senegal,Keita Baldé,Senegal,FW,23,1995,0.9,0,1,1,100.0,1.14,1.14,0.0,0.0,0,0
+INT-World Cup,2018,Senegal,Khadim N'Diaye,Senegal,GK,33,1985,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Senegal,Lamine Gassama,Senegal,DF,28,1989,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Senegal,M'Baye Niang,Senegal,FW,23,1994,2.7,1,8,5,62.5,2.95,1.84,0.13,0.2,0,0
+INT-World Cup,2018,Senegal,Mame Biram Diouf,Senegal,FW,30,1987,0.7,0,1,0,0.0,1.36,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Moussa Konaté,Senegal,FW,25,1993,0.3,0,1,1,100.0,3.33,3.33,0.0,0.0,0,0
+INT-World Cup,2018,Senegal,Moussa Wagué,Senegal,DF,19,1998,2.2,1,1,1,100.0,0.46,0.46,1.0,1.0,0,0
+INT-World Cup,2018,Senegal,Sadio Mané,Senegal,"MF,FW",26,1992,3.0,1,3,1,33.3,1.0,0.33,0.33,1.0,0,0
+INT-World Cup,2018,Senegal,Salif Sané,Senegal,DF,27,1990,3.0,0,5,0,0.0,1.67,0.0,0.0,,0,0
+INT-World Cup,2018,Senegal,Youssouf Sabaly,Senegal,DF,25,1993,2.8,0,2,1,50.0,0.71,0.36,0.0,0.0,0,0
+INT-World Cup,2018,Serbia,Adem Ljajić,Serbia,MF,26,1991,1.9,0,1,0,0.0,0.53,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Aleksandar Kolarov,Serbia,DF,32,1985,3.0,1,2,1,50.0,0.67,0.33,0.5,1.0,0,0
+INT-World Cup,2018,Serbia,Aleksandar Mitrović,Serbia,FW,23,1994,3.0,1,14,6,42.9,4.74,2.03,0.07,0.17,0,0
+INT-World Cup,2018,Serbia,Aleksandar Prijović,Serbia,FW,28,1990,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Andrija Živković,Serbia,"FW,MF",21,1996,0.2,0,1,0,0.0,5.63,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Antonio Rukavina,Serbia,DF,34,1984,1.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Branislav Ivanović,Serbia,DF,34,1984,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Dušan Tadić,Serbia,MF,29,1988,2.9,0,3,1,33.3,1.03,0.34,0.0,0.0,0,0
+INT-World Cup,2018,Serbia,Duško Tošić,Serbia,DF,33,1985,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Filip Kostić,Serbia,MF,25,1992,1.8,0,3,0,0.0,1.64,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Luka Jović,Serbia,FW,20,1997,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Luka Milivojević,Serbia,MF,27,1991,1.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Miloš Veljković,Serbia,DF,22,1995,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Nemanja Matić,Serbia,MF,29,1988,3.0,0,3,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Nemanja Radonjić,Serbia,"FW,MF",22,1996,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Nikola Milenković,Serbia,DF,20,1997,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Serbia,Sergej Milinković-Savić,Serbia,MF,23,1995,3.0,0,5,0,0.0,1.67,0.0,0.0,,0,0
+INT-World Cup,2018,Serbia,Vladimir Stojković,Serbia,GK,34,1983,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Spain,Andrés Iniesta,Spain,MF,34,1984,3.1,0,5,1,20.0,1.59,0.32,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Dani Carvajal,Spain,DF,26,1992,2.6,0,2,0,0.0,0.78,0.0,0.0,,0,0
+INT-World Cup,2018,Spain,David Silva,Spain,MF,32,1986,3.6,0,10,2,20.0,2.78,0.56,0.0,0.0,0,0
+INT-World Cup,2018,Spain,David de Gea,Spain,GK,27,1990,4.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Spain,Diego Costa,Spain,FW,29,1988,3.5,3,10,6,60.0,2.85,1.71,0.3,0.5,0,0
+INT-World Cup,2018,Spain,Gerard Piqué,Spain,DF,31,1987,4.3,0,9,3,33.3,2.08,0.69,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Iago Aspas,Spain,"FW,MF",30,1987,0.8,1,5,3,60.0,6.25,3.75,0.2,0.33,0,0
+INT-World Cup,2018,Spain,Isco,Spain,MF,26,1992,4.3,1,9,4,44.4,2.08,0.92,0.11,0.25,0,0
+INT-World Cup,2018,Spain,Jordi Alba,Spain,DF,29,1989,4.3,0,2,1,50.0,0.46,0.23,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Koke,Spain,MF,26,1992,2.6,0,2,0,0.0,0.78,0.0,0.0,,0,0
+INT-World Cup,2018,Spain,Lucas Vázquez,Spain,MF,26,1991,0.9,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Spain,Marco Asensio,Spain,MF,22,1996,1.5,0,2,1,50.0,1.36,0.68,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Nacho,Spain,DF,28,1990,1.8,1,1,1,100.0,0.57,0.57,1.0,1.0,0,0
+INT-World Cup,2018,Spain,Rodrigo,Spain,"FW,MF",27,1991,0.3,0,4,2,50.0,13.85,6.92,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Sergio Busquets,Spain,MF,29,1988,4.3,0,5,1,20.0,1.15,0.23,0.0,0.0,0,0
+INT-World Cup,2018,Spain,Sergio Ramos,Spain,DF,32,1986,4.3,0,5,0,0.0,1.15,0.0,0.0,,0,0
+INT-World Cup,2018,Spain,Thiago Alcántara,Spain,MF,27,1991,1.0,0,2,0,0.0,1.91,0.0,0.0,,0,0
+INT-World Cup,2018,Sweden,Albin Ekdal,Sweden,MF,28,1989,4.7,0,3,0,0.0,0.64,0.0,0.0,,0,0
+INT-World Cup,2018,Sweden,Andreas Granqvist,Sweden,DF,33,1985,5.0,2,6,4,66.7,1.2,0.8,0.0,0.0,2,2
+INT-World Cup,2018,Sweden,Emil Forsberg,Sweden,MF,26,1991,4.6,1,14,3,21.4,3.04,0.65,0.07,0.33,0,0
+INT-World Cup,2018,Sweden,Emil Krafth,Sweden,DF,23,1994,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Gustav Svensson,Sweden,MF,31,1987,1.5,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Isaac Kiese Thelin,Sweden,FW,25,1992,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Jimmy Durmaz,Sweden,MF,29,1989,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,John Guidetti,Sweden,FW,26,1992,0.4,0,1,1,100.0,2.31,2.31,0.0,0.0,0,0
+INT-World Cup,2018,Sweden,Ludwig Augustinsson,Sweden,DF,24,1994,5.0,1,3,1,33.3,0.6,0.2,0.33,1.0,0,0
+INT-World Cup,2018,Sweden,Marcus Berg,Sweden,FW,31,1986,4.7,0,15,8,53.3,3.18,1.69,0.0,0.0,0,0
+INT-World Cup,2018,Sweden,Martin Olsson,Sweden,"DF,MF",30,1988,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Mikael Lustig,Sweden,DF,31,1986,3.9,0,1,0,0.0,0.26,0.0,0.0,,0,0
+INT-World Cup,2018,Sweden,Ola Toivonen,Sweden,FW,31,1986,4.4,1,4,3,75.0,0.91,0.68,0.25,0.33,0,0
+INT-World Cup,2018,Sweden,Oscar Hiljemark,Sweden,MF,25,1992,0.3,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Pontus Jansson,Sweden,DF,27,1991,1.1,0,1,0,0.0,0.94,0.0,0.0,,0,0
+INT-World Cup,2018,Sweden,Robin Olsen,Sweden,GK,28,1990,5.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Sebastian Larsson,Sweden,MF,33,1985,3.5,0,1,0,0.0,0.28,0.0,0.0,,0,0
+INT-World Cup,2018,Sweden,Victor Lindelöf,Sweden,DF,23,1994,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Sweden,Viktor Claesson,Sweden,MF,26,1992,4.8,0,6,1,16.7,1.25,0.21,0.0,0.0,0,0
+INT-World Cup,2018,Switzerland,Blerim Džemaili,Switzerland,MF,32,1986,3.6,1,8,3,37.5,2.22,0.83,0.13,0.33,0,0
+INT-World Cup,2018,Switzerland,Breel Embolo,Switzerland,MF,21,1997,1.5,0,5,2,40.0,3.28,1.31,0.0,0.0,0,0
+INT-World Cup,2018,Switzerland,Denis Zakaria,Switzerland,"DF,MF",21,1996,0.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Switzerland,Fabian Schär,Switzerland,DF,26,1991,3.0,0,1,0,0.0,0.33,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Granit Xhaka,Switzerland,MF,25,1992,4.0,1,4,1,25.0,1.0,0.25,0.25,1.0,0,0
+INT-World Cup,2018,Switzerland,Haris Seferović,Switzerland,FW,26,1992,1.6,0,1,1,100.0,0.63,0.63,0.0,0.0,0,0
+INT-World Cup,2018,Switzerland,Johan Djourou,Switzerland,DF,31,1987,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Josip Drmić,Switzerland,FW,25,1992,1.3,1,4,1,25.0,3.19,0.8,0.25,1.0,0,0
+INT-World Cup,2018,Switzerland,Manuel Akanji,Switzerland,DF,22,1995,4.0,0,1,0,0.0,0.25,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Mario Gavranović,Switzerland,FW,28,1989,1.3,0,4,1,25.0,3.19,0.8,0.0,0.0,0,0
+INT-World Cup,2018,Switzerland,Michael Lang,Switzerland,DF,27,1991,1.1,0,1,0,0.0,0.87,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Ricardo Rodríguez,Switzerland,DF,25,1992,4.0,0,7,2,28.6,1.75,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Switzerland,Stephan Lichtsteiner,Switzerland,DF,34,1984,3.0,0,2,0,0.0,0.68,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Steven Zuber,Switzerland,MF,26,1991,2.8,1,4,2,50.0,1.43,0.72,0.25,0.5,0,0
+INT-World Cup,2018,Switzerland,Valon Behrami,Switzerland,MF,33,1985,3.4,0,1,0,0.0,0.29,0.0,0.0,,0,0
+INT-World Cup,2018,Switzerland,Xherdan Shaqiri,Switzerland,MF,26,1991,3.9,1,13,1,7.7,3.34,0.26,0.08,1.0,0,0
+INT-World Cup,2018,Switzerland,Yann Sommer,Switzerland,GK,29,1988,4.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Ahmed Khalil,Tunisia,MF,23,1994,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Ali Maâloul,Tunisia,DF,28,1990,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Anice Badri,Tunisia,"MF,FW",27,1990,2.5,0,3,2,66.7,1.2,0.8,0.0,0.0,0,0
+INT-World Cup,2018,Tunisia,Aymen Mathlouthi,Tunisia,GK,33,1984,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Bassem Srarfi,Tunisia,"FW,MF",20,1997,0.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Dylan Bronn,Tunisia,DF,22,1995,1.3,1,1,1,100.0,0.8,0.8,1.0,1.0,0,0
+INT-World Cup,2018,Tunisia,Ellyes Skhiri,Tunisia,MF,23,1995,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Fakhreddine Ben Youssef,Tunisia,FW,26,1991,3.0,1,7,2,28.6,2.33,0.67,0.14,0.5,0,0
+INT-World Cup,2018,Tunisia,Farouk Ben Mustapha,Tunisia,GK,28,1989,1.8,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Ferjani Sassi,Tunisia,MF,26,1992,2.1,1,5,1,20.0,2.33,0.47,0.0,0.0,1,1
+INT-World Cup,2018,Tunisia,Ghaylène Chaalali,Tunisia,MF,24,1994,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0
+INT-World Cup,2018,Tunisia,Hamdi Nagguez,Tunisia,DF,25,1992,1.7,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Mohamed Ben Amor,Tunisia,"DF,MF",26,1992,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Mouez Hassen,Tunisia,GK,23,1995,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Naïm Sliti,Tunisia,FW,25,1992,2.0,0,6,1,16.7,3.0,0.5,0.0,0.0,0,0
+INT-World Cup,2018,Tunisia,Oussama Haddadi,Tunisia,DF,26,1992,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Rami Bedoui,Tunisia,DF,28,1990,1.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Saber Khalifa,Tunisia,FW,31,1986,0.1,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Saîf-Eddine Khaoui,Tunisia,MF,23,1995,1.0,0,2,0,0.0,2.0,0.0,0.0,,0,0
+INT-World Cup,2018,Tunisia,Syam Ben Youssef,Tunisia,DF,29,1989,1.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Wahbi Khazri,Tunisia,FW,27,1991,2.9,2,11,5,45.5,3.78,1.72,0.18,0.4,0,0
+INT-World Cup,2018,Tunisia,Yassine Meriah,Tunisia,DF,24,1993,3.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Tunisia,Yohan Benalouane,Tunisia,DF,31,1987,0.6,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Uruguay,Carlos Sánchez,Uruguay,MF,33,1984,1.4,0,2,0,0.0,1.45,0.0,0.0,,0,0
+INT-World Cup,2018,Uruguay,Cristhian Stuani,Uruguay,FW,31,1986,0.8,0,1,0,0.0,1.2,0.0,0.0,,0,0
+INT-World Cup,2018,Uruguay,Cristian Rodríguez,Uruguay,MF,32,1985,1.9,0,4,2,50.0,2.14,1.07,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Diego Godín,Uruguay,DF,32,1986,5.0,0,3,1,33.3,0.6,0.2,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Diego Laxalt,Uruguay,"DF,MF",25,1993,3.4,0,1,1,100.0,0.3,0.3,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Edinson Cavani,Uruguay,FW,31,1987,3.8,3,16,6,37.5,4.21,1.58,0.19,0.5,0,0
+INT-World Cup,2018,Uruguay,Fernando Muslera,Uruguay,GK,31,1986,5.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Uruguay,Giorgian de Arrascaeta,Uruguay,MF,24,1994,1.0,0,1,0,0.0,1.05,0.0,0.0,,0,0
+INT-World Cup,2018,Uruguay,Guillermo Varela,Uruguay,DF,25,1993,2.0,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Uruguay,Jonathan Urretaviscaya,Uruguay,"FW,MF",28,1990,0.2,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Uruguay,José María Giménez,Uruguay,DF,23,1995,4.0,1,3,2,66.7,0.75,0.5,0.33,0.5,0,0
+INT-World Cup,2018,Uruguay,Lucas Torreira,Uruguay,MF,22,1996,3.4,0,2,0,0.0,0.59,0.0,0.0,,0,0
+INT-World Cup,2018,Uruguay,Luis Suárez,Uruguay,FW,31,1987,5.0,2,12,5,41.7,2.4,1.0,0.17,0.4,0,0
+INT-World Cup,2018,Uruguay,Martín Cáceres,Uruguay,DF,31,1987,5.0,0,7,1,14.3,1.4,0.2,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Matías Vecino,Uruguay,MF,26,1991,4.6,0,4,1,25.0,0.87,0.22,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Maxi Gómez,Uruguay,FW,21,1996,0.4,0,0,0,,0.0,0.0,,,0,0
+INT-World Cup,2018,Uruguay,Nahitan Nández,Uruguay,MF,22,1995,3.2,0,1,1,100.0,0.31,0.31,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Rodrigo Bentancur,Uruguay,"MF,FW",20,1997,4.0,0,3,1,33.3,0.75,0.25,0.0,0.0,0,0
+INT-World Cup,2018,Uruguay,Sebastián Coates,Uruguay,DF,27,1990,1.0,0,0,0,,0.0,0.0,,,0,0

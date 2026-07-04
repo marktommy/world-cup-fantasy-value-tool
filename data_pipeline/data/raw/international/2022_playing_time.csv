@@ -1,0 +1,830 @@
+league,season,team,player,nation,pos,age,born,playing_time_mp,playing_time_min,playing_time_mn/mp,playing_time_min%,playing_time_90s,starts_starts,starts_mn/start,starts_compl,subs_subs,subs_mn/sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success_+/-,team_success_+/-90,team_success_on-off
+INT-World Cup,2022,Argentina,Alexis Mac Allister,Argentina,MF,23,1998,6,550,92,79.7,6.1,6,92,1,0,,1,2.33,13,5,8,1.31,1.95
+INT-World Cup,2022,Argentina,Cristian Romero,Argentina,DF,24,1998,7,547,78,79.3,6.1,6,88,4,1,22,0,2.0,14,6,8,1.32,1.95
+INT-World Cup,2022,Argentina,Emiliano Martínez,Argentina,GK,29,1992,7,690,99,100.0,7.7,7,99,7,0,,0,2.0,15,8,7,0.91,
+INT-World Cup,2022,Argentina,Enzo Fernández,Argentina,MF,21,2001,7,564,81,81.7,6.3,5,100,4,2,33,0,2.0,14,6,8,1.28,1.99
+INT-World Cup,2022,Argentina,Exequiel Palacios,Argentina,"DF,MF",23,1998,3,50,17,7.2,0.6,0,,0,3,17,4,3.0,1,0,1,1.8,0.96
+INT-World Cup,2022,Argentina,Franco Armani,Argentina,GK,35,1986,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Argentina,Germán Pezzella,Argentina,DF,30,1991,3,60,20,8.7,0.7,0,,0,3,20,4,1.67,0,3,-3,-4.5,-5.93
+INT-World Cup,2022,Argentina,Gerónimo Rulli,Argentina,GK,30,1992,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Argentina,Gonzalo Montiel,Argentina,DF,25,1997,4,118,30,17.1,1.3,1,62,0,3,19,2,2.0,1,1,0,0.0,-1.1
+INT-World Cup,2022,Argentina,Guido Rodríguez,Argentina,MF,28,1994,1,56,56,8.1,0.6,1,56,0,0,,6,3.0,0,0,0,0.0,-0.99
+INT-World Cup,2022,Argentina,Juan Foyth,Argentina,DF,24,1998,1,5,5,0.7,0.1,0,,0,1,5,6,3.0,0,0,0,0.0,-0.92
+INT-World Cup,2022,Argentina,Julián Álvarez,Argentina,FW,22,2000,7,464,66,67.2,5.2,5,81,0,2,30,0,2.0,13,2,11,2.13,3.73
+INT-World Cup,2022,Argentina,Lautaro Martínez,Argentina,FW,24,1997,6,241,40,34.9,2.7,2,76,1,4,22,1,1.83,2,6,-4,-1.49,-3.7
+INT-World Cup,2022,Argentina,Leandro Paredes,Argentina,MF,27,1994,5,225,45,32.6,2.5,2,60,0,3,35,2,1.6,6,5,1,0.4,-0.76
+INT-World Cup,2022,Argentina,Lionel Messi,Argentina,FW,34,1987,7,690,99,100.0,7.7,7,99,7,0,,0,2.0,15,8,7,0.91,
+INT-World Cup,2022,Argentina,Lisandro Martínez,Argentina,DF,24,1998,5,303,61,43.9,3.4,2,101,1,3,34,2,2.0,6,3,3,0.89,-0.04
+INT-World Cup,2022,Argentina,Marcos Acuña,Argentina,"DF,MF",30,1991,6,373,62,54.1,4.1,4,74,1,2,39,0,1.83,8,3,5,1.21,0.64
+INT-World Cup,2022,Argentina,Nahuel Molina,Argentina,"DF,MF",24,1998,7,567,81,82.2,6.3,6,90,2,1,28,0,2.0,14,7,7,1.11,1.11
+INT-World Cup,2022,Argentina,Nicolás Otamendi,Argentina,DF,34,1988,7,690,99,100.0,7.7,7,99,7,0,,0,2.0,15,8,7,0.91,
+INT-World Cup,2022,Argentina,Nicolás Tagliafico,Argentina,DF,29,1992,6,373,62,54.1,4.1,3,93,1,3,31,1,1.83,8,8,0,0.0,-1.99
+INT-World Cup,2022,Argentina,Papu Gómez,Argentina,"MF,FW",34,1988,2,107,54,15.5,1.2,2,54,0,0,,4,1.5,2,2,0,0.0,-1.08
+INT-World Cup,2022,Argentina,Paulo Dybala,Argentina,"FW,MF",28,1993,2,18,9,2.6,0.2,0,,0,2,9,5,2.0,0,0,0,0.0,-0.94
+INT-World Cup,2022,Argentina,Rodrigo De Paul,Argentina,MF,28,1994,7,599,86,86.8,6.7,7,86,4,0,,0,2.0,13,5,8,1.2,2.19
+INT-World Cup,2022,Argentina,Thiago Almada,Argentina,"FW,MF",21,2001,1,7,7,1.0,0.1,0,,0,1,7,6,3.0,0,0,0,0.0,-0.92
+INT-World Cup,2022,Argentina,Ángel Correa,Argentina,"FW,MF",27,1995,1,5,5,0.7,0.1,0,,0,1,5,6,3.0,0,0,0,0.0,-0.92
+INT-World Cup,2022,Argentina,Ángel Di María,Argentina,"MF,FW",34,1988,5,288,58,41.7,3.2,4,70,1,1,9,2,1.6,5,2,3,0.94,0.04
+INT-World Cup,2022,Australia,Aaron Mooy,Australia,MF,31,1990,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,4,6,-2,-0.5,
+INT-World Cup,2022,Australia,Ajdin Hrustic,Australia,MF,25,1996,3,62,21,17.2,0.7,0,,0,3,21,1,2.0,1,0,1,1.45,2.36
+INT-World Cup,2022,Australia,Andrew Redmayne,Australia,GK,33,1989,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Australia,Awer Mabil,Australia,"FW,MF",26,1995,2,24,12,6.7,0.3,0,,0,2,12,2,1.5,0,0,0,0.0,0.54
+INT-World Cup,2022,Australia,Aziz Behich,Australia,DF,31,1990,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,4,6,-2,-0.5,
+INT-World Cup,2022,Australia,Bailey Wright,Australia,DF,29,1992,1,17,17,4.7,0.2,0,,0,1,17,3,3.0,0,0,0,0.0,0.52
+INT-World Cup,2022,Australia,Cammy Devlin,Australia,MF,24,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Australia,Craig Goodwin,Australia,MF,30,1991,4,234,59,65.0,2.6,3,67,0,1,33,0,1.5,3,4,-1,-0.38,0.33
+INT-World Cup,2022,Australia,Danny Vukovic,Australia,GK,37,1985,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Australia,Fran Karačić,Australia,DF,26,1996,2,93,47,25.8,1.0,1,74,0,1,19,2,1.5,2,0,2,1.94,3.28
+INT-World Cup,2022,Australia,Garang Kuol,Australia,MF,17,2004,2,37,19,10.3,0.4,0,,0,2,19,2,0.0,1,0,1,2.43,3.27
+INT-World Cup,2022,Australia,Harry Souttar,Australia,DF,23,1998,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,4,6,-2,-0.5,
+INT-World Cup,2022,Australia,Jackson Irvine,Australia,"MF,FW",29,1993,4,354,89,98.3,3.9,4,89,3,0,,0,1.5,4,6,-2,-0.51,-0.51
+INT-World Cup,2022,Australia,Jamie Maclaren,Australia,FW,28,1993,3,55,18,15.3,0.6,0,,0,3,18,1,2.0,1,0,1,1.64,2.52
+INT-World Cup,2022,Australia,Jason Cummings,Australia,FW,26,1995,1,35,35,9.7,0.4,0,,0,1,35,3,0.0,0,2,-2,-5.14,-5.14
+INT-World Cup,2022,Australia,Joel King,Australia,DF,21,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Australia,Keanu Baccus,Australia,MF,24,1998,4,114,29,31.7,1.3,1,57,0,3,19,0,1.5,1,2,-1,-0.79,-0.42
+INT-World Cup,2022,Australia,Kye Rowles,Australia,DF,23,1998,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,4,6,-2,-0.5,
+INT-World Cup,2022,Australia,Marco Tilio,Australia,MF,20,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Australia,Mathew Leckie,Australia,MF,31,1991,4,333,83,92.5,3.7,4,83,1,0,,0,1.5,3,6,-3,-0.81,-4.14
+INT-World Cup,2022,Australia,Mathew Ryan,Australia,GK,30,1992,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,4,6,-2,-0.5,
+INT-World Cup,2022,Australia,Miloš Degenek,Australia,DF,28,1994,4,183,46,50.8,2.0,2,81,1,2,11,0,1.5,1,2,-1,-0.49,0.02
+INT-World Cup,2022,Australia,Mitchell Duke,Australia,FW,31,1991,4,270,68,75.0,3.0,4,68,0,0,,0,1.5,3,4,-1,-0.33,0.67
+INT-World Cup,2022,Australia,Nathaniel Atkinson,Australia,DF,23,1999,1,84,84,23.3,0.9,1,84,0,0,,2,0.0,1,4,-3,-3.21,-3.54
+INT-World Cup,2022,Australia,Riley McGree,Australia,"MF,FW",23,1998,4,265,66,73.6,2.9,4,66,0,0,,0,1.5,3,6,-3,-1.02,-1.97
+INT-World Cup,2022,Australia,Thomas Deng,Australia,DF,25,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Belgium,Amadou Onana,Belgium,MF,20,2001,2,104,52,38.5,1.2,1,59,0,1,45,0,1.5,0,0,0,0.0,0.54
+INT-World Cup,2022,Belgium,Arthur Theate,Belgium,DF,22,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Belgium,Axel Witsel,Belgium,MF,33,1989,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Charles De Ketelaere,Belgium,"FW,MF",21,2001,1,16,16,5.9,0.2,0,,0,1,16,2,0.0,0,1,-1,-5.63,-5.63
+INT-World Cup,2022,Belgium,Dries Mertens,Belgium,FW,35,1987,2,76,38,28.1,0.8,1,45,0,1,31,1,0.5,0,2,-2,-2.37,-2.83
+INT-World Cup,2022,Belgium,Eden Hazard,Belgium,FW,31,1991,3,124,41,45.9,1.4,2,60,0,1,4,0,1.33,1,0,1,0.73,1.96
+INT-World Cup,2022,Belgium,Hans Vanaken,Belgium,MF,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Belgium,Jan Vertonghen,Belgium,DF,35,1987,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Jeremy Doku,Belgium,"FW,MF",20,2002,1,19,19,7.0,0.2,0,,0,1,19,2,1.0,0,0,0,0.0,0.36
+INT-World Cup,2022,Belgium,Kevin De Bruyne,Belgium,"FW,MF",30,1991,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Koen Casteels,Belgium,GK,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Belgium,Leander Dendoncker,Belgium,DF,27,1995,2,161,81,59.6,1.8,2,81,1,0,,1,2.0,1,0,1,0.56,2.21
+INT-World Cup,2022,Belgium,Leandro Trossard,Belgium,FW,27,1994,3,103,34,38.1,1.1,1,58,0,2,23,0,1.33,0,1,-1,-0.87,-0.87
+INT-World Cup,2022,Belgium,Loïs Openda,Belgium,FW,22,2000,1,13,13,4.8,0.1,0,,0,1,13,2,3.0,0,0,0,0.0,0.35
+INT-World Cup,2022,Belgium,Michy Batshuayi,Belgium,FW,28,1993,2,151,76,55.9,1.7,2,76,0,0,,1,1.5,1,1,0,0.0,0.76
+INT-World Cup,2022,Belgium,Romelu Lukaku,Belgium,FW,29,1993,2,55,28,20.4,0.6,0,,0,2,28,0,0.5,0,1,-1,-1.64,-1.64
+INT-World Cup,2022,Belgium,Simon Mignolet,Belgium,GK,34,1988,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Belgium,Thibaut Courtois,Belgium,GK,30,1992,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Thomas Meunier,Belgium,MF,30,1991,3,211,70,78.1,2.3,2,83,0,1,45,0,1.33,0,1,-1,-0.43,-0.43
+INT-World Cup,2022,Belgium,Thorgan Hazard,Belgium,MF,29,1993,2,106,53,39.3,1.2,1,74,0,1,32,1,0.5,0,1,-1,-0.85,-0.85
+INT-World Cup,2022,Belgium,Timothy Castagne,Belgium,"MF,DF",26,1995,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Toby Alderweireld,Belgium,DF,33,1989,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,2,-1,-0.33,
+INT-World Cup,2022,Belgium,Wout Faes,Belgium,DF,24,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Belgium,Yannick Carrasco,Belgium,"MF,FW",28,1993,2,116,58,43.0,1.3,2,58,0,0,,1,2.0,1,0,1,0.78,1.94
+INT-World Cup,2022,Belgium,Youri Tielemans,Belgium,MF,25,1997,3,95,32,35.2,1.1,1,45,0,2,25,0,1.33,1,2,-1,-0.95,-0.95
+INT-World Cup,2022,Belgium,Zeno Debast,Belgium,DF,18,2003,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Brazil,Alex Sandro,Brazil,DF,31,1991,3,190,63,39.6,2.1,2,88,1,1,15,0,2.33,3,1,2,0.95,0.02
+INT-World Cup,2022,Brazil,Alex Telles,Brazil,DF,29,1992,2,59,30,12.3,0.7,1,54,0,1,5,1,1.5,0,0,0,0.0,-1.07
+INT-World Cup,2022,Brazil,Alisson,Brazil,GK,29,1992,4,379,95,79.0,4.2,4,95,3,0,,1,2.5,8,2,6,1.42,2.32
+INT-World Cup,2022,Brazil,Antony,Brazil,MF,22,2000,4,172,43,35.8,1.9,1,78,0,3,31,1,1.75,2,1,1,0.52,-0.65
+INT-World Cup,2022,Brazil,Bruno Guimarães,Brazil,MF,24,1997,2,69,35,14.4,0.8,0,,0,2,35,3,1.5,1,1,0,0.0,-1.09
+INT-World Cup,2022,Brazil,Casemiro,Brazil,MF,30,1992,4,390,98,81.3,4.3,4,98,4,0,,1,2.5,8,2,6,1.38,2.38
+INT-World Cup,2022,Brazil,Dani Alves,Brazil,DF,39,1983,2,118,59,24.6,1.3,1,90,1,1,28,3,1.5,0,2,-2,-1.53,-3.27
+INT-World Cup,2022,Brazil,Danilo,Brazil,DF,30,1991,3,281,94,58.5,3.1,3,94,2,0,,0,2.33,7,1,6,1.92,2.37
+INT-World Cup,2022,Brazil,Ederson Moraes,Brazil,GK,28,1993,1,90,90,18.8,1.0,1,90,1,0,,4,0.0,0,1,-1,-1.0,-2.38
+INT-World Cup,2022,Brazil,Everton Ribeiro,Brazil,MF,33,1989,1,36,36,7.5,0.4,0,,0,1,36,4,0.0,0,1,-1,-2.5,-3.72
+INT-World Cup,2022,Brazil,Fabinho,Brazil,MF,28,1993,1,90,90,18.8,1.0,1,90,1,0,,4,0.0,0,1,-1,-1.0,-2.38
+INT-World Cup,2022,Brazil,Fred,Brazil,MF,29,1993,4,142,36,29.6,1.6,2,56,0,2,16,1,1.75,0,1,-1,-0.63,-2.23
+INT-World Cup,2022,Brazil,Gabriel Jesus,Brazil,FW,25,1997,3,93,31,19.4,1.0,1,63,0,2,15,0,2.0,1,0,1,0.97,0.04
+INT-World Cup,2022,Brazil,Gabriel Martinelli,Brazil,FW,20,2001,3,113,38,23.5,1.3,1,90,1,2,12,2,2.0,0,2,-2,-1.59,-3.31
+INT-World Cup,2022,Brazil,Gleison Bremer,Brazil,DF,25,1997,2,109,55,22.7,1.2,1,90,1,1,19,3,1.5,0,2,-2,-1.65,-3.35
+INT-World Cup,2022,Brazil,Lucas Paquetá,Brazil,MF,24,1997,4,314,79,65.4,3.5,4,79,1,0,,1,2.5,7,1,6,1.72,2.26
+INT-World Cup,2022,Brazil,Marquinhos,Brazil,DF,28,1994,5,426,85,88.8,4.7,4,98,4,1,36,0,2.0,8,3,5,1.06,1.06
+INT-World Cup,2022,Brazil,Neymar,Brazil,"MF,FW",30,1992,3,279,93,58.1,3.1,3,93,1,0,,0,2.33,7,2,5,1.61,1.61
+INT-World Cup,2022,Brazil,Pedro,Brazil,FW,24,1997,2,64,32,13.3,0.7,0,,0,2,32,3,0.5,1,2,-1,-1.41,-2.7
+INT-World Cup,2022,Brazil,Raphinha,Brazil,"FW,MF",25,1996,5,315,63,65.6,3.5,4,76,1,1,12,0,2.0,6,2,4,1.14,0.6
+INT-World Cup,2022,Brazil,Richarlison,Brazil,FW,25,1997,4,323,81,67.3,3.6,4,81,1,0,,1,2.5,6,1,5,1.39,1.39
+INT-World Cup,2022,Brazil,Rodrygo,Brazil,MF,21,2001,5,181,36,37.7,2.0,1,54,0,4,32,0,2.0,2,1,1,0.5,-0.71
+INT-World Cup,2022,Brazil,Thiago Silva,Brazil,DF,37,1984,4,390,98,81.3,4.3,4,98,4,0,,1,2.5,8,2,6,1.38,2.38
+INT-World Cup,2022,Brazil,Vinicius Júnior,Brazil,"FW,MF",21,2000,4,299,75,62.3,3.3,4,75,1,0,,1,2.5,7,0,7,2.11,3.1
+INT-World Cup,2022,Brazil,Wéverton,Brazil,GK,34,1987,1,11,11,2.3,0.1,0,,0,1,11,4,3.0,0,0,0,0.0,-0.96
+INT-World Cup,2022,Brazil,Éder Militão,Brazil,DF,24,1998,4,347,87,72.3,3.9,4,87,2,0,,1,1.75,6,1,5,1.3,1.3
+INT-World Cup,2022,Cameroon,Andre-Frank Zambo Anguissa,Cameroon,MF,26,1995,3,260,87,96.3,2.9,3,87,2,0,,0,1.33,4,4,0,0.0,0.0
+INT-World Cup,2022,Cameroon,André Onana,Cameroon,GK,26,1996,1,80,80,29.6,0.9,1,80,0,0,,0,0.0,0,1,-1,-1.13,-1.6
+INT-World Cup,2022,Cameroon,Bryan Mbeumo,Cameroon,"FW,MF",22,1999,3,233,78,86.3,2.6,3,78,1,0,,0,1.33,3,4,-1,-0.39,-2.82
+INT-World Cup,2022,Cameroon,Christian Bassogog,Cameroon,"FW,MF",26,1995,1,24,24,8.9,0.3,0,,0,1,24,2,1.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Christopher Wooh,Cameroon,DF,20,2001,1,90,90,33.3,1.0,1,90,1,0,,2,3.0,1,0,1,1.0,1.5
+INT-World Cup,2022,Cameroon,Collins Fai,Cameroon,DF,29,1992,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,4,0,0.0,
+INT-World Cup,2022,Cameroon,Devis Epassy,Cameroon,GK,29,1993,2,180,90,66.7,2.0,2,90,2,0,,1,2.0,4,3,1,0.5,1.5
+INT-World Cup,2022,Cameroon,Enzo Ebosse,Cameroon,DF,23,1999,1,90,90,33.3,1.0,1,90,1,0,,2,3.0,1,0,1,1.0,1.5
+INT-World Cup,2022,Cameroon,Eric Maxim Choupo-Moting,Cameroon,FW,33,1989,3,253,84,93.7,2.8,3,84,2,0,,0,1.33,4,4,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Gaël Ondoua,Cameroon,MF,26,1995,2,47,24,17.4,0.5,0,,0,2,24,1,0.5,0,0,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Georges-Kévin N'Koudou,Cameroon,"FW,MF",27,1995,2,27,14,10.0,0.3,0,,0,2,14,1,0.5,0,0,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Jean-Charles Castelletto,Cameroon,DF,27,1995,2,180,90,66.7,2.0,2,90,2,0,,0,0.5,3,4,-1,-0.5,-1.5
+INT-World Cup,2022,Cameroon,Jean-Pierre Nsame,Cameroon,FW,29,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Cameroon,Jerome Ngom Mbekeli,Cameroon,MF,23,1998,1,5,5,1.9,0.1,0,,0,1,5,2,3.0,1,0,1,18.0,18.34
+INT-World Cup,2022,Cameroon,Karl Toko Ekambi,Cameroon,FW,29,1992,3,166,55,61.5,1.8,2,70,0,1,27,0,1.33,4,4,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Marou Souaibou,Cameroon,FW,21,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Cameroon,Martin Hongla,Cameroon,MF,24,1998,2,121,61,44.8,1.3,2,61,0,0,,0,0.5,1,4,-3,-2.23,-4.04
+INT-World Cup,2022,Cameroon,Moumi Ngamaleu,Cameroon,MF,27,1994,2,95,48,35.2,1.1,1,85,0,1,10,1,1.5,0,0,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Nicolas Nkoulou,Cameroon,DF,32,1990,2,180,90,66.7,2.0,2,90,2,0,,0,0.5,3,4,-1,-0.5,-1.5
+INT-World Cup,2022,Cameroon,Nouhou Tolo,Cameroon,DF,24,1997,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,4,0,0.0,
+INT-World Cup,2022,Cameroon,Olivier Mbaizo,Cameroon,DF,24,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Cameroon,Olivier Ntcham,Cameroon,MF,26,1996,1,25,25,9.3,0.3,0,,0,1,25,2,3.0,1,0,1,3.6,3.97
+INT-World Cup,2022,Cameroon,Pierre Kunde,Cameroon,MF,26,1995,2,131,66,48.5,1.5,2,66,0,0,,1,2.0,3,3,0,0.0,0.0
+INT-World Cup,2022,Cameroon,Samuel Oum Gouet,Cameroon,MF,24,1997,2,100,50,37.0,1.1,1,90,1,1,10,1,0.5,0,1,-1,-0.9,-1.43
+INT-World Cup,2022,Cameroon,Simon Ngapandouetnbu,Cameroon,GK,19,2003,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Cameroon,Vincent Aboubakar,Cameroon,FW,30,1992,3,142,47,52.6,1.6,1,89,0,2,27,0,1.33,2,0,2,1.27,2.67
+INT-World Cup,2022,Canada,Alistair Johnston,Canada,DF,23,1998,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,7,-5,-1.67,
+INT-World Cup,2022,Canada,Alphonso Davies,Canada,"MF,FW",21,2000,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,7,-5,-1.67,
+INT-World Cup,2022,Canada,Atiba Hutchinson,Canada,MF,39,1983,3,159,53,58.9,1.8,2,64,0,1,31,0,0.0,1,4,-3,-1.7,-0.08
+INT-World Cup,2022,Canada,Cyle Larin,Canada,FW,27,1995,3,137,46,50.7,1.5,2,52,0,1,33,0,0.0,2,4,-2,-1.31,0.72
+INT-World Cup,2022,Canada,David Wotherspoon,Canada,MF,32,1990,1,15,15,5.6,0.2,0,,0,1,15,2,0.0,0,0,0,0.0,1.76
+INT-World Cup,2022,Canada,Dayne St. Clair,Canada,GK,25,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Derek Cornelius,Canada,"DF,FW",24,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Ike Ugbo,Canada,FW,23,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Ismaël Koné,Canada,MF,19,2002,3,109,36,40.4,1.2,0,,0,3,36,0,0.0,0,2,-2,-1.65,0.03
+INT-World Cup,2022,Canada,James Pantemis,Canada,GK,25,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Joel Waterman,Canada,DF,26,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Jonathan David,Canada,FW,22,2000,3,192,64,71.1,2.1,2,81,1,1,31,0,0.0,1,4,-3,-1.41,0.9
+INT-World Cup,2022,Canada,Jonathan Osorio,Canada,MF,30,1992,3,119,40,44.1,1.3,1,64,0,2,28,0,0.0,1,4,-3,-2.27,-1.08
+INT-World Cup,2022,Canada,Junior Hoilett,Canada,MF,32,1990,3,161,54,59.6,1.8,2,66,0,1,29,0,0.0,1,5,-4,-2.24,-1.41
+INT-World Cup,2022,Canada,Kamal Miller,Canada,DF,25,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,7,-5,-1.67,
+INT-World Cup,2022,Canada,Liam Fraser,Canada,MF,24,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Liam Millar,Canada,"FW,MF",22,1999,1,10,10,3.7,0.1,0,,0,1,10,2,0.0,0,0,0,0.0,1.73
+INT-World Cup,2022,Canada,Lucas Cavallini,Canada,FW,29,1992,1,19,19,7.0,0.2,0,,0,1,19,2,0.0,0,1,-1,-4.74,-3.3
+INT-World Cup,2022,Canada,Mark-Anthony Kaye,Canada,MF,27,1994,1,59,59,21.9,0.7,1,59,0,0,,2,0.0,1,2,-1,-1.53,0.18
+INT-World Cup,2022,Canada,Milan Borjan,Canada,GK,34,1987,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,7,-5,-1.67,
+INT-World Cup,2022,Canada,Richie Laryea,Canada,"MF,DF",27,1995,3,160,53,59.3,1.8,2,67,0,1,26,0,0.0,1,3,-2,-1.13,1.33
+INT-World Cup,2022,Canada,Sam Adekugbe,Canada,DF,27,1995,3,95,32,35.2,1.1,1,59,0,2,18,0,0.0,1,3,-2,-1.89,-0.35
+INT-World Cup,2022,Canada,Samuel Piette,Canada,MF,27,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Canada,Stephen Eustáquio,Canada,MF,25,1996,2,125,63,46.3,1.4,2,63,0,0,,1,0.0,1,3,-2,-1.44,0.42
+INT-World Cup,2022,Canada,Steven Vitória,Canada,DF,35,1987,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,7,-5,-1.67,
+INT-World Cup,2022,Canada,Tajon Buchanan,Canada,"MF,FW",23,1999,3,260,87,96.3,2.9,3,87,2,0,,0,0.0,2,7,-5,-1.73,-1.73
+INT-World Cup,2022,Costa Rica,Anthony Contreras,Costa Rica,FW,22,2000,3,125,42,46.3,1.4,2,62,0,1,1,0,1.0,0,4,-4,-2.88,-0.4
+INT-World Cup,2022,Costa Rica,Anthony Hernández,Costa Rica,FW,20,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Costa Rica,Brandon Aguilera,Costa Rica,MF,18,2003,3,90,30,33.3,1.0,1,45,0,2,23,0,1.0,1,4,-3,-3.0,-0.5
+INT-World Cup,2022,Costa Rica,Bryan Oviedo,Costa Rica,DF,32,1990,3,260,87,96.3,2.9,3,87,1,0,,0,1.0,3,9,-6,-2.08,15.92
+INT-World Cup,2022,Costa Rica,Bryan Ruiz,Costa Rica,"FW,MF",36,1985,1,30,30,11.1,0.3,0,,0,1,30,2,0.0,0,3,-3,-9.0,-7.13
+INT-World Cup,2022,Costa Rica,Carlos Martínez,Costa Rica,DF,23,1999,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,0,3,-3,-6.0,-4.0
+INT-World Cup,2022,Costa Rica,Celso Borges,Costa Rica,MF,34,1988,3,249,83,92.2,2.8,3,83,1,0,,0,1.0,3,8,-5,-1.81,11.05
+INT-World Cup,2022,Costa Rica,Daniel Chacón,Costa Rica,DF,21,2001,1,1,1,0.4,0.0,0,,0,1,1,2,3.0,0,0,0,0.0,2.68
+INT-World Cup,2022,Costa Rica,Douglas López,Costa Rica,MF,23,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Costa Rica,Esteban Alvarado,Costa Rica,GK,33,1989,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Costa Rica,Francisco Calvo,Costa Rica,DF,29,1992,2,180,90,66.7,2.0,2,90,2,0,,0,1.5,1,7,-6,-3.0,-1.0
+INT-World Cup,2022,Costa Rica,Gerson Torres,Costa Rica,MF,24,1997,1,64,64,23.7,0.7,1,64,0,0,,2,3.0,0,0,0,0.0,3.5
+INT-World Cup,2022,Costa Rica,Jewison Bennette,Costa Rica,MF,17,2004,3,103,34,38.1,1.1,1,60,0,2,22,0,1.0,1,6,-5,-4.37,-2.75
+INT-World Cup,2022,Costa Rica,Joel Campbell,Costa Rica,"MF,FW",29,1992,3,269,90,99.6,3.0,3,90,2,0,,0,1.0,3,11,-8,-2.68,-2.68
+INT-World Cup,2022,Costa Rica,Johan Venegas,Costa Rica,FW,33,1988,1,73,73,27.0,0.8,1,73,0,0,,2,0.0,2,2,0,0.0,3.65
+INT-World Cup,2022,Costa Rica,Juan Pablo Vargas,Costa Rica,DF,27,1995,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,2,4,-2,-2.0,1.0
+INT-World Cup,2022,Costa Rica,Kendall Waston,Costa Rica,DF,34,1988,3,225,75,83.3,2.5,2,90,2,1,45,0,1.0,3,8,-5,-2.0,4.0
+INT-World Cup,2022,Costa Rica,Keylor Navas,Costa Rica,GK,35,1986,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,11,-8,-2.67,
+INT-World Cup,2022,Costa Rica,Keysher Fuller,Costa Rica,"DF,MF",27,1994,3,253,84,93.7,2.8,3,84,2,0,,0,1.0,3,9,-6,-2.13,8.45
+INT-World Cup,2022,Costa Rica,Patrick Sequeira,Costa Rica,GK,23,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Costa Rica,Roan Wilson,Costa Rica,FW,20,2002,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,2.68
+INT-World Cup,2022,Costa Rica,Rónald Matarrita,Costa Rica,"DF,MF",27,1994,2,26,13,9.6,0.3,0,,0,2,13,1,0.0,0,4,-4,-13.85,-12.37
+INT-World Cup,2022,Costa Rica,Yeltsin Tejeda,Costa Rica,MF,30,1992,3,269,90,99.6,3.0,3,90,2,0,,0,1.0,3,11,-8,-2.68,-2.68
+INT-World Cup,2022,Costa Rica,Youstin Salas,Costa Rica,DF,25,1996,2,47,24,17.4,0.5,0,,0,2,24,1,1.5,2,3,-1,-1.91,0.91
+INT-World Cup,2022,Costa Rica,Álvaro Zamora,Costa Rica,FW,20,2002,1,30,30,11.1,0.3,0,,0,1,30,2,0.0,0,3,-3,-9.0,-7.13
+INT-World Cup,2022,Costa Rica,Óscar Duarte,Costa Rica,DF,33,1989,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,11,-8,-2.67,
+INT-World Cup,2022,Croatia,Andrej Kramarić,Croatia,FW,30,1991,7,474,68,68.7,5.3,7,68,0,0,,0,1.43,6,6,0,0.0,-0.42
+INT-World Cup,2022,Croatia,Ante Budimir,Croatia,FW,30,1991,2,55,28,8.0,0.6,0,,0,2,28,5,1.0,1,0,1,1.64,1.64
+INT-World Cup,2022,Croatia,Borna Barišić,Croatia,DF,29,1992,1,120,120,17.4,1.3,1,120,1,0,,6,1.0,1,1,0,0.0,-0.16
+INT-World Cup,2022,Croatia,Borna Sosa,Croatia,DF,24,1998,5,424,85,61.4,4.7,5,85,3,0,,1,1.2,4,4,0,0.0,-0.34
+INT-World Cup,2022,Croatia,Bruno Petković,Croatia,FW,27,1994,6,234,39,33.9,2.6,1,61,0,5,35,1,1.5,4,3,1,0.38,0.38
+INT-World Cup,2022,Croatia,Dejan Lovren,Croatia,DF,32,1989,6,600,100,87.0,6.7,6,100,6,0,,1,1.17,6,6,0,0.0,-1.0
+INT-World Cup,2022,Croatia,Domagoj Vida,Croatia,"DF,MF",33,1989,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2022,Croatia,Dominik Livaković,Croatia,GK,27,1995,7,690,99,100.0,7.7,7,99,7,0,,0,1.43,8,7,1,0.13,
+INT-World Cup,2022,Croatia,Ivan Perišić,Croatia,"FW,MF",33,1989,7,669,96,97.0,7.4,7,96,4,0,,0,1.43,7,7,0,0.0,-4.29
+INT-World Cup,2022,Croatia,Ivica Ivušić,Croatia,GK,27,1995,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Croatia,Ivo Grbić,Croatia,GK,26,1996,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Croatia,Josip Juranović,Croatia,DF,26,1995,6,600,100,87.0,6.7,6,100,6,0,,1,1.17,6,6,0,0.0,-1.0
+INT-World Cup,2022,Croatia,Josip Stanišić,Croatia,DF,22,2000,1,90,90,13.0,1.0,1,90,1,0,,5,3.0,2,1,1,1.0,1.0
+INT-World Cup,2022,Croatia,Josip Šutalo,Croatia,DF,22,2000,1,90,90,13.0,1.0,1,90,1,0,,6,3.0,2,1,1,1.0,1.0
+INT-World Cup,2022,Croatia,Joško Gvardiol,Croatia,DF,20,2002,7,690,99,100.0,7.7,7,99,7,0,,0,1.43,8,7,1,0.13,
+INT-World Cup,2022,Croatia,Kristijan Jakić,Croatia,"DF,MF",25,1997,1,1,1,0.1,0.0,0,,0,1,1,6,3.0,0,0,0,0.0,-0.13
+INT-World Cup,2022,Croatia,Lovro Majer,Croatia,MF,24,1998,7,130,19,18.8,1.4,1,65,0,6,11,0,1.43,4,1,3,2.08,2.4
+INT-World Cup,2022,Croatia,Luka Modrić,Croatia,MF,36,1985,7,653,93,94.6,7.3,7,93,4,0,,0,1.43,7,7,0,0.0,-2.43
+INT-World Cup,2022,Croatia,Luka Sučić,Croatia,"FW,MF",19,2002,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Croatia,Marcelo Brozović,Croatia,MF,29,1992,6,552,92,80.0,6.1,6,92,4,0,,1,1.17,5,5,0,0.0,-0.65
+INT-World Cup,2022,Croatia,Mario Pašalić,Croatia,FW,27,1995,7,271,39,39.3,3.0,2,58,0,5,31,0,1.43,1,2,-1,-0.33,-0.76
+INT-World Cup,2022,Croatia,Marko Livaja,Croatia,FW,28,1993,6,241,40,34.9,2.7,3,62,0,3,18,1,1.5,4,2,2,0.75,0.95
+INT-World Cup,2022,Croatia,Martin Erlić,Croatia,DF,24,1998,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Croatia,Mateo Kovačić,Croatia,MF,28,1994,7,635,91,92.0,7.1,7,91,2,0,,0,1.43,6,7,-1,-0.14,-3.41
+INT-World Cup,2022,Croatia,Mislav Oršić,Croatia,MF,29,1992,6,162,27,23.5,1.8,1,89,0,5,15,1,1.5,4,2,2,1.11,1.28
+INT-World Cup,2022,Croatia,Nikola Vlašić,Croatia,FW,24,1997,6,209,35,30.3,2.3,1,45,0,5,33,1,1.5,2,2,0,0.0,-0.19
+INT-World Cup,2022,Denmark,Alexander Bah,Denmark,"DF,MF",24,1997,2,46,23,17.0,0.5,0,,0,2,23,1,0.0,0,1,-1,-1.96,-1.55
+INT-World Cup,2022,Denmark,Andreas Christensen,Denmark,DF,26,1996,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,
+INT-World Cup,2022,Denmark,Andreas Cornelius,Denmark,FW,29,1993,3,92,31,34.1,1.0,1,45,0,2,24,0,0.33,0,0,0,0.0,1.01
+INT-World Cup,2022,Denmark,Andreas Skov Olsen,Denmark,FW,22,1999,2,132,66,48.9,1.5,2,66,0,0,,1,0.5,0,1,-1,-0.68,-0.03
+INT-World Cup,2022,Denmark,Christian Eriksen,Denmark,MF,30,1992,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,
+INT-World Cup,2022,Denmark,Christian Nørgaard,Denmark,MF,28,1994,1,6,6,2.2,0.1,0,,0,1,6,2,0.0,0,1,-1,-15.0,-14.66
+INT-World Cup,2022,Denmark,Daniel Wass,Denmark,"DF,MF",33,1989,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Denmark,Frederik Rønnow,Denmark,GK,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Denmark,Jens Stryger Larsen,Denmark,"DF,MF",31,1991,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Denmark,Jesper Lindstrøm,Denmark,FW,22,2000,3,200,67,74.1,2.2,2,87,1,1,26,0,0.33,1,2,-1,-0.45,0.84
+INT-World Cup,2022,Denmark,Joachim Andersen,Denmark,DF,26,1996,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,
+INT-World Cup,2022,Denmark,Joakim Mæhle,Denmark,"MF,DF",25,1997,3,249,83,92.2,2.8,3,83,2,0,,0,0.33,1,3,-2,-0.72,-0.72
+INT-World Cup,2022,Denmark,Jonas Wind,Denmark,"FW,MF",23,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Denmark,Kasper Dolberg,Denmark,FW,24,1997,3,114,38,42.2,1.3,1,64,0,2,25,0,0.33,0,2,-2,-1.58,-1.58
+INT-World Cup,2022,Denmark,Kasper Schmeichel,Denmark,GK,35,1986,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,
+INT-World Cup,2022,Denmark,Martin Braithwaite,Denmark,FW,31,1991,2,103,52,38.1,1.1,1,58,0,1,45,1,0.0,1,2,-1,-0.87,-0.33
+INT-World Cup,2022,Denmark,Mathias Jensen,Denmark,MF,26,1996,2,84,42,31.1,0.9,1,58,0,1,26,1,0.5,0,0,0,0.0,0.97
+INT-World Cup,2022,Denmark,Mikkel Damsgaard,Denmark,FW,21,2000,3,150,50,55.6,1.7,1,72,0,2,39,0,0.33,1,2,-1,-0.6,0.15
+INT-World Cup,2022,Denmark,Oliver Christensen,Denmark,GK,23,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Denmark,Pierre Højbjerg,Denmark,MF,26,1995,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,
+INT-World Cup,2022,Denmark,Rasmus Kristensen,Denmark,"MF,DF",24,1997,3,224,75,83.0,2.5,3,75,1,0,,0,0.33,1,2,-1,-0.4,1.55
+INT-World Cup,2022,Denmark,Robert Skov,Denmark,"FW,MF",26,1996,1,22,22,8.1,0.2,0,,0,1,22,2,0.0,0,0,0,0.0,0.73
+INT-World Cup,2022,Denmark,Simon Kjær,Denmark,DF,33,1989,1,64,64,23.7,0.7,1,64,0,0,,2,1.0,0,0,0,0.0,0.87
+INT-World Cup,2022,Denmark,Thomas Delaney,Denmark,MF,30,1991,1,44,44,16.3,0.5,1,44,0,0,,0,1.0,0,0,0,0.0,0.8
+INT-World Cup,2022,Denmark,Victor Nelsson,Denmark,DF,23,1998,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,1,2,-1,-1.0,-0.5
+INT-World Cup,2022,Denmark,Yussuf Poulsen,Denmark,"FW,MF",27,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Alan Franco,Ecuador,MF,23,1998,2,46,23,17.0,0.5,1,45,0,1,1,1,1.5,0,1,-1,-1.96,-2.76
+INT-World Cup,2022,Ecuador,Alexander Domínguez,Ecuador,GK,35,1987,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Ayrton Preciado,Ecuador,MF,27,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Carlos Gruezo,Ecuador,MF,27,1995,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,0,1,-1,-2.0,-2.8
+INT-World Cup,2022,Ecuador,Diego Palacios,Ecuador,DF,22,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Djorkaeff Reasco,Ecuador,FW,23,1999,1,27,27,10.0,0.3,0,,0,1,27,2,0.0,1,1,0,0.0,-0.37
+INT-World Cup,2022,Ecuador,Enner Valencia,Ecuador,FW,32,1989,3,255,85,94.4,2.8,3,85,1,0,,0,1.33,4,3,1,0.35,0.35
+INT-World Cup,2022,Ecuador,Félix Torres Caicedo,Ecuador,DF,25,1997,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,3,1,0.33,
+INT-World Cup,2022,Ecuador,Gonzalo Plata,Ecuador,"FW,MF",21,2000,3,269,90,99.6,3.0,3,90,2,0,,0,1.33,4,3,1,0.33,0.33
+INT-World Cup,2022,Ecuador,Hernán Galíndez,Ecuador,GK,35,1987,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,3,1,0.33,
+INT-World Cup,2022,Ecuador,Jackson Porozo,Ecuador,DF,21,2000,2,96,48,35.6,1.1,1,90,1,1,6,1,0.5,1,1,0,0.0,-0.52
+INT-World Cup,2022,Ecuador,Jeremy Sarmiento,Ecuador,MF,19,2002,3,85,28,31.5,0.9,0,,0,3,28,0,1.33,1,1,0,0.0,-0.49
+INT-World Cup,2022,Ecuador,Jhegson Méndez,Ecuador,MF,25,1997,2,180,90,66.7,2.0,2,90,2,0,,0,2.0,3,1,2,1.0,2.0
+INT-World Cup,2022,Ecuador,José Cifuentes,Ecuador,MF,23,1999,2,59,30,21.9,0.7,0,,0,2,30,1,1.5,1,1,0,0.0,-0.43
+INT-World Cup,2022,Ecuador,Kevin Rodríguez,Ecuador,FW,22,2000,2,2,1,0.7,0.0,0,,0,2,1,1,2.0,0,0,0,0.0,-0.34
+INT-World Cup,2022,Ecuador,Michael Estrada,Ecuador,FW,26,1996,3,225,75,83.3,2.5,3,75,0,0,,0,1.33,3,2,1,0.4,0.4
+INT-World Cup,2022,Ecuador,Moisés Caicedo,Ecuador,MF,20,2001,3,269,90,99.6,3.0,3,90,2,0,,0,1.33,4,3,1,0.33,0.33
+INT-World Cup,2022,Ecuador,Moisés Ramírez,Ecuador,GK,21,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Pervis Estupiñán,Ecuador,"DF,MF",24,1998,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,3,1,0.33,
+INT-World Cup,2022,Ecuador,Piero Hincapié,Ecuador,DF,20,2002,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,4,3,1,0.33,
+INT-World Cup,2022,Ecuador,Robert Arboleda,Ecuador,DF,30,1991,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Romario Ibarra,Ecuador,MF,27,1994,2,68,34,25.2,0.8,1,67,0,1,1,1,2.0,2,0,2,2.65,3.09
+INT-World Cup,2022,Ecuador,Willian Pacho,Ecuador,DF,20,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Xavier Arreaga,Ecuador,DF,27,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Ángel Mena,Ecuador,"FW,MF",34,1988,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ecuador,Ángelo Preciado,Ecuador,"DF,MF",24,1998,3,264,88,97.8,2.9,3,88,2,0,,0,1.33,4,3,1,0.34,0.34
+INT-World Cup,2022,England,Aaron Ramsdale,England,GK,24,1998,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,England,Ben White,England,DF,24,1997,0,,,,,0,,0,0,,2,,,,,,
+INT-World Cup,2022,England,Bukayo Saka,England,"FW,MF",20,2001,4,288,72,64.0,3.2,4,72,0,0,,1,1.75,8,3,5,1.56,-0.66
+INT-World Cup,2022,England,Callum Wilson,England,FW,30,1992,2,48,24,10.7,0.5,0,,0,2,24,3,3.0,2,1,1,1.87,0.08
+INT-World Cup,2022,England,Conor Coady,England,"DF,MF",29,1993,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,England,Conor Gallagher,England,MF,22,2000,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,England,Declan Rice,England,MF,23,1999,5,417,83,92.7,4.6,5,83,4,0,,0,2.0,12,4,8,1.73,-1.0
+INT-World Cup,2022,England,Eric Dier,England,"DF,MF",28,1994,2,36,18,8.0,0.4,0,,0,2,18,3,3.0,2,1,1,2.5,0.76
+INT-World Cup,2022,England,Harry Kane,England,FW,28,1993,5,402,80,89.3,4.5,5,80,3,0,,0,2.0,11,3,8,1.79,-0.08
+INT-World Cup,2022,England,Harry Maguire,England,DF,29,1993,5,429,86,95.3,4.8,5,86,4,0,,0,2.0,11,3,8,1.68,-2.61
+INT-World Cup,2022,England,Jack Grealish,England,"FW,MF",26,1995,5,86,17,19.1,1.0,0,,0,5,17,0,2.0,1,1,0,0.0,-2.23
+INT-World Cup,2022,England,James Maddison,England,"FW,MF",25,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,England,John Stones,England,DF,28,1994,5,434,87,96.4,4.8,5,87,3,0,,0,2.0,13,4,9,1.87,1.87
+INT-World Cup,2022,England,Jordan Henderson,England,MF,31,1990,4,271,68,60.2,3.0,3,83,1,1,22,1,1.75,7,2,5,1.66,-0.35
+INT-World Cup,2022,England,Jordan Pickford,England,GK,28,1994,5,450,90,100.0,5.0,5,90,5,0,,0,2.0,13,4,9,1.8,
+INT-World Cup,2022,England,Jude Bellingham,England,MF,18,2003,5,414,83,92.0,4.6,5,83,3,0,,0,2.0,13,4,9,1.96,1.96
+INT-World Cup,2022,England,Kalvin Phillips,England,"DF,MF",26,1995,2,42,21,9.3,0.5,0,,0,2,21,3,3.0,1,0,1,2.14,0.38
+INT-World Cup,2022,England,Kieran Trippier,England,DF,31,1990,3,206,69,45.8,2.3,2,90,2,1,26,2,2.33,7,2,5,2.18,0.71
+INT-World Cup,2022,England,Kyle Walker,England,DF,32,1990,3,236,79,52.4,2.6,3,79,2,0,,2,2.0,6,2,4,1.53,-0.58
+INT-World Cup,2022,England,Luke Shaw,England,DF,26,1995,5,424,85,94.2,4.7,5,85,4,0,,0,2.0,12,4,8,1.7,-1.76
+INT-World Cup,2022,England,Marcus Rashford,England,MF,24,1997,5,140,28,31.1,1.6,1,74,0,4,17,0,2.0,5,1,4,2.57,1.12
+INT-World Cup,2022,England,Mason Mount,England,MF,23,1999,4,186,47,41.3,2.1,2,80,1,2,13,1,1.75,5,1,4,1.94,0.23
+INT-World Cup,2022,England,Nick Pope,England,GK,30,1992,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,England,Phil Foden,England,"FW,MF",22,2000,4,258,65,57.3,2.9,3,79,1,1,20,1,2.25,8,3,5,1.74,-0.13
+INT-World Cup,2022,England,Raheem Sterling,England,"MF,FW",27,1994,3,149,50,33.1,1.7,2,69,0,1,12,1,1.33,5,1,4,2.42,0.92
+INT-World Cup,2022,England,Trent Alexander-Arnold,England,"DF,MF",23,1998,1,34,34,7.6,0.4,0,,0,1,34,4,3.0,1,0,1,2.65,0.92
+INT-World Cup,2022,France,Adrien Rabiot,France,MF,27,1995,6,483,81,73.2,5.4,5,91,4,1,28,0,2.17,13,6,7,1.3,0.8
+INT-World Cup,2022,France,Alphonse Areola,France,GK,29,1993,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,France,Antoine Griezmann,France,MF,31,1991,7,537,77,81.4,6.0,6,87,4,1,18,0,2.29,13,6,7,1.17,0.44
+INT-World Cup,2022,France,Aurélien Tchouaméni,France,MF,22,2000,7,621,89,94.1,6.9,7,89,5,0,,0,2.29,14,7,7,1.01,-1.29
+INT-World Cup,2022,France,Axel Disasi,France,DF,24,1998,3,92,31,13.9,1.0,1,90,1,2,1,4,1.33,0,2,-2,-1.96,-3.54
+INT-World Cup,2022,France,Benjamin Pavard,France,DF,26,1996,1,88,88,13.3,1.0,1,88,0,0,,6,3.0,4,1,3,3.07,2.28
+INT-World Cup,2022,France,Dayot Upamecano,France,DF,23,1998,5,480,96,72.7,5.3,5,96,5,0,,2,2.6,14,7,7,1.31,0.81
+INT-World Cup,2022,France,Eduardo Camavinga,France,DF,19,2002,2,140,70,21.2,1.6,1,90,1,1,50,5,0.5,3,2,1,0.64,-0.57
+INT-World Cup,2022,France,Hugo Lloris,France,GK,35,1986,6,570,95,86.4,6.3,6,95,6,0,,1,2.67,16,7,9,1.42,2.42
+INT-World Cup,2022,France,Ibrahima Konaté,France,DF,23,1999,5,294,59,44.5,3.3,3,90,3,2,12,2,2.0,8,2,6,1.84,1.34
+INT-World Cup,2022,France,Jordan Veretout,France,MF,29,1993,1,62,62,9.4,0.7,1,62,0,0,,6,0.0,0,1,-1,-1.45,-2.81
+INT-World Cup,2022,France,Jules Koundé,France,DF,23,1998,6,480,80,72.7,5.3,5,96,3,1,2,1,2.67,11,5,6,1.13,0.13
+INT-World Cup,2022,France,Kingsley Coman,France,FW,26,1996,6,169,28,25.6,1.9,1,62,0,5,21,1,2.17,5,3,2,1.07,-0.03
+INT-World Cup,2022,France,Kylian Mbappé,France,"MF,FW",23,1998,7,598,85,90.6,6.6,6,95,6,1,28,0,2.29,16,7,9,1.35,2.81
+INT-World Cup,2022,France,Lucas Hernández,France,DF,26,1996,1,12,12,1.8,0.1,1,12,0,0,,0,3.0,0,1,-1,-7.5,-8.75
+INT-World Cup,2022,France,Marcus Thuram,France,"FW,MF",24,1997,5,151,30,22.9,1.7,0,,0,5,30,2,2.6,6,3,3,1.79,0.9
+INT-World Cup,2022,France,Mattéo Guendouzi,France,FW,23,1999,1,78,78,11.8,0.9,1,78,0,0,,6,0.0,0,1,-1,-1.15,-2.55
+INT-World Cup,2022,France,Olivier Giroud,France,FW,35,1986,6,419,70,63.5,4.7,6,70,1,0,,1,2.67,10,4,6,1.29,0.54
+INT-World Cup,2022,France,Ousmane Dembélé,France,"MF,FW",25,1997,7,433,62,65.6,4.8,6,70,0,1,12,0,2.29,11,5,6,1.25,0.45
+INT-World Cup,2022,France,Randal Kolo Muani,France,FW,23,1998,3,182,61,27.6,2.0,1,90,1,2,46,4,1.33,3,2,1,0.49,-0.82
+INT-World Cup,2022,France,Raphaël Varane,France,DF,29,1993,6,518,86,78.5,5.8,6,86,3,0,,1,2.17,10,7,3,0.52,-2.65
+INT-World Cup,2022,France,Steve Mandanda,France,GK,37,1985,1,90,90,13.6,1.0,1,90,1,0,,6,0.0,0,1,-1,-1.0,-2.42
+INT-World Cup,2022,France,Theo Hernández,France,DF,24,1997,6,508,85,77.0,5.6,5,86,4,1,78,1,2.67,13,5,8,1.42,1.42
+INT-World Cup,2022,France,William Saliba,France,DF,21,2001,1,28,28,4.2,0.3,0,,0,1,28,6,0.0,0,0,0,0.0,-1.14
+INT-World Cup,2022,France,Youssouf Fofana,France,MF,23,1999,6,227,38,34.4,2.5,2,81,1,4,16,1,2.17,5,3,2,0.79,-0.45
+INT-World Cup,2022,Germany,Antonio Rüdiger,Germany,DF,29,1993,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,6,5,1,0.33,
+INT-World Cup,2022,Germany,Armel Bella Kotchap,Germany,DF,20,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,Christian Günter,Germany,"DF,MF",29,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,David Raum,Germany,DF,24,1998,3,242,81,89.6,2.7,3,81,1,0,,0,1.33,3,4,-1,-0.37,-6.8
+INT-World Cup,2022,Germany,Jamal Musiala,Germany,MF,19,2003,3,258,86,95.6,2.9,3,86,2,0,,0,1.33,6,4,2,0.7,8.2
+INT-World Cup,2022,Germany,Jonas Hofmann,Germany,MF,29,1992,2,30,15,11.1,0.3,0,,0,2,15,1,0.5,0,2,-2,-6.0,-7.12
+INT-World Cup,2022,Germany,Joshua Kimmich,Germany,"MF,DF",27,1995,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,6,5,1,0.33,
+INT-World Cup,2022,Germany,Julian Brandt,Germany,"FW,MF",26,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,Kai Havertz,Germany,FW,23,1999,2,102,51,37.8,1.1,1,78,0,1,24,1,1.5,4,2,2,1.76,2.3
+INT-World Cup,2022,Germany,Karim Adeyemi,Germany,"FW,MF",20,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,Kevin Trapp,Germany,GK,31,1990,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,Leon Goretzka,Germany,MF,27,1995,3,159,53,58.9,1.8,2,68,1,1,24,0,1.33,2,3,-1,-0.57,-2.19
+INT-World Cup,2022,Germany,Leroy Sané,Germany,MF,26,1996,2,111,56,41.1,1.2,1,90,1,1,21,1,2.0,5,2,3,2.43,3.56
+INT-World Cup,2022,Germany,Lukas Klostermann,Germany,"DF,MF",26,1996,2,66,33,24.4,0.7,0,,0,2,33,1,2.0,4,2,2,2.73,3.17
+INT-World Cup,2022,Germany,Manuel Neuer,Germany,GK,36,1986,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,6,5,1,0.33,
+INT-World Cup,2022,Germany,Marc-André ter Stegen,Germany,GK,30,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Germany,Mario Götze,Germany,"FW,MF",30,1992,2,36,18,13.3,0.4,0,,0,2,18,1,1.5,3,2,1,2.5,2.5
+INT-World Cup,2022,Germany,Matthias Ginter,Germany,"DF,MF",28,1994,1,1,1,0.4,0.0,0,,0,1,1,2,3.0,0,0,0,0.0,-0.33
+INT-World Cup,2022,Germany,Niclas Füllkrug,Germany,FW,29,1993,3,69,23,25.6,0.8,0,,0,3,23,0,1.33,4,3,1,1.3,1.3
+INT-World Cup,2022,Germany,Nico Schlotterbeck,Germany,DF,22,1999,2,94,47,34.8,1.0,1,90,1,1,4,1,0.5,1,2,-1,-0.96,-1.98
+INT-World Cup,2022,Germany,Niklas Süle,Germany,DF,26,1995,3,269,90,99.6,3.0,3,90,2,0,,0,1.33,6,5,1,0.33,0.33
+INT-World Cup,2022,Germany,Serge Gnabry,Germany,MF,26,1995,3,263,88,97.4,2.9,3,88,1,0,,0,1.33,6,5,1,0.34,0.34
+INT-World Cup,2022,Germany,Thilo Kehrer,Germany,DF,25,1996,1,69,69,25.6,0.8,1,69,0,0,,2,1.0,0,1,-1,-1.3,-2.2
+INT-World Cup,2022,Germany,Thomas Müller,Germany,"FW,MF",32,1989,3,201,67,74.4,2.2,3,67,0,0,,0,1.33,2,2,0,0.0,-1.3
+INT-World Cup,2022,Germany,Youssoufa Moukoko,Germany,FW,17,2004,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,-0.33
+INT-World Cup,2022,Germany,İlkay Gündoğan,Germany,MF,31,1990,3,189,63,70.0,2.1,3,63,0,0,,0,1.33,2,1,1,0.48,0.48
+INT-World Cup,2022,Ghana,Abdul Fatawu Issahaku,Ghana,"FW,MF",18,2004,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,0.67
+INT-World Cup,2022,Ghana,Abdul Rahman Baba,Ghana,"MF,DF",27,1994,3,183,61,67.8,2.0,2,90,2,1,3,0,1.0,2,5,-3,-1.48,-2.51
+INT-World Cup,2022,Ghana,Alexander Djiku,Ghana,DF,27,1994,2,97,49,35.9,1.1,1,89,0,1,8,1,1.5,2,3,-1,-0.93,-0.41
+INT-World Cup,2022,Ghana,Alidu Seidu,Ghana,"MF,DF",22,2000,2,155,78,57.4,1.7,2,78,1,0,,1,0.0,0,3,-3,-1.74,-2.52
+INT-World Cup,2022,Ghana,André Ayew,Ghana,"MF,FW",32,1989,3,198,66,73.3,2.2,3,66,0,0,,0,1.0,4,5,-1,-0.45,0.8
+INT-World Cup,2022,Ghana,Antoine Semenyo,Ghana,"FW,MF",22,2000,2,20,10,7.4,0.2,0,,0,2,10,1,0.0,0,0,0,0.0,0.72
+INT-World Cup,2022,Ghana,Daniel Afriyie,Ghana,FW,20,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Daniel Amartey,Ghana,DF,27,1994,3,251,84,93.0,2.8,3,84,2,0,,0,1.0,5,7,-2,-0.72,-0.72
+INT-World Cup,2022,Ghana,Daniel Kyereh,Ghana,"FW,MF",26,1996,3,33,11,12.2,0.4,0,,0,3,11,0,1.0,0,0,0,0.0,0.76
+INT-World Cup,2022,Ghana,Danlad Ibrahim,Ghana,GK,19,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Denis Odoi,Ghana,"DF,MF",34,1988,1,13,13,4.8,0.1,0,,0,1,13,2,3.0,0,0,0,0.0,0.7
+INT-World Cup,2022,Ghana,Elisha Owusu,Ghana,MF,24,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Gideon Mensah,Ghana,DF,23,1998,1,87,87,32.2,1.0,1,87,0,0,,2,3.0,3,2,1,1.03,2.51
+INT-World Cup,2022,Ghana,Iñaki Williams,Ghana,"FW,MF",27,1994,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,5,7,-2,-0.67,
+INT-World Cup,2022,Ghana,Jordan Ayew,Ghana,MF,30,1991,3,136,45,50.4,1.5,2,61,0,1,14,0,1.0,4,6,-2,-1.32,-1.32
+INT-World Cup,2022,Ghana,Joseph Aidoo,Ghana,DF,26,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Kamal Sowah,Ghana,"FW,MF",22,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Kamaldeen Sulemana,Ghana,"FW,MF",20,2002,2,58,29,21.5,0.6,0,,0,2,29,1,1.5,0,0,0,0.0,0.85
+INT-World Cup,2022,Ghana,Lawrence Ati-Zigi,Ghana,GK,25,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,5,7,-2,-0.67,
+INT-World Cup,2022,Ghana,Manaf Nurudeen,Ghana,GK,23,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Ghana,Mohammed Kudus,Ghana,"MF,FW",21,2000,3,247,82,91.5,2.7,3,82,0,0,,0,1.0,4,5,-1,-0.36,3.55
+INT-World Cup,2022,Ghana,Mohammed Salisu,Ghana,DF,23,1999,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,5,7,-2,-0.67,
+INT-World Cup,2022,Ghana,Osman Bukari,Ghana,"FW,MF",23,1998,2,59,30,21.9,0.7,0,,0,2,30,1,0.0,1,2,-1,-1.53,-1.1
+INT-World Cup,2022,Ghana,Salis Abdul Samed,Ghana,MF,22,2000,3,250,83,92.6,2.8,3,83,1,0,,0,1.0,5,7,-2,-0.72,-0.72
+INT-World Cup,2022,Ghana,Tariq Lamptey,Ghana,DF,21,2000,2,102,51,37.8,1.1,1,77,0,1,25,1,1.5,5,4,1,0.88,2.49
+INT-World Cup,2022,Ghana,Thomas Partey,Ghana,MF,29,1993,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,5,7,-2,-0.67,
+INT-World Cup,2022,IR Iran,Abolfazl Jalali,IR Iran,DF,23,1998,1,19,19,7.0,0.2,0,,0,1,19,2,0.0,0,0,0,0.0,1.08
+INT-World Cup,2022,IR Iran,Ahmad Nourollahi,IR Iran,MF,29,1993,3,223,74,82.6,2.5,3,74,0,0,,0,1.0,1,6,-5,-2.02,-5.85
+INT-World Cup,2022,IR Iran,Ali Gholizadeh,IR Iran,"MF,FW",26,1996,3,199,66,73.7,2.2,2,77,0,1,45,0,1.0,2,4,-2,-0.9,0.36
+INT-World Cup,2022,IR Iran,Ali Karimi,IR Iran,MF,28,1994,3,99,33,36.7,1.1,1,45,0,2,27,0,1.0,2,3,-1,-0.91,0.14
+INT-World Cup,2022,IR Iran,Alireza Beiranvand,IR Iran,GK,29,1992,2,109,55,40.4,1.2,2,55,1,0,,0,0.0,0,1,-1,-0.83,0.29
+INT-World Cup,2022,IR Iran,Alireza Jahanbakhsh,IR Iran,MF,28,1993,2,59,30,21.9,0.7,1,45,0,1,14,0,1.5,2,3,-1,-1.53,-0.67
+INT-World Cup,2022,IR Iran,Amir Abedzadeh,IR Iran,GK,29,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,IR Iran,Ehsan Hajsafi,IR Iran,MF,32,1990,3,237,79,87.8,2.6,3,79,1,0,,0,1.0,2,7,-5,-1.9,-7.35
+INT-World Cup,2022,IR Iran,Hossein Hosseini,IR Iran,GK,29,1992,2,161,81,59.6,1.8,1,90,1,1,71,1,1.5,4,6,-2,-1.12,-0.29
+INT-World Cup,2022,IR Iran,Hossein Kanaanizadegan,IR Iran,DF,28,1994,1,45,45,16.7,0.5,0,,0,1,45,1,0.0,2,4,-2,-4.0,-3.6
+INT-World Cup,2022,IR Iran,Karim Ansarifard,IR Iran,FW,32,1990,2,35,18,13.0,0.4,0,,0,2,18,1,1.5,2,0,2,5.14,7.06
+INT-World Cup,2022,IR Iran,Majid Hosseini,IR Iran,DF,25,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,4,7,-3,-1.0,
+INT-World Cup,2022,IR Iran,Mehdi Taremi,IR Iran,"FW,MF",29,1992,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,4,7,-3,-1.0,
+INT-World Cup,2022,IR Iran,Mehdi Torabi,IR Iran,MF,27,1994,3,62,21,23.0,0.7,0,,0,3,21,0,1.0,4,2,2,2.9,5.07
+INT-World Cup,2022,IR Iran,Milad Mohammadi,IR Iran,DF,28,1993,3,196,65,72.6,2.2,3,65,1,0,,0,1.0,2,5,-3,-1.38,-1.38
+INT-World Cup,2022,IR Iran,Morteza Pouraliganji,IR Iran,DF,30,1992,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,4,7,-3,-1.0,
+INT-World Cup,2022,IR Iran,Payam Niazmand,IR Iran,GK,27,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,IR Iran,Ramin Rezaeian,IR Iran,DF,32,1990,2,180,90,66.7,2.0,2,90,2,0,,1,1.5,2,1,1,0.5,4.5
+INT-World Cup,2022,IR Iran,Rouzbeh Cheshmi,IR Iran,DF,28,1993,2,58,29,21.5,0.6,1,45,0,1,13,1,1.5,2,3,-1,-1.55,-0.7
+INT-World Cup,2022,IR Iran,Sadegh Moharrami,IR Iran,DF,26,1996,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,2,6,-4,-4.0,-4.5
+INT-World Cup,2022,IR Iran,Saeid Ezatolahi,IR Iran,MF,25,1996,3,217,72,80.4,2.4,2,86,1,1,45,0,1.0,2,4,-2,-0.83,0.87
+INT-World Cup,2022,IR Iran,Saman Ghoddos,IR Iran,"FW,MF",28,1993,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,0,0,0,0.0,1.2
+INT-World Cup,2022,IR Iran,Sardar Azmoun,IR Iran,FW,27,1995,3,126,42,46.7,1.4,2,56,0,1,14,0,1.0,1,2,-1,-0.71,0.54
+INT-World Cup,2022,IR Iran,Shoja' Khalilzadeh,IR Iran,DF,33,1989,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,IR Iran,Vahid Amiri,IR Iran,"FW,MF",34,1988,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Japan,Ao Tanaka,Japan,MF,23,1998,3,171,57,43.8,1.9,2,78,0,1,15,1,2.33,2,2,0,0.0,-0.41
+INT-World Cup,2022,Japan,Ayase Ueda,Japan,FW,23,1998,1,45,45,11.5,0.5,1,45,0,0,,3,0.0,0,0,0,0.0,-0.26
+INT-World Cup,2022,Japan,Daichi Kamada,Japan,"MF,FW",25,1996,4,322,81,82.6,3.6,4,81,2,0,,0,1.75,5,4,1,0.28,0.28
+INT-World Cup,2022,Japan,Daizen Maeda,Japan,FW,24,1997,3,180,60,46.2,2.0,3,60,0,0,,1,2.33,3,3,0,0.0,-0.43
+INT-World Cup,2022,Japan,Daniel Schmidt,Japan,GK,30,1992,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Japan,Eiji Kawashima,Japan,GK,39,1983,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Japan,Gaku Shibasaki,Japan,MF,30,1992,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Japan,Hidemasa Morita,Japan,MF,27,1995,3,285,95,73.1,3.2,3,95,2,0,,1,1.33,3,3,0,0.0,-0.86
+INT-World Cup,2022,Japan,Hiroki Ito,Japan,DF,23,1999,1,45,45,11.5,0.5,0,,0,1,45,3,0.0,0,1,-1,-2.0,-2.52
+INT-World Cup,2022,Japan,Hiroki Sakai,Japan,DF,32,1990,2,119,60,30.5,1.3,1,73,0,1,46,2,2.0,0,1,-1,-0.76,-1.42
+INT-World Cup,2022,Japan,Junya Itō,Japan,MF,29,1993,4,324,81,83.1,3.6,3,100,3,1,24,0,1.75,5,4,1,0.28,0.28
+INT-World Cup,2022,Japan,Kaoru Mitoma,Japan,"FW,MF",25,1997,4,165,41,42.3,1.8,0,,0,4,41,0,1.75,4,1,3,1.64,2.44
+INT-World Cup,2022,Japan,Ko Itakura,Japan,DF,25,1997,3,270,90,69.2,3.0,3,90,3,0,,0,2.0,4,3,1,0.33,0.33
+INT-World Cup,2022,Japan,Maya Yoshida,Japan,DF,33,1988,4,390,98,100.0,4.3,4,98,4,0,,0,1.75,5,4,1,0.23,
+INT-World Cup,2022,Japan,Miki Yamane,Japan,DF,28,1993,1,61,61,15.6,0.7,1,61,0,0,,3,0.0,0,0,0,0.0,-0.27
+INT-World Cup,2022,Japan,Ritsu Doan,Japan,"MF,FW",23,1998,4,217,54,55.6,2.4,2,76,0,2,33,0,1.75,5,1,4,1.66,3.22
+INT-World Cup,2022,Japan,Shogo Taniguchi,Japan,DF,30,1991,2,210,105,53.8,2.3,2,105,2,0,,2,2.0,3,2,1,0.43,0.43
+INT-World Cup,2022,Japan,Shuto Machino,Japan,FW,22,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Japan,Shūichi Gonda,Japan,GK,33,1989,4,390,98,100.0,4.3,4,98,4,0,,0,1.75,5,4,1,0.23,
+INT-World Cup,2022,Japan,Takefusa Kubo,Japan,"MF,FW",21,2001,2,90,45,23.1,1.0,2,45,0,0,,1,3.0,0,2,-2,-2.0,-2.9
+INT-World Cup,2022,Japan,Takehiro Tomiyasu,Japan,DF,23,1998,3,187,62,47.9,2.1,1,120,1,2,34,1,2.33,3,1,2,0.96,1.41
+INT-World Cup,2022,Japan,Takuma Asano,Japan,"FW,MF",27,1994,4,165,41,42.3,1.8,0,,0,4,41,0,1.75,2,1,1,0.55,0.55
+INT-World Cup,2022,Japan,Takumi Minamino,Japan,"FW,MF",27,1995,3,60,20,15.4,0.7,0,,0,3,20,1,1.33,2,0,2,3.0,3.27
+INT-World Cup,2022,Japan,Wataru Endo,Japan,MF,29,1993,4,304,76,77.9,3.4,3,100,3,1,4,0,1.75,3,3,0,0.0,-1.05
+INT-World Cup,2022,Japan,Yuki Soma,Japan,MF,25,1997,1,81,81,20.8,0.9,1,81,0,0,,3,0.0,0,1,-1,-1.11,-1.69
+INT-World Cup,2022,Japan,Yūto Nagatomo,Japan,"MF,DF",35,1986,4,209,52,53.6,2.3,4,52,0,0,,0,1.75,1,3,-2,-0.86,-2.35
+INT-World Cup,2022,Korea Republic,Cho Gue-sung,Korea Republic,FW,24,1998,4,275,69,76.4,3.1,3,86,1,1,17,0,1.0,4,8,-4,-1.31,-2.37
+INT-World Cup,2022,Korea Republic,Cho Yu-min,Korea Republic,DF,25,1996,1,1,1,0.3,0.0,0,,0,1,1,3,3.0,0,0,0,0.0,0.75
+INT-World Cup,2022,Korea Republic,Hong Chul,Korea Republic,"DF,MF",31,1990,1,45,45,12.5,0.5,0,,0,1,45,3,0.0,1,0,1,2.0,3.14
+INT-World Cup,2022,Korea Republic,Hwang Hee-chan,Korea Republic,MF,26,1996,2,115,58,31.9,1.3,1,90,1,1,25,2,1.5,2,4,-2,-1.57,-1.2
+INT-World Cup,2022,Korea Republic,Hwang In-beom,Korea Republic,MF,25,1996,4,334,84,92.8,3.7,4,84,3,0,,0,1.0,4,8,-4,-1.08,-4.54
+INT-World Cup,2022,Korea Republic,Hwang Ui-jo,Korea Republic,FW,29,1992,4,106,27,29.4,1.2,1,73,0,3,11,0,1.0,1,0,1,0.85,2.27
+INT-World Cup,2022,Korea Republic,Jeong Woo-yeong,Korea Republic,MF,22,1999,1,45,45,12.5,0.5,1,45,0,0,,3,0.0,0,2,-2,-4.0,-3.71
+INT-World Cup,2022,Korea Republic,Jo Hyeon-woo,Korea Republic,GK,30,1991,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Korea Republic,Jung Woo-young,Korea Republic,MF,32,1989,4,303,76,84.2,3.4,4,76,2,0,,0,1.0,4,8,-4,-1.19,-2.77
+INT-World Cup,2022,Korea Republic,Kim Jin-su,Korea Republic,DF,30,1992,4,315,79,87.5,3.5,4,79,3,0,,0,1.0,4,8,-4,-1.14,-3.14
+INT-World Cup,2022,Korea Republic,Kim Min-jae,Korea Republic,DF,25,1996,3,269,90,74.7,3.0,3,90,2,0,,1,0.33,3,7,-4,-1.34,-2.33
+INT-World Cup,2022,Korea Republic,Kim Moon-hwan,Korea Republic,DF,26,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,8,-3,-0.75,
+INT-World Cup,2022,Korea Republic,Kim Seung-gyu,Korea Republic,GK,31,1990,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,8,-3,-0.75,
+INT-World Cup,2022,Korea Republic,Kim Tae-hwan,Korea Republic,"DF,MF",32,1989,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Korea Republic,Kim Young-gwon,Korea Republic,DF,32,1990,4,350,88,97.2,3.9,4,88,3,0,,0,1.0,4,8,-4,-1.03,-10.03
+INT-World Cup,2022,Korea Republic,Kwon Chang-hoon,Korea Republic,MF,27,1994,1,56,56,15.6,0.6,1,56,0,0,,3,0.0,0,2,-2,-3.21,-2.92
+INT-World Cup,2022,Korea Republic,Kwon Kyung-won,Korea Republic,DF,30,1992,2,91,46,25.3,1.0,1,90,1,1,1,2,1.5,2,1,1,0.99,2.33
+INT-World Cup,2022,Korea Republic,Lee Jae-sung,Korea Republic,"MF,FW",29,1992,3,211,70,58.6,2.3,3,70,0,0,,1,1.33,1,5,-4,-1.71,-2.31
+INT-World Cup,2022,Korea Republic,Lee Kang-in,Korea Republic,MF,21,2001,4,147,37,40.8,1.6,1,80,0,3,22,0,1.0,4,2,2,1.22,3.34
+INT-World Cup,2022,Korea Republic,Na Sang-ho,Korea Republic,MF,25,1996,2,119,60,33.1,1.3,1,74,0,1,45,2,0.5,2,1,1,0.76,2.25
+INT-World Cup,2022,Korea Republic,Paik Seung-ho,Korea Republic,MF,25,1997,1,26,26,7.2,0.3,0,,0,1,26,3,0.0,1,0,1,3.46,4.54
+INT-World Cup,2022,Korea Republic,Son Heung-min,Korea Republic,"MF,FW",29,1992,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,8,-3,-0.75,
+INT-World Cup,2022,Korea Republic,Son Jun-ho,Korea Republic,MF,30,1992,3,72,24,20.0,0.8,0,,0,3,24,1,1.33,2,0,2,2.5,4.06
+INT-World Cup,2022,Korea Republic,Song Bum-keun,Korea Republic,GK,24,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Korea Republic,Song Minkyu,Korea Republic,"FW,MF",22,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Korea Republic,Yoon Jong-gyu,Korea Republic,"DF,MF",24,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Mexico,Alexis Vega,Mexico,"FW,MF",24,1997,3,193,64,71.5,2.1,3,64,0,0,,0,1.33,0,1,-1,-0.47,-0.47
+INT-World Cup,2022,Mexico,Alfredo Talavera,Mexico,GK,39,1982,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Mexico,Andrés Guardado,Mexico,MF,35,1986,1,41,41,15.2,0.5,1,41,0,0,,2,0.0,0,0,0,0.0,0.39
+INT-World Cup,2022,Mexico,Charly Rodríguez,Mexico,MF,25,1997,2,34,17,12.6,0.4,0,,0,2,17,1,2.0,0,1,-1,-2.65,-2.65
+INT-World Cup,2022,Mexico,César Montes,Mexico,DF,25,1997,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,3,-1,-0.33,
+INT-World Cup,2022,Mexico,Edson Álvarez,Mexico,MF,24,1997,2,175,88,64.8,1.9,2,88,1,0,,1,2.0,2,0,2,1.03,3.87
+INT-World Cup,2022,Mexico,Erick Gutiérrez,Mexico,MF,26,1995,1,49,49,18.1,0.5,0,,0,1,49,2,0.0,0,2,-2,-3.67,-4.08
+INT-World Cup,2022,Mexico,Gerardo Arteaga,Mexico,"DF,MF",23,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Mexico,Guillermo Ochoa,Mexico,GK,36,1985,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,3,-1,-0.33,
+INT-World Cup,2022,Mexico,Henry Martín,Mexico,FW,29,1992,2,146,73,54.1,1.6,2,73,0,0,,1,2.0,2,0,2,1.23,3.41
+INT-World Cup,2022,Mexico,Hirving Lozano,Mexico,"FW,MF",26,1995,3,252,84,93.3,2.8,3,84,2,0,,0,1.33,2,2,0,0.0,5.0
+INT-World Cup,2022,Mexico,Héctor Herrera,Mexico,MF,32,1990,2,160,80,59.3,1.8,2,80,1,0,,1,0.5,0,2,-2,-1.13,-1.94
+INT-World Cup,2022,Mexico,Héctor Moreno,Mexico,DF,34,1988,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,3,-1,-0.33,
+INT-World Cup,2022,Mexico,Jesús Gallardo,Mexico,DF,27,1994,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,3,-1,-0.33,
+INT-World Cup,2022,Mexico,Johan Vásquez,Mexico,DF,23,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Mexico,Jorge Sánchez,Mexico,DF,24,1997,2,175,88,64.8,1.9,2,88,1,0,,1,2.0,2,0,2,1.03,3.87
+INT-World Cup,2022,Mexico,Kevin Álvarez,Mexico,DF,23,1999,2,70,35,25.9,0.8,1,65,0,1,5,1,1.5,0,2,-2,-2.57,-3.02
+INT-World Cup,2022,Mexico,Luis Chávez,Mexico,MF,26,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,3,-1,-0.33,
+INT-World Cup,2022,Mexico,Luis Romo,Mexico,"DF,MF",27,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Mexico,Néstor Araujo,Mexico,DF,30,1991,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,2,-2,-2.0,-2.5
+INT-World Cup,2022,Mexico,Orbelín Pineda,Mexico,MF,26,1996,1,76,76,28.1,0.8,1,76,0,0,,2,3.0,2,0,2,2.37,3.76
+INT-World Cup,2022,Mexico,Raúl Jiménez,Mexico,FW,31,1991,3,59,20,21.9,0.7,0,,0,3,20,0,1.33,0,2,-2,-3.05,-3.48
+INT-World Cup,2022,Mexico,Roberto Alvarado,Mexico,"FW,MF",23,1998,1,18,18,6.7,0.2,0,,0,1,18,2,0.0,0,1,-1,-5.0,-5.0
+INT-World Cup,2022,Mexico,Rodolfo Cota,Mexico,GK,34,1987,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Mexico,Rogelio Funes Mori,Mexico,FW,31,1991,1,5,5,1.9,0.1,0,,0,1,5,2,3.0,0,1,-1,-18.0,-18.0
+INT-World Cup,2022,Mexico,Uriel Antuna,Mexico,"FW,MF",24,1997,3,77,26,28.5,0.9,0,,0,3,26,0,1.33,2,2,0,0.0,0.47
+INT-World Cup,2022,Morocco,Abde Ezzalzouli,Morocco,"FW,MF",20,2001,3,93,31,14.1,1.0,0,,0,3,31,4,0.67,0,1,-1,-0.97,-1.29
+INT-World Cup,2022,Morocco,Abdelhamid Sabiri,Morocco,MF,25,1996,5,181,36,27.4,2.0,2,55,0,3,24,2,1.6,5,3,2,0.99,1.18
+INT-World Cup,2022,Morocco,Abderrazak Hamdallah,Morocco,FW,31,1990,4,68,17,10.3,0.8,0,,0,4,17,3,1.75,1,1,0,0.0,-0.15
+INT-World Cup,2022,Morocco,Achraf Dari,Morocco,DF,23,1999,3,187,62,28.3,2.1,2,77,1,1,34,4,1.0,1,4,-3,-1.44,-2.2
+INT-World Cup,2022,Morocco,Achraf Hakimi,Morocco,DF,23,1998,7,631,90,95.6,7.0,7,90,5,0,,0,1.57,4,5,-1,-0.14,-6.35
+INT-World Cup,2022,Morocco,Ahmed Reda Tagnaouti,Morocco,GK,26,1996,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2022,Morocco,Anass Zaroury,Morocco,"FW,MF",21,2000,1,27,27,4.1,0.3,0,,0,1,27,6,0.0,0,0,0,0.0,-0.14
+INT-World Cup,2022,Morocco,Azzedine Ounahi,Morocco,MF,22,2000,7,568,81,86.1,6.3,6,89,2,1,35,0,1.57,4,3,1,0.16,0.16
+INT-World Cup,2022,Morocco,Badr Banoun,Morocco,DF,28,1993,3,54,18,8.2,0.6,0,,0,3,18,4,1.33,0,0,0,0.0,-0.15
+INT-World Cup,2022,Morocco,Bilal El Khannouss,Morocco,MF,18,2004,1,55,55,8.3,0.6,1,55,0,0,,6,0.0,1,2,-1,-1.64,-1.93
+INT-World Cup,2022,Morocco,Hakim Ziyech,Morocco,"FW,MF",29,1993,7,635,91,96.2,7.1,7,91,5,0,,0,1.57,6,5,1,0.14,0.14
+INT-World Cup,2022,Morocco,Ilias Chair,Morocco,"FW,MF",24,1997,1,45,45,6.8,0.5,0,,0,1,45,6,0.0,0,0,0,0.0,-0.15
+INT-World Cup,2022,Morocco,Jawad El Yamiq,Morocco,DF,30,1992,6,309,52,46.8,3.4,3,82,2,3,21,1,1.67,3,4,-1,-0.29,-0.8
+INT-World Cup,2022,Morocco,Munir,Morocco,GK,33,1989,1,90,90,13.6,1.0,1,90,1,0,,6,3.0,2,0,2,2.0,2.16
+INT-World Cup,2022,Morocco,Nayef Aguerd,Morocco,DF,26,1996,4,353,88,53.5,3.9,4,88,3,0,,2,2.0,4,1,3,0.76,1.35
+INT-World Cup,2022,Morocco,Noussair Mazraoui,Morocco,DF,24,1997,5,365,73,55.3,4.1,5,73,2,0,,0,1.6,4,2,2,0.49,0.8
+INT-World Cup,2022,Morocco,Romain Saïss,Morocco,DF,32,1990,6,466,78,70.6,5.2,6,78,4,0,,1,1.83,5,2,3,0.58,1.51
+INT-World Cup,2022,Morocco,Selim Amallah,Morocco,MF,25,1996,7,409,58,62.0,4.5,4,75,1,3,36,0,1.57,1,0,1,0.22,0.22
+INT-World Cup,2022,Morocco,Sofiane Boufal,Morocco,"FW,MF",28,1993,7,475,68,72.0,5.3,7,68,0,0,,0,1.57,5,4,1,0.19,0.19
+INT-World Cup,2022,Morocco,Sofyan Amrabat,Morocco,MF,25,1996,7,660,94,100.0,7.3,7,94,7,0,,0,1.57,6,5,1,0.14,
+INT-World Cup,2022,Morocco,Walid Cheddira,Morocco,FW,24,1998,2,64,32,9.7,0.7,0,,0,2,32,4,2.0,0,0,0,0.0,-0.15
+INT-World Cup,2022,Morocco,Yahya Attiat Allah,Morocco,DF,27,1995,6,318,53,48.2,3.5,2,90,2,4,35,1,1.33,4,3,1,0.28,0.28
+INT-World Cup,2022,Morocco,Yahya Jabrane,Morocco,MF,30,1991,2,15,8,2.3,0.2,0,,0,2,8,5,3.0,0,0,0,0.0,-0.14
+INT-World Cup,2022,Morocco,Yassine Bounou,Morocco,GK,31,1991,6,570,95,86.4,6.3,6,95,6,0,,1,1.33,4,5,-1,-0.16,-2.16
+INT-World Cup,2022,Morocco,Youssef En-Nesyri,Morocco,FW,25,1997,7,542,77,82.1,6.0,7,77,2,0,,0,1.57,5,4,1,0.17,0.17
+INT-World Cup,2022,Morocco,Zakaria Aboukhlal,Morocco,"FW,MF",22,2000,4,79,20,12.0,0.9,0,,0,4,20,3,2.25,1,1,0,0.0,-0.15
+INT-World Cup,2022,Netherlands,Andries Noppert,Netherlands,GK,28,1994,5,480,96,100.0,5.3,5,96,5,0,,0,2.2,10,4,6,1.13,
+INT-World Cup,2022,Netherlands,Cody Gakpo,Netherlands,"FW,MF",23,1999,5,450,90,93.8,5.0,5,90,0,0,,0,2.2,9,4,5,1.0,-2.0
+INT-World Cup,2022,Netherlands,Daley Blind,Netherlands,MF,32,1990,5,423,85,88.1,4.7,5,85,4,0,,0,2.2,8,3,5,1.06,-0.52
+INT-World Cup,2022,Netherlands,Davy Klaassen,Netherlands,MF,29,1993,4,190,48,39.6,2.1,3,59,0,1,12,1,2.5,7,1,6,2.84,2.84
+INT-World Cup,2022,Netherlands,Denzel Dumfries,Netherlands,MF,26,1996,5,479,96,99.8,5.3,5,96,4,0,,0,2.2,10,4,6,1.13,1.13
+INT-World Cup,2022,Netherlands,Frenkie de Jong,Netherlands,MF,25,1997,5,475,95,99.0,5.3,5,95,4,0,,0,2.2,10,4,6,1.14,1.14
+INT-World Cup,2022,Netherlands,Jeremie Frimpong,Netherlands,"DF,MF",21,2000,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Netherlands,Jurriën Timber,Netherlands,DF,20,2001,4,390,98,81.3,4.3,4,98,4,0,,1,2.0,8,4,4,0.92,-1.08
+INT-World Cup,2022,Netherlands,Justin Bijlow,Netherlands,GK,24,1998,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Netherlands,Kenneth Taylor,Netherlands,MF,20,2002,1,5,5,1.0,0.1,0,,0,1,5,4,3.0,0,0,0,0.0,-1.14
+INT-World Cup,2022,Netherlands,Luuk de Jong,Netherlands,FW,31,1990,1,57,57,11.9,0.6,0,,0,1,57,4,1.0,2,1,1,1.58,0.52
+INT-World Cup,2022,Netherlands,Marten de Roon,Netherlands,MF,31,1991,5,184,37,38.3,2.0,3,57,0,2,7,0,2.2,5,1,4,1.96,1.35
+INT-World Cup,2022,Netherlands,Matthijs de Ligt,Netherlands,DF,22,1999,2,91,46,19.0,1.0,1,90,1,1,1,3,3.0,2,0,2,1.98,1.05
+INT-World Cup,2022,Netherlands,Memphis,Netherlands,FW,28,1994,5,297,59,61.9,3.3,3,74,0,2,37,0,2.2,7,4,3,0.91,-0.57
+INT-World Cup,2022,Netherlands,Nathan Aké,Netherlands,DF,27,1995,5,479,96,99.8,5.3,5,96,4,0,,0,2.2,10,4,6,1.13,1.13
+INT-World Cup,2022,Netherlands,Noa Lang,Netherlands,"FW,MF",22,1999,1,8,8,1.7,0.1,0,,0,1,8,4,1.0,0,0,0,0.0,-1.14
+INT-World Cup,2022,Netherlands,Remko Pasveer,Netherlands,GK,38,1983,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Netherlands,Stefan de Vrij,Netherlands,DF,30,1992,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Netherlands,Steven Berghuis,Netherlands,MF,30,1991,4,200,50,41.7,2.2,1,78,0,3,41,1,2.0,2,1,1,0.45,-1.16
+INT-World Cup,2022,Netherlands,Steven Bergwijn,Netherlands,FW,24,1997,4,213,53,44.4,2.4,3,56,0,1,45,1,2.0,2,2,0,0.0,-2.02
+INT-World Cup,2022,Netherlands,Teun Koopmeiners,Netherlands,MF,24,1998,5,219,44,45.6,2.4,1,78,0,4,35,0,2.2,6,3,3,1.23,0.2
+INT-World Cup,2022,Netherlands,Tyrell Malacia,Netherlands,DF,22,1999,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Netherlands,Vincent Janssen,Netherlands,FW,27,1994,2,86,43,17.9,1.0,1,61,0,1,25,3,3.0,0,0,0,0.0,-1.37
+INT-World Cup,2022,Netherlands,Virgil van Dijk,Netherlands,DF,30,1991,5,480,96,100.0,5.3,5,96,5,0,,0,2.2,10,4,6,1.13,
+INT-World Cup,2022,Netherlands,Wout Weghorst,Netherlands,FW,29,1992,4,64,16,13.3,0.7,0,,0,4,16,1,2.0,2,0,2,2.81,1.95
+INT-World Cup,2022,Netherlands,Xavi Simons,Netherlands,"FW,MF",19,2003,1,9,9,1.9,0.1,0,,0,1,9,4,3.0,0,0,0,0.0,-1.15
+INT-World Cup,2022,Poland,Arkadiusz Milik,Poland,FW,28,1994,3,101,34,28.1,1.1,1,70,0,2,16,1,1.33,2,2,0,0.0,0.69
+INT-World Cup,2022,Poland,Artur Jędrzejczyk,Poland,DF,34,1987,1,19,19,5.3,0.2,0,,0,1,19,3,0.0,0,0,0,0.0,0.53
+INT-World Cup,2022,Poland,Bartosz Bereszyński,Poland,DF,29,1992,4,341,85,94.7,3.8,4,85,3,0,,0,1.0,3,5,-2,-0.53,-0.53
+INT-World Cup,2022,Poland,Damian Szymański,Poland,MF,26,1995,1,29,29,8.1,0.3,0,,0,1,29,3,0.0,0,1,-1,-3.1,-2.83
+INT-World Cup,2022,Poland,Grzegorz Krychowiak,Poland,MF,32,1990,4,332,83,92.2,3.7,4,83,2,0,,0,1.0,2,3,-1,-0.27,2.94
+INT-World Cup,2022,Poland,Jakub Kamiński,Poland,MF,20,2002,4,233,58,64.7,2.6,2,80,1,2,37,0,1.0,1,2,-1,-0.39,0.32
+INT-World Cup,2022,Poland,Jakub Kiwior,Poland,DF,22,2000,4,355,89,98.6,3.9,4,89,3,0,,0,1.0,2,4,-2,-0.51,-0.51
+INT-World Cup,2022,Poland,Jan Bednarek,Poland,DF,26,1996,1,5,5,1.4,0.1,0,,0,1,5,3,0.0,1,1,0,0.0,0.51
+INT-World Cup,2022,Poland,Kamil Glik,Poland,DF,34,1988,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,3,5,-2,-0.5,
+INT-World Cup,2022,Poland,Kamil Grabara,Poland,GK,23,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Poland,Kamil Grosicki,Poland,"FW,MF",34,1988,1,4,4,1.1,0.0,0,,0,1,4,3,0.0,1,1,0,0.0,0.51
+INT-World Cup,2022,Poland,Karol Świderski,Poland,MF,25,1997,1,45,45,12.5,0.5,1,45,0,0,,3,0.0,0,1,-1,-2.0,-1.71
+INT-World Cup,2022,Poland,Krystian Bielik,Poland,MF,24,1998,4,216,54,60.0,2.4,2,76,1,2,33,0,1.0,3,3,0,0.0,1.25
+INT-World Cup,2022,Poland,Krzysztof Piątek,Poland,FW,26,1995,2,28,14,7.8,0.3,0,,0,2,14,2,1.5,1,0,1,3.21,4.03
+INT-World Cup,2022,Poland,Mateusz Wieteska,Poland,DF,25,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Poland,Matty Cash,Poland,DF,24,1997,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,3,5,-2,-0.5,
+INT-World Cup,2022,Poland,Michał Skóraś,Poland,MF,22,2000,1,45,45,12.5,0.5,0,,0,1,45,3,0.0,0,1,-1,-2.0,-1.71
+INT-World Cup,2022,Poland,Nicola Zalewski,Poland,MF,20,2002,2,65,33,18.1,0.7,1,45,0,1,20,2,0.5,1,2,-1,-1.38,-1.08
+INT-World Cup,2022,Poland,Piotr Zieliński,Poland,MF,28,1994,4,328,82,91.1,3.6,4,82,2,0,,0,1.0,2,5,-3,-0.82,-3.64
+INT-World Cup,2022,Poland,Przemysław Frankowski,Poland,MF,27,1995,4,240,60,66.7,2.7,3,74,1,1,19,0,1.0,2,3,-1,-0.37,0.38
+INT-World Cup,2022,Poland,Robert Gumny,Poland,DF,24,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Poland,Robert Lewandowski,Poland,FW,33,1988,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,3,5,-2,-0.5,
+INT-World Cup,2022,Poland,Sebastian Szymański,Poland,MF,23,1999,2,134,67,37.2,1.5,2,67,0,0,,2,0.5,0,1,-1,-0.67,-0.27
+INT-World Cup,2022,Poland,Szymon Żurkowski,Poland,MF,24,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Poland,Wojciech Szczęsny,Poland,GK,32,1990,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,3,5,-2,-0.5,
+INT-World Cup,2022,Poland,Łukasz Skorupski,Poland,GK,31,1991,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Portugal,André Silva,Portugal,FW,26,1995,1,26,26,5.8,0.3,0,,0,1,26,4,0.0,0,1,-1,-3.46,-4.95
+INT-World Cup,2022,Portugal,António Silva,Portugal,DF,18,2003,1,90,90,20.0,1.0,1,90,1,0,,4,0.0,1,2,-1,-1.0,-2.75
+INT-World Cup,2022,Portugal,Bernardo Silva,Portugal,MF,27,1994,5,356,71,79.1,4.0,4,87,2,1,9,0,1.8,10,4,6,1.52,1.52
+INT-World Cup,2022,Portugal,Bruno Fernandes,Portugal,FW,27,1994,4,356,89,79.1,4.0,4,89,3,0,,1,2.25,10,4,6,1.52,1.52
+INT-World Cup,2022,Portugal,Cristiano Ronaldo,Portugal,FW,37,1985,5,290,58,64.4,3.2,3,77,0,2,29,0,1.8,6,2,4,1.24,0.12
+INT-World Cup,2022,Portugal,Danilo Pereira,Portugal,DF,30,1991,1,90,90,20.0,1.0,1,90,1,0,,0,3.0,3,2,1,1.0,-0.25
+INT-World Cup,2022,Portugal,Diogo Costa,Portugal,GK,22,1999,5,450,90,100.0,5.0,5,90,5,0,,0,1.8,12,6,6,1.2,
+INT-World Cup,2022,Portugal,Diogo Dalot,Portugal,DF,23,1999,3,258,86,57.3,2.9,3,86,2,0,,2,1.0,7,4,3,1.05,-0.36
+INT-World Cup,2022,Portugal,Gonçalo Ramos,Portugal,FW,20,2001,4,152,38,33.8,1.7,2,70,0,2,6,1,2.25,6,3,3,1.78,0.87
+INT-World Cup,2022,Portugal,José Sá,Portugal,GK,29,1993,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Portugal,João Cancelo,Portugal,DF,28,1994,4,310,78,68.9,3.4,3,90,3,1,40,1,1.5,6,4,2,0.58,-1.99
+INT-World Cup,2022,Portugal,João Félix,Portugal,FW,22,1999,4,331,83,73.6,3.7,4,83,1,0,,1,2.25,9,3,6,1.63,1.63
+INT-World Cup,2022,Portugal,João Mário,Portugal,MF,29,1993,2,84,42,18.7,0.9,1,81,0,1,3,3,1.5,1,2,-1,-1.07,-2.79
+INT-World Cup,2022,Portugal,João Palhinha,Portugal,MF,26,1995,3,38,13,8.4,0.4,0,,0,3,13,2,2.0,1,2,-1,-2.37,-3.9
+INT-World Cup,2022,Portugal,Matheus Nunes,Portugal,MF,23,1998,2,73,37,16.2,0.8,1,64,0,1,9,3,1.5,2,1,1,1.23,0.04
+INT-World Cup,2022,Portugal,Nuno Mendes,Portugal,DF,19,2002,1,41,41,9.1,0.5,1,41,0,0,,0,3.0,0,0,0,0.0,-1.32
+INT-World Cup,2022,Portugal,Otávio,Portugal,MF,27,1995,3,196,65,43.6,2.2,3,65,0,0,,0,2.0,5,2,3,1.38,0.31
+INT-World Cup,2022,Portugal,Pepe,Portugal,DF,39,1983,4,360,90,80.0,4.0,4,90,4,0,,1,1.5,9,4,5,1.25,0.25
+INT-World Cup,2022,Portugal,Rafael Leão,Portugal,"FW,MF",23,1999,5,88,18,19.6,1.0,0,,0,5,18,0,1.8,4,2,2,2.05,1.05
+INT-World Cup,2022,Portugal,Raphaël Guerreiro,Portugal,DF,28,1993,4,279,70,62.0,3.1,3,77,2,1,49,1,2.25,11,4,7,2.26,2.78
+INT-World Cup,2022,Portugal,Ricardo Horta,Portugal,FW,27,1994,3,119,40,26.4,1.3,1,90,1,2,15,2,1.0,2,2,0,0.0,-1.63
+INT-World Cup,2022,Portugal,Rui Patrício,Portugal,GK,34,1988,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2022,Portugal,Rúben Dias,Portugal,DF,25,1997,4,360,90,80.0,4.0,4,90,4,0,,1,2.25,11,4,7,1.75,2.75
+INT-World Cup,2022,Portugal,Rúben Neves,Portugal,MF,25,1997,5,268,54,59.6,3.0,4,65,0,1,10,0,1.8,4,3,1,0.34,-2.14
+INT-World Cup,2022,Portugal,Vitinha,Portugal,FW,22,2000,3,120,40,26.7,1.3,1,81,0,2,20,2,1.0,2,1,1,0.75,-0.61
+INT-World Cup,2022,Portugal,William Carvalho,Portugal,MF,30,1992,4,215,54,47.8,2.4,2,86,1,2,22,1,2.25,10,4,6,2.51,2.51
+INT-World Cup,2022,Qatar,Abdelkarim Hassan,Qatar,DF,28,1993,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,1,7,-6,-2.0,
+INT-World Cup,2022,Qatar,Abdulaziz Hatem,Qatar,MF,32,1990,3,196,65,72.6,2.2,2,87,1,1,22,0,0.0,1,5,-4,-1.84,0.6
+INT-World Cup,2022,Qatar,Ahmed Alaaeldin,Qatar,FW,29,1993,1,6,6,2.2,0.1,0,,0,1,6,2,0.0,0,0,0,0.0,2.05
+INT-World Cup,2022,Qatar,Akram Afif,Qatar,FW,25,1996,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,1,7,-6,-2.0,
+INT-World Cup,2022,Qatar,Ali Assadalla,Qatar,"FW,MF",29,1993,1,27,27,10.0,0.3,0,,0,1,27,2,0.0,0,0,0,0.0,2.22
+INT-World Cup,2022,Qatar,Almoez Ali,Qatar,FW,25,1996,3,224,75,83.0,2.5,3,75,1,0,,0,0.0,1,7,-6,-2.41,-2.41
+INT-World Cup,2022,Qatar,Assim Madibo,Qatar,MF,25,1996,2,153,77,56.7,1.7,2,77,1,0,,1,0.0,1,5,-4,-2.35,-0.81
+INT-World Cup,2022,Qatar,Bassam Al-Rawi,Qatar,DF,24,1997,1,90,90,33.3,1.0,1,90,1,0,,0,0.0,0,2,-2,-2.0,0.0
+INT-World Cup,2022,Qatar,Boualem Khoukhi,Qatar,DF,31,1990,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,1,7,-6,-2.0,
+INT-World Cup,2022,Qatar,Hassan Al-Haydos,Qatar,MF,31,1990,3,206,69,76.3,2.3,3,69,0,0,,0,0.0,0,6,-6,-2.62,-2.62
+INT-World Cup,2022,Qatar,Homam Ahmed,Qatar,"DF,MF",22,1999,3,262,87,97.0,2.9,3,87,2,0,,0,0.0,1,6,-5,-1.72,9.53
+INT-World Cup,2022,Qatar,Ismaeel Mohammad,Qatar,DF,32,1990,2,174,87,64.4,1.9,2,87,1,0,,1,0.0,1,5,-4,-2.07,-0.19
+INT-World Cup,2022,Qatar,Jassem Gaber,Qatar,MF,20,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Qatar,Karim Boudiaf,Qatar,MF,31,1990,3,185,62,68.5,2.1,2,79,1,1,27,0,0.0,0,4,-4,-1.95,0.17
+INT-World Cup,2022,Qatar,Khalid Muneer,Qatar,FW,24,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Qatar,Meshaal Barsham,Qatar,GK,24,1998,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,1,5,-4,-2.0,0.0
+INT-World Cup,2022,Qatar,Mohammed Muntari,Qatar,FW,28,1993,3,63,21,23.3,0.7,0,,0,3,21,0,0.0,1,1,0,0.0,2.61
+INT-World Cup,2022,Qatar,Mohammed Waad,Qatar,MF,22,1999,2,28,14,10.4,0.3,0,,0,2,14,1,0.0,0,1,-1,-3.21,-1.35
+INT-World Cup,2022,Qatar,Mostafa Meshaal,Qatar,MF,21,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Qatar,Musab Kheder,Qatar,DF,28,1993,1,6,6,2.2,0.1,0,,0,1,6,2,0.0,0,0,0,0.0,2.05
+INT-World Cup,2022,Qatar,Naif Al-Hadhrami,Qatar,MF,20,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Qatar,Ró-Ró,Qatar,"DF,MF",31,1990,3,262,87,97.0,2.9,3,87,2,0,,0,0.0,1,6,-5,-1.72,9.53
+INT-World Cup,2022,Qatar,Saad Al Sheeb,Qatar,GK,32,1990,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,2,-2,-2.0,0.0
+INT-World Cup,2022,Qatar,Salem Al-Hajri,Qatar,MF,26,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Qatar,Tarek Salman,Qatar,"DF,MF",24,1997,1,8,8,3.0,0.1,0,,0,1,8,2,0.0,0,1,-1,-11.25,-9.53
+INT-World Cup,2022,Qatar,Yousef Hassan,Qatar,GK,26,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Saudi Arabia,Abdulelah Al-Amri,Saudi Arabia,DF,25,1997,3,182,61,67.4,2.0,2,90,2,1,2,0,1.0,1,4,-3,-1.48,-2.51
+INT-World Cup,2022,Saudi Arabia,Abdulellah Al-Malki,Saudi Arabia,MF,27,1994,2,174,87,64.4,1.9,2,87,1,0,,0,1.5,2,3,-1,-0.52,0.42
+INT-World Cup,2022,Saudi Arabia,Abdullah Madu,Saudi Arabia,DF,28,1993,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,1,2,-1,-2.0,-1.6
+INT-World Cup,2022,Saudi Arabia,Abdullah Otayf,Saudi Arabia,MF,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Saudi Arabia,Abdulrahman Al-Aboud,Saudi Arabia,MF,27,1995,2,35,18,13.0,0.4,0,,0,2,18,1,0.0,1,0,1,2.57,3.72
+INT-World Cup,2022,Saudi Arabia,Ali Al Hassan,Saudi Arabia,MF,25,1997,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,0,0,0,0.0,0.8
+INT-World Cup,2022,Saudi Arabia,Ali Al-Bulaihi,Saudi Arabia,DF,32,1989,3,216,72,80.0,2.4,3,72,2,0,,0,1.0,2,3,-1,-0.42,1.25
+INT-World Cup,2022,Saudi Arabia,Asiri Haitham,Saudi Arabia,FW,21,2001,1,2,2,0.7,0.0,0,,0,1,2,2,3.0,0,0,0,0.0,0.67
+INT-World Cup,2022,Saudi Arabia,Firas Al-Buraikan,Saudi Arabia,FW,22,2000,3,268,89,99.3,3.0,3,89,2,0,,0,1.0,3,5,-2,-0.67,-0.67
+INT-World Cup,2022,Saudi Arabia,Hassan Al Tambakti,Saudi Arabia,DF,23,1999,2,180,90,66.7,2.0,2,90,2,0,,1,1.5,3,3,0,0.0,2.0
+INT-World Cup,2022,Saudi Arabia,Hattan Bahebri,Saudi Arabia,"FW,MF",29,1992,2,4,2,1.5,0.0,0,,0,2,2,1,0.0,1,0,1,22.5,23.52
+INT-World Cup,2022,Saudi Arabia,Mohamed Kanno,Saudi Arabia,MF,27,1994,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2022,Saudi Arabia,Mohammed Al Yami,Saudi Arabia,GK,24,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Saudi Arabia,Mohammed Al-Breik,Saudi Arabia,DF,29,1992,2,65,33,24.1,0.7,1,64,0,1,1,0,1.5,0,1,-1,-1.38,-0.95
+INT-World Cup,2022,Saudi Arabia,Mohammed Al-Owais,Saudi Arabia,GK,30,1991,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2022,Saudi Arabia,Nasser Al-Dawsari,Saudi Arabia,"DF,MF",23,1998,1,5,5,1.9,0.1,0,,0,1,5,2,0.0,0,0,0,0.0,0.68
+INT-World Cup,2022,Saudi Arabia,Nawaf Al Abed,Saudi Arabia,"FW,MF",32,1990,2,88,44,32.6,1.0,0,,0,2,44,1,1.5,2,1,1,1.02,2.51
+INT-World Cup,2022,Saudi Arabia,Nawaf Al Aqidi,Saudi Arabia,GK,22,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Saudi Arabia,Riyadh Sharahili,Saudi Arabia,MF,29,1993,1,54,54,20.0,0.6,0,,0,1,54,0,0.0,1,2,-1,-1.67,-1.25
+INT-World Cup,2022,Saudi Arabia,Saleh Al-Shehri,Saudi Arabia,FW,28,1993,3,223,74,82.6,2.5,3,74,0,0,,0,1.0,2,5,-3,-1.21,-3.13
+INT-World Cup,2022,Saudi Arabia,Salem Al-Dawsari,Saudi Arabia,FW,30,1991,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2022,Saudi Arabia,Salman Al-Faraj,Saudi Arabia,MF,32,1989,1,44,44,16.3,0.5,1,44,0,0,,0,3.0,0,1,-1,-2.05,-1.65
+INT-World Cup,2022,Saudi Arabia,Sami Al-Najei,Saudi Arabia,MF,25,1997,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,0,1,-1,-2.0,-1.6
+INT-World Cup,2022,Saudi Arabia,Saud Abdulhamid,Saudi Arabia,"DF,MF",22,1999,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2022,Saudi Arabia,Sultan Al-Ghanam,Saudi Arabia,DF,28,1994,3,126,42,46.7,1.4,1,87,0,2,20,0,1.0,0,3,-3,-2.14,-2.77
+INT-World Cup,2022,Saudi Arabia,Yasser Al-Shahrani,Saudi Arabia,DF,30,1992,1,89,89,33.0,1.0,1,89,0,0,,0,3.0,2,1,1,1.01,2.5
+INT-World Cup,2022,Senegal,Abdou Diallo,Senegal,DF,26,1996,4,331,83,91.9,3.7,4,83,3,0,,0,1.5,5,5,0,0.0,6.21
+INT-World Cup,2022,Senegal,Alfred Gomis,Senegal,GK,28,1993,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Bamba Dieng,Senegal,FW,22,2000,4,100,25,27.8,1.1,0,,0,4,25,0,1.5,1,4,-3,-2.7,-3.05
+INT-World Cup,2022,Senegal,Boulaye Dia,Senegal,"FW,MF",25,1996,4,318,80,88.3,3.5,4,80,1,0,,0,1.5,5,5,0,0.0,4.29
+INT-World Cup,2022,Senegal,Cheikhou Kouyaté,Senegal,MF,32,1989,1,72,72,20.0,0.8,1,72,0,0,,0,0.0,0,0,0,0.0,0.62
+INT-World Cup,2022,Senegal,Famara Diedhiou,Senegal,FW,29,1992,2,92,46,25.6,1.0,1,73,0,1,19,2,1.5,2,0,2,1.96,3.3
+INT-World Cup,2022,Senegal,Fodé Ballo-Touré,Senegal,"DF,MF",25,1997,1,7,7,1.9,0.1,0,,0,1,7,1,0.0,0,0,0,0.0,0.51
+INT-World Cup,2022,Senegal,Formose Mendy,Senegal,DF,21,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Idrissa Gueye,Senegal,MF,32,1989,3,270,90,75.0,3.0,3,90,3,0,,0,2.0,5,4,1,0.33,3.33
+INT-World Cup,2022,Senegal,Iliman Ndiaye,Senegal,"MF,FW",22,2000,3,135,45,37.5,1.5,2,60,0,1,16,1,2.0,3,4,-1,-0.67,-0.27
+INT-World Cup,2022,Senegal,Ismail Jakobs,Senegal,DF,22,1999,4,278,70,77.2,3.1,3,83,1,1,29,0,1.5,4,6,-2,-0.65,-0.65
+INT-World Cup,2022,Senegal,Ismaila Sarr,Senegal,"MF,FW",24,1998,4,344,86,95.6,3.8,4,86,3,0,,0,1.5,4,6,-2,-0.52,-0.52
+INT-World Cup,2022,Senegal,Kalidou Koulibaly,Senegal,DF,30,1991,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,7,-2,-0.5,
+INT-World Cup,2022,Senegal,Krépin Diatta,Senegal,"MF,FW",23,1999,3,181,60,50.3,2.0,3,60,0,0,,1,1.0,2,2,0,0.0,1.01
+INT-World Cup,2022,Senegal,Mamadou Loum,Senegal,"DF,MF",25,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Moussa N'Diaye,Senegal,DF,19,2002,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Moustapha Name,Senegal,MF,27,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Nampalys Mendy,Senegal,MF,29,1992,4,272,68,75.6,3.0,3,85,2,1,16,0,1.5,2,5,-3,-0.99,-2.02
+INT-World Cup,2022,Senegal,Nicolas Jackson,Senegal,FW,20,2001,1,17,17,4.7,0.2,0,,0,1,17,3,0.0,0,2,-2,-10.59,-10.59
+INT-World Cup,2022,Senegal,Pape Abou Cissé,Senegal,DF,26,1995,3,105,35,29.2,1.2,1,90,1,2,8,1,2.0,1,3,-2,-1.71,-1.71
+INT-World Cup,2022,Senegal,Pape Gueye,Senegal,MF,23,1999,3,153,51,42.5,1.7,1,90,1,2,32,1,1.0,2,4,-2,-1.18,-1.18
+INT-World Cup,2022,Senegal,Pape Matar Sarr,Senegal,MF,19,2002,2,59,30,16.4,0.7,0,,0,2,30,2,1.5,1,2,-1,-1.53,-1.23
+INT-World Cup,2022,Senegal,Pathé Ciss,Senegal,MF,28,1994,3,146,49,40.6,1.6,2,60,0,1,27,1,2.0,3,4,-1,-0.62,-0.2
+INT-World Cup,2022,Senegal,Seny Dieng,Senegal,GK,27,1994,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Senegal,Youssouf Sabaly,Senegal,DF,29,1993,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,7,-2,-0.5,
+INT-World Cup,2022,Senegal,Édouard Mendy,Senegal,GK,30,1992,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,7,-2,-0.5,
+INT-World Cup,2022,Serbia,Aleksandar Mitrović,Serbia,FW,27,1994,3,262,87,97.0,2.9,3,87,2,0,,0,0.33,5,8,-3,-1.03,-1.03
+INT-World Cup,2022,Serbia,Andrija Živković,Serbia,MF,25,1996,3,210,70,77.8,2.3,3,70,0,0,,0,0.33,5,6,-1,-0.43,2.57
+INT-World Cup,2022,Serbia,Darko Lazović,Serbia,MF,31,1990,1,25,25,9.3,0.3,0,,0,1,25,2,0.0,0,1,-1,-3.6,-2.87
+INT-World Cup,2022,Serbia,Dušan Tadić,Serbia,"MF,FW",33,1988,3,257,86,95.2,2.9,3,86,2,0,,0,0.33,5,8,-3,-1.05,-1.05
+INT-World Cup,2022,Serbia,Dušan Vlahović,Serbia,FW,22,2000,2,79,40,29.3,0.9,1,54,0,1,25,1,0.0,2,4,-2,-2.28,-1.81
+INT-World Cup,2022,Serbia,Filip Kostić,Serbia,MF,29,1992,2,179,90,66.3,2.0,2,90,1,0,,1,0.5,5,6,-1,-0.5,1.48
+INT-World Cup,2022,Serbia,Filip Mladenović,Serbia,MF,30,1991,1,65,65,24.1,0.7,1,65,0,0,,2,0.0,0,1,-1,-1.38,-0.51
+INT-World Cup,2022,Serbia,Filip Đuričić,Serbia,"FW,MF",30,1992,2,14,7,5.2,0.2,0,,0,2,7,1,0.5,0,0,0,0.0,1.05
+INT-World Cup,2022,Serbia,Ivan Ilić,Serbia,MF,21,2001,1,34,34,12.6,0.4,0,,0,1,34,2,0.0,0,2,-2,-5.29,-4.91
+INT-World Cup,2022,Serbia,Luka Jović,Serbia,FW,24,1997,1,36,36,13.3,0.4,0,,0,1,36,1,0.5,3,3,0,0.0,1.15
+INT-World Cup,2022,Serbia,Marko Dmitrović,Serbia,GK,30,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Serbia,Marko Grujić,Serbia,MF,26,1996,1,13,13,4.8,0.1,0,,0,1,13,2,1.0,0,0,0,0.0,1.05
+INT-World Cup,2022,Serbia,Miloš Veljković,Serbia,DF,26,1995,3,221,74,81.9,2.5,3,74,1,0,,0,0.33,5,8,-3,-1.22,-1.22
+INT-World Cup,2022,Serbia,Nemanja Gudelj,Serbia,MF,30,1991,2,92,46,34.1,1.0,1,56,0,1,36,1,0.0,0,0,0,0.0,1.52
+INT-World Cup,2022,Serbia,Nemanja Maksimović,Serbia,MF,27,1995,3,122,41,45.2,1.4,1,90,1,2,16,0,0.33,3,3,0,0.0,1.82
+INT-World Cup,2022,Serbia,Nemanja Radonjić,Serbia,"FW,MF",26,1996,3,60,20,22.2,0.7,0,,0,3,20,0,0.33,0,2,-2,-3.0,-2.57
+INT-World Cup,2022,Serbia,Nikola Milenković,Serbia,DF,24,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,5,8,-3,-1.0,
+INT-World Cup,2022,Serbia,Predrag Rajković,Serbia,GK,26,1995,0,,,0.0,0.0,0,,0,0,,2,0.0,2,3,-1,,
+INT-World Cup,2022,Serbia,Saša Lukić,Serbia,MF,25,1996,3,245,82,90.7,2.7,3,82,2,0,,0,0.33,5,7,-2,-0.73,2.87
+INT-World Cup,2022,Serbia,Sergej Milinković-Savić,Serbia,"MF,FW",27,1995,3,233,78,86.3,2.6,3,78,1,0,,0,0.33,5,8,-3,-1.16,-1.16
+INT-World Cup,2022,Serbia,Srđan Babić,Serbia,DF,26,1996,1,13,13,4.8,0.1,0,,0,1,13,2,1.0,0,0,0,0.0,1.05
+INT-World Cup,2022,Serbia,Stefan Mitrović,Serbia,DF,32,1990,1,35,35,13.0,0.4,0,,0,1,35,2,1.0,0,2,-2,-5.14,-4.76
+INT-World Cup,2022,Serbia,Strahinja Eraković,Serbia,DF,21,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Serbia,Strahinja Pavlović,Serbia,DF,21,2001,3,235,78,87.0,2.6,3,78,2,0,,0,0.33,5,6,-1,-0.38,4.76
+INT-World Cup,2022,Serbia,Uroš Račić,Serbia,MF,24,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Serbia,Vanja Milinković-Savić,Serbia,GK,25,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,5,8,-3,-1.0,
+INT-World Cup,2022,Spain,Alejandro Balde,Spain,DF,18,2003,4,126,32,32.3,1.4,1,67,0,3,20,0,1.25,4,3,1,0.71,-0.99
+INT-World Cup,2022,Spain,Ansu Fati,Spain,"FW,MF",19,2002,2,46,23,11.8,0.5,0,,0,2,23,2,0.5,0,0,0,0.0,-1.57
+INT-World Cup,2022,Spain,Aymeric Laporte,Spain,DF,28,1994,3,300,100,76.9,3.3,3,100,3,0,,1,1.67,8,1,7,2.1,3.1
+INT-World Cup,2022,Spain,Carlos Soler,Spain,MF,25,1997,2,92,46,23.6,1.0,0,,0,2,46,2,2.0,3,0,3,2.93,2.03
+INT-World Cup,2022,Spain,César Azpilicueta,Spain,DF,32,1989,2,135,68,34.6,1.5,2,68,1,0,,2,1.5,8,0,8,5.33,6.04
+INT-World Cup,2022,Spain,Dani Carvajal,Spain,DF,30,1992,2,135,68,34.6,1.5,1,90,1,1,45,2,0.5,1,3,-2,-1.33,-4.16
+INT-World Cup,2022,Spain,Dani Olmo,Spain,FW,24,1998,4,367,92,94.1,4.1,4,92,3,0,,0,1.25,9,3,6,1.47,1.47
+INT-World Cup,2022,Spain,David Raya,Spain,GK,26,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Spain,Eric García,Spain,"DF,MF",21,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Spain,Ferrán Torres,Spain,FW,22,2000,4,217,54,55.6,2.4,3,61,0,1,34,0,1.25,4,0,4,1.66,0.62
+INT-World Cup,2022,Spain,Gavi,Spain,MF,17,2004,4,284,71,72.8,3.2,4,71,1,0,,0,1.25,9,2,7,2.22,3.07
+INT-World Cup,2022,Spain,Hugo Guillamón,Spain,"DF,MF",22,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Spain,Jordi Alba,Spain,DF,33,1989,4,264,66,67.7,2.9,3,80,0,1,23,0,1.25,5,0,5,1.7,0.99
+INT-World Cup,2022,Spain,Koke,Spain,MF,30,1992,2,52,26,13.3,0.6,0,,0,2,26,2,2.0,3,1,2,3.46,2.4
+INT-World Cup,2022,Spain,Marco Asensio,Spain,FW,26,1996,4,229,57,58.7,2.5,3,65,0,1,34,0,1.25,5,0,5,1.97,1.41
+INT-World Cup,2022,Spain,Marcos Llorente,Spain,DF,27,1995,1,120,120,30.8,1.3,1,120,1,0,,3,1.0,0,0,0,0.0,-2.0
+INT-World Cup,2022,Spain,Nico Williams,Spain,FW,19,2002,4,146,37,37.4,1.6,1,56,0,3,30,0,1.25,4,3,1,0.62,-1.23
+INT-World Cup,2022,Spain,Pablo Sarabia,Spain,"FW,MF",30,1992,1,3,3,0.8,0.0,0,,0,1,3,3,1.0,0,0,0,0.0,-1.4
+INT-World Cup,2022,Spain,Pau Torres,Spain,DF,25,1997,1,90,90,23.1,1.0,1,90,1,0,,3,0.0,1,2,-1,-1.0,-3.1
+INT-World Cup,2022,Spain,Pedri,Spain,MF,19,2002,4,356,89,91.3,4.0,4,89,3,0,,0,1.25,6,3,3,0.76,-7.18
+INT-World Cup,2022,Spain,Robert Sánchez,Spain,GK,24,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Spain,Rodri,Spain,DF,25,1996,4,390,98,100.0,4.3,4,98,4,0,,0,1.25,9,3,6,1.38,
+INT-World Cup,2022,Spain,Sergio Busquets,Spain,MF,33,1988,4,363,91,93.1,4.0,4,91,3,0,,0,1.25,6,3,3,0.74,-9.26
+INT-World Cup,2022,Spain,Unai Simón,Spain,GK,25,1997,4,390,98,100.0,4.3,4,98,4,0,,0,1.25,9,3,6,1.38,
+INT-World Cup,2022,Spain,Yéremy Pino,Spain,"FW,MF",19,2002,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Spain,Álvaro Morata,Spain,FW,29,1992,4,185,46,47.4,2.1,1,56,0,3,43,0,1.25,5,3,2,0.97,-0.78
+INT-World Cup,2022,Switzerland,Ardon Jashari,Switzerland,MF,19,2002,1,2,2,0.6,0.0,0,,0,1,2,3,0.0,0,1,-1,-45.0,-44.25
+INT-World Cup,2022,Switzerland,Breel Embolo,Switzerland,FW,25,1997,4,323,81,89.7,3.6,4,81,0,0,,0,1.5,5,7,-2,-0.56,4.31
+INT-World Cup,2022,Switzerland,Christian Fassnacht,Switzerland,"FW,MF",28,1993,1,8,8,2.2,0.1,0,,0,1,8,3,3.0,0,0,0,0.0,1.02
+INT-World Cup,2022,Switzerland,Denis Zakaria,Switzerland,"DF,MF",25,1996,2,59,30,16.4,0.7,0,,0,2,30,2,1.5,1,3,-2,-3.05,-2.45
+INT-World Cup,2022,Switzerland,Djibril Sow,Switzerland,MF,25,1997,4,264,66,73.3,2.9,4,66,0,0,,0,1.5,4,5,-1,-0.34,2.47
+INT-World Cup,2022,Switzerland,Edimilson Fernandes,Switzerland,MF,26,1996,3,145,48,40.3,1.6,1,90,1,2,28,1,1.0,1,7,-6,-3.72,-4.56
+INT-World Cup,2022,Switzerland,Eray Cömert,Switzerland,DF,24,1998,2,46,23,12.8,0.5,0,,0,2,23,2,1.5,1,4,-3,-5.87,-5.58
+INT-World Cup,2022,Switzerland,Fabian Frei,Switzerland,"DF,MF",33,1989,2,25,13,6.9,0.3,0,,0,2,13,2,1.5,0,0,0,0.0,1.07
+INT-World Cup,2022,Switzerland,Fabian Rieder,Switzerland,MF,20,2002,2,68,34,18.9,0.8,1,58,0,1,10,2,1.5,0,0,0,0.0,1.23
+INT-World Cup,2022,Switzerland,Fabian Schär,Switzerland,DF,30,1991,2,135,68,37.5,1.5,2,68,1,0,,2,1.5,3,4,-1,-0.67,0.53
+INT-World Cup,2022,Switzerland,Granit Xhaka,Switzerland,MF,29,1992,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,9,-4,-1.0,
+INT-World Cup,2022,Switzerland,Gregor Kobel,Switzerland,GK,24,1997,1,90,90,25.0,1.0,1,90,1,0,,3,3.0,3,2,1,1.0,2.67
+INT-World Cup,2022,Switzerland,Haris Seferović,Switzerland,FW,30,1992,3,71,24,19.7,0.8,0,,0,3,24,1,1.0,1,4,-3,-3.8,-3.49
+INT-World Cup,2022,Switzerland,Jonas Omlin,Switzerland,GK,28,1994,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,Switzerland,Manuel Akanji,Switzerland,DF,26,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,9,-4,-1.0,
+INT-World Cup,2022,Switzerland,Michel Aebischer,Switzerland,MF,25,1997,1,16,16,4.4,0.2,0,,0,1,16,3,0.0,0,1,-1,-5.63,-4.84
+INT-World Cup,2022,Switzerland,Nico Elvedi,Switzerland,DF,25,1996,2,180,90,50.0,2.0,2,90,2,0,,1,1.5,1,1,0,0.0,2.0
+INT-World Cup,2022,Switzerland,Noah Okafor,Switzerland,"FW,MF",22,2000,3,45,15,12.5,0.5,0,,0,3,15,0,2.0,0,2,-2,-4.0,-3.43
+INT-World Cup,2022,Switzerland,Philipp Köhn,Switzerland,GK,24,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Switzerland,Remo Freuler,Switzerland,MF,30,1992,4,323,81,89.7,3.6,4,81,3,0,,0,1.5,4,6,-2,-0.56,4.31
+INT-World Cup,2022,Switzerland,Renato Steffen,Switzerland,"FW,MF",30,1991,1,32,32,8.9,0.4,0,,0,1,32,2,0.0,0,1,-1,-2.81,-1.99
+INT-World Cup,2022,Switzerland,Ricardo Rodríguez,Switzerland,DF,29,1992,4,359,90,99.7,4.0,4,90,3,0,,0,1.5,5,9,-4,-1.0,-1.0
+INT-World Cup,2022,Switzerland,Ruben Vargas,Switzerland,"MF,FW",23,1998,4,285,71,79.2,3.2,4,71,0,0,,0,1.5,5,6,-1,-0.32,3.28
+INT-World Cup,2022,Switzerland,Silvan Widmer,Switzerland,DF,29,1993,3,265,88,73.6,2.9,3,88,2,0,,0,2.0,4,3,1,0.34,5.08
+INT-World Cup,2022,Switzerland,Xherdan Shaqiri,Switzerland,"FW,MF",30,1991,3,229,76,63.6,2.5,3,76,1,0,,1,2.0,5,8,-3,-1.18,-0.49
+INT-World Cup,2022,Switzerland,Yann Sommer,Switzerland,GK,33,1988,3,270,90,75.0,3.0,3,90,3,0,,0,1.0,2,7,-5,-1.67,-2.67
+INT-World Cup,2022,Tunisia,Ali Abdi,Tunisia,MF,28,1993,3,188,63,69.6,2.1,2,90,2,1,8,0,1.33,0,1,-1,-0.48,-1.58
+INT-World Cup,2022,Tunisia,Ali Maâloul,Tunisia,MF,32,1990,1,90,90,33.3,1.0,1,90,1,0,,2,3.0,1,0,1,1.0,1.5
+INT-World Cup,2022,Tunisia,Anis Ben Slimane,Tunisia,FW,21,2001,2,148,74,54.8,1.6,2,74,0,0,,1,2.0,1,0,1,0.61,1.35
+INT-World Cup,2022,Tunisia,Aymen Dahmen,Tunisia,GK,25,1997,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,1,0,0.0,
+INT-World Cup,2022,Tunisia,Aymen Mathlouthi,Tunisia,GK,37,1984,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Tunisia,Aïssa Laïdouni,Tunisia,MF,25,1996,3,243,81,90.0,2.7,3,81,1,0,,0,1.33,1,1,0,0.0,0.0
+INT-World Cup,2022,Tunisia,Bechir Ben Said,Tunisia,GK,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Tunisia,Bilel Ifa,Tunisia,DF,32,1990,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Tunisia,Dylan Bronn,Tunisia,DF,26,1995,2,162,81,60.0,1.8,2,81,1,0,,1,0.5,0,1,-1,-0.56,-1.39
+INT-World Cup,2022,Tunisia,Ellyes Skhiri,Tunisia,MF,27,1995,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,1,0,0.0,
+INT-World Cup,2022,Tunisia,Ferjani Sassi,Tunisia,"DF,MF",30,1992,2,48,24,17.8,0.5,0,,0,2,24,1,0.5,0,0,0,0.0,0.0
+INT-World Cup,2022,Tunisia,Ghaylène Chaalali,Tunisia,MF,28,1994,1,17,17,6.3,0.2,0,,0,1,17,2,3.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Tunisia,Hannibal Mejbri,Tunisia,MF,19,2003,1,11,11,4.1,0.1,0,,0,1,11,2,1.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Tunisia,Issam Jebali,Tunisia,FW,30,1991,3,182,61,67.4,2.0,2,76,0,1,31,0,1.33,0,1,-1,-0.49,-1.52
+INT-World Cup,2022,Tunisia,Mohamed Ali Ben Romdhane,Tunisia,FW,22,1999,1,73,73,27.0,0.8,1,73,0,0,,2,3.0,1,0,1,1.23,1.69
+INT-World Cup,2022,Tunisia,Mohamed Dräger,Tunisia,MF,25,1996,2,132,66,48.9,1.5,2,66,0,0,,1,0.5,0,1,-1,-0.68,-1.33
+INT-World Cup,2022,Tunisia,Montassar Talbi,Tunisia,DF,24,1998,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,1,0,0.0,
+INT-World Cup,2022,Tunisia,Mouez Hassen,Tunisia,GK,27,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Tunisia,Nader Ghandri,Tunisia,DF,27,1995,1,90,90,33.3,1.0,1,90,1,0,,2,3.0,1,0,1,1.0,1.5
+INT-World Cup,2022,Tunisia,Naïm Sliti,Tunisia,FW,29,1992,2,114,57,42.2,1.3,1,90,1,1,24,1,0.5,0,1,-1,-0.79,-1.37
+INT-World Cup,2022,Tunisia,Seifeddine Jaziri,Tunisia,FW,29,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Tunisia,Taha Yassine Khenissi,Tunisia,FW,30,1992,2,29,15,10.7,0.3,0,,0,2,15,1,0.5,0,0,0,0.0,0.0
+INT-World Cup,2022,Tunisia,Wahbi Khazri,Tunisia,FW,31,1991,2,83,42,30.7,0.9,1,59,0,1,24,1,1.5,1,0,1,1.08,1.57
+INT-World Cup,2022,Tunisia,Wajdi Kechrida,Tunisia,MF,26,1995,3,111,37,41.1,1.2,1,90,1,2,11,0,1.33,1,0,1,0.81,1.38
+INT-World Cup,2022,Tunisia,Yassine Meriah,Tunisia,DF,28,1993,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,1,1,0,0.0,
+INT-World Cup,2022,Tunisia,Youssef Msakni,Tunisia,FW,31,1990,2,169,85,62.6,1.9,2,85,1,0,,1,0.5,0,1,-1,-0.53,-1.42
+INT-World Cup,2022,United States,Aaron Long,United States,DF,29,1992,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,Antonee Robinson,United States,DF,24,1997,4,359,90,99.7,4.0,4,90,3,0,,0,1.25,3,4,-1,-0.25,-0.25
+INT-World Cup,2022,United States,Brenden Aaronson,United States,"FW,MF",21,2000,4,108,27,30.0,1.2,0,,0,4,27,0,1.25,1,2,-1,-0.83,-0.83
+INT-World Cup,2022,United States,Cameron Carter-Vickers,United States,DF,24,1997,1,90,90,25.0,1.0,1,90,1,0,,3,3.0,1,0,1,1.0,1.67
+INT-World Cup,2022,United States,Christian Pulisic,United States,"FW,MF",23,1998,4,315,79,87.5,3.5,4,79,3,0,,0,1.25,3,4,-1,-0.29,-0.29
+INT-World Cup,2022,United States,Cristian Roldan,United States,MF,27,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,DeAndre Yedlin,United States,"DF,MF",28,1993,2,33,17,9.2,0.4,0,,0,2,17,2,0.5,1,2,-1,-2.73,-2.73
+INT-World Cup,2022,United States,Ethan Horvath,United States,GK,27,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,Gio Reyna,United States,MF,19,2002,2,53,27,14.7,0.6,0,,0,2,27,2,0.5,1,1,0,0.0,0.29
+INT-World Cup,2022,United States,Haji Wright,United States,FW,24,1998,4,137,34,38.1,1.5,1,82,0,3,18,0,1.25,1,2,-1,-0.66,-0.66
+INT-World Cup,2022,United States,Jesús Ferreira,United States,FW,21,2000,1,45,45,12.5,0.5,1,45,0,0,,3,0.0,0,2,-2,-4.0,-4.29
+INT-World Cup,2022,United States,Joe Scally,United States,"DF,MF",19,2002,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,Jordan Morris,United States,"FW,MF",27,1994,2,4,2,1.1,0.0,0,,0,2,2,2,0.5,0,0,0,0.0,0.25
+INT-World Cup,2022,United States,Josh Sargent,United States,FW,22,2000,3,157,52,43.6,1.7,2,75,0,1,8,1,1.67,2,0,2,1.15,2.48
+INT-World Cup,2022,United States,Kellyn Acosta,United States,"DF,MF",26,1995,2,43,22,11.9,0.5,0,,0,2,22,2,2.0,0,1,-1,-2.09,-2.09
+INT-World Cup,2022,United States,Luca de la Torre,United States,MF,24,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,Matt Turner,United States,GK,27,1994,4,360,90,100.0,4.0,4,90,4,0,,0,1.25,3,4,-1,-0.25,
+INT-World Cup,2022,United States,Sean Johnson,United States,GK,33,1989,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2022,United States,Sergiño Dest,United States,DF,21,2000,4,305,76,84.7,3.4,4,76,0,0,,0,1.25,2,2,0,0.0,1.64
+INT-World Cup,2022,United States,Shaq Moore,United States,"DF,MF",25,1996,2,22,11,6.1,0.2,0,,0,2,11,2,2.0,0,0,0,0.0,0.27
+INT-World Cup,2022,United States,Tim Ream,United States,DF,34,1987,4,360,90,100.0,4.0,4,90,4,0,,0,1.25,3,4,-1,-0.25,
+INT-World Cup,2022,United States,Timothy Weah,United States,FW,22,2000,4,316,79,87.8,3.5,4,79,0,0,,0,1.25,2,3,-1,-0.28,-0.28
+INT-World Cup,2022,United States,Tyler Adams,United States,MF,23,1999,4,360,90,100.0,4.0,4,90,4,0,,0,1.25,3,4,-1,-0.25,
+INT-World Cup,2022,United States,Walker Zimmerman,United States,DF,29,1993,4,279,70,77.5,3.1,3,90,3,1,9,0,1.25,2,4,-2,-0.65,-1.76
+INT-World Cup,2022,United States,Weston McKennie,United States,MF,23,1998,4,271,68,75.3,3.0,4,68,0,0,,0,1.25,2,2,0,0.0,1.01
+INT-World Cup,2022,United States,Yunus Musah,United States,MF,19,2002,4,343,86,95.3,3.8,4,86,3,0,,0,1.25,3,3,0,0.0,5.29
+INT-World Cup,2022,Uruguay,Agustín Canobbio,Uruguay,"FW,MF",23,1998,1,11,11,4.1,0.1,0,,0,1,11,2,3.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Uruguay,Darwin Núñez,Uruguay,FW,22,1999,3,240,80,88.9,2.7,3,80,1,0,,0,1.33,2,1,1,0.37,3.37
+INT-World Cup,2022,Uruguay,Diego Godín,Uruguay,DF,36,1986,2,151,76,55.9,1.7,2,76,1,0,,1,0.5,0,1,-1,-0.6,-1.35
+INT-World Cup,2022,Uruguay,Edinson Cavani,Uruguay,FW,35,1987,3,124,41,45.9,1.4,1,72,0,2,26,0,1.33,0,1,-1,-0.73,-1.34
+INT-World Cup,2022,Uruguay,Facundo Pellistri,Uruguay,"MF,FW",20,2001,3,181,60,67.0,2.0,2,76,0,1,29,0,1.33,2,1,1,0.5,1.51
+INT-World Cup,2022,Uruguay,Facundo Torres,Uruguay,MF,22,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,Federico Valverde,Uruguay,MF,23,1998,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,2,0,0.0,
+INT-World Cup,2022,Uruguay,Fernando Muslera,Uruguay,GK,35,1986,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,Giorgian de Arrascaeta,Uruguay,MF,28,1994,2,108,54,40.0,1.2,1,79,0,1,29,1,1.5,2,1,1,0.83,1.39
+INT-World Cup,2022,Uruguay,Guillermo Varela,Uruguay,"MF,DF",29,1993,3,183,61,67.8,2.0,2,90,2,1,3,0,1.33,2,2,0,0.0,0.0
+INT-World Cup,2022,Uruguay,José Luis Rodríguez Bebanz,Uruguay,DF,25,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,José María Giménez,Uruguay,DF,27,1995,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,2,0,0.0,
+INT-World Cup,2022,Uruguay,Lucas Torreira,Uruguay,MF,26,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,Luis Suárez,Uruguay,FW,35,1987,3,146,49,54.1,1.6,2,64,0,1,18,0,1.33,2,1,1,0.62,1.34
+INT-World Cup,2022,Uruguay,Manuel Ugarte,Uruguay,MF,21,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,Martín Cáceres,Uruguay,DF,35,1987,1,90,90,33.3,1.0,1,90,1,0,,2,1.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Uruguay,Mathías Olivera,Uruguay,"DF,MF",24,1997,3,253,84,93.7,2.8,3,84,1,0,,0,1.33,2,1,1,0.36,5.65
+INT-World Cup,2022,Uruguay,Matías Vecino,Uruguay,MF,30,1991,3,195,65,72.2,2.2,2,69,0,1,57,0,1.33,0,1,-1,-0.46,-1.66
+INT-World Cup,2022,Uruguay,Matías Viña,Uruguay,"DF,MF",24,1997,2,17,9,6.3,0.2,0,,0,2,9,1,0.5,0,1,-1,-5.29,-5.65
+INT-World Cup,2022,Uruguay,Maxi Gómez,Uruguay,FW,25,1996,2,30,15,11.1,0.3,0,,0,2,15,1,1.5,0,1,-1,-3.0,-3.37
+INT-World Cup,2022,Uruguay,Nicolás De La Cruz,Uruguay,MF,25,1997,2,38,19,14.1,0.4,0,,0,2,19,1,2.0,0,0,0,0.0,0.0
+INT-World Cup,2022,Uruguay,Rodrigo Bentancur,Uruguay,MF,24,1997,3,213,71,78.9,2.4,3,71,2,0,,0,1.33,2,2,0,0.0,0.0
+INT-World Cup,2022,Uruguay,Sebastián Coates,Uruguay,DF,31,1990,2,180,90,66.7,2.0,2,90,2,0,,1,1.5,2,2,0,0.0,0.0
+INT-World Cup,2022,Uruguay,Sebastián Sosa,Uruguay,GK,35,1986,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Uruguay,Sergio Rochet,Uruguay,GK,29,1993,3,270,90,100.0,3.0,3,90,3,0,,0,1.33,2,2,0,0.0,
+INT-World Cup,2022,Wales,Aaron Ramsey,Wales,MF,31,1990,3,266,89,98.5,3.0,3,89,2,0,,0,0.33,1,4,-3,-1.02,43.98
+INT-World Cup,2022,Wales,Adam Davies,Wales,GK,29,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Ben Cabango,Wales,DF,22,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Ben Davies,Wales,DF,29,1993,3,238,79,88.1,2.6,3,79,2,0,,0,0.33,1,5,-4,-1.51,1.3
+INT-World Cup,2022,Wales,Brennan Johnson,Wales,"FW,MF",21,2001,3,91,30,33.7,1.0,0,,0,3,30,0,0.33,1,5,-4,-3.96,-3.45
+INT-World Cup,2022,Wales,Chris Gunter,Wales,"DF,MF",32,1989,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Chris Mepham,Wales,DF,24,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,6,-5,-1.67,
+INT-World Cup,2022,Wales,Connor Roberts,Wales,"MF,DF",26,1995,3,200,67,74.1,2.2,2,73,1,1,54,0,0.33,1,4,-3,-1.35,1.22
+INT-World Cup,2022,Wales,Daniel James,Wales,"MF,FW",24,1997,3,154,51,57.0,1.7,2,61,0,1,33,0,0.33,0,6,-6,-3.51,-4.28
+INT-World Cup,2022,Wales,Danny Ward,Wales,GK,28,1993,2,94,47,34.8,1.0,1,90,1,1,4,1,0.0,0,5,-5,-4.79,-4.79
+INT-World Cup,2022,Wales,Dylan Levitt,Wales,MF,21,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Ethan Ampadu,Wales,MF,21,2000,3,255,85,94.4,2.8,3,85,1,0,,0,0.33,1,4,-3,-1.06,10.94
+INT-World Cup,2022,Wales,Gareth Bale,Wales,"FW,MF",32,1989,3,225,75,83.3,2.5,3,75,2,0,,0,0.33,1,3,-2,-0.8,5.2
+INT-World Cup,2022,Wales,Harry Wilson,Wales,MF,25,1997,3,160,53,59.3,1.8,2,73,0,1,14,0,0.33,1,1,0,0.0,4.09
+INT-World Cup,2022,Wales,Joe Allen,Wales,MF,32,1990,2,94,47,34.8,1.0,1,80,0,1,14,1,0.0,0,5,-5,-4.79,-4.79
+INT-World Cup,2022,Wales,Joe Morrell,Wales,"FW,MF",25,1997,2,33,17,12.2,0.4,0,,0,2,17,1,0.5,0,1,-1,-2.73,-1.21
+INT-World Cup,2022,Wales,Joe Rodon,Wales,DF,24,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,6,-5,-1.67,
+INT-World Cup,2022,Wales,Jonny Williams,Wales,"FW,MF",28,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Kieffer Moore,Wales,FW,29,1992,3,225,75,83.3,2.5,2,90,2,1,45,0,0.33,1,5,-4,-1.6,0.4
+INT-World Cup,2022,Wales,Mark Harris,Wales,FW,23,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Matthew Smith,Wales,MF,22,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Neco Williams,Wales,"DF,MF",21,2001,3,204,68,75.6,2.3,3,68,1,0,,0,0.33,0,3,-3,-1.32,1.4
+INT-World Cup,2022,Wales,Rubin Colwill,Wales,MF,20,2002,1,10,10,3.7,0.1,0,,0,1,10,2,0.0,0,0,0,0.0,1.73
+INT-World Cup,2022,Wales,Sorba Thomas,Wales,"FW,MF",22,1999,1,1,1,0.4,0.0,0,,0,1,1,2,1.0,0,0,0,0.0,1.67
+INT-World Cup,2022,Wales,Tom Lockyer,Wales,"DF,MF",27,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2022,Wales,Wayne Hennessey,Wales,GK,35,1987,2,175,88,64.8,1.9,2,88,1,0,,0,0.5,1,1,0,0.0,4.74
