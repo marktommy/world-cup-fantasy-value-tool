@@ -52,9 +52,14 @@ def export_json() -> dict:
     }
     payload = _clean({"meta": meta, "players": df.to_dict(orient="records")})
 
+    # The output/ copy is for humans (inspection, debugging): indent=2 pretty-prints
+    # it so editors and diffs can actually read it.
     PLAYERS_JSON.parent.mkdir(parents=True, exist_ok=True)
-    PLAYERS_JSON.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+    PLAYERS_JSON.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # The frontend copy stays minified (no indent): the browser downloads this file,
+    # and whitespace would roughly double its size for no benefit.
     FRONTEND_DATA_DIR.mkdir(parents=True, exist_ok=True)
     (FRONTEND_DATA_DIR / "players.json").write_text(
         json.dumps(payload, ensure_ascii=False), encoding="utf-8")
